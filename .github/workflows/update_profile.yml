@@ -1,0 +1,41 @@
+name: Update GitHub Profile README
+
+on:
+  schedule:
+    # Run daily at midnight (UTC)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # Allow manual trigger from the GitHub Actions UI
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set Up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Automation Script
+        run: python update_profile.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are changes to commit
+          git add README.md
+          if ! git diff-index --quiet HEAD --; then
+            git commit -m "auto: update AI papers & Hugging Face trends [skip ci]"
+            git push
+          else
+            echo "No changes to commit. Profile is up to date."
+          fi

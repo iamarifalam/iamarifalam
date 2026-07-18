@@ -61,29 +61,12 @@ An advanced **AI-powered Interview Assistant** built using **React, OpenRouter A
 ---
 
 ### 🤖 Latest AI Research Papers (Auto-updates daily)
-- **[Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models](http://arxiv.org/abs/2607.15277v1)**  
-  *Published on Jul 16, 2026 | Authors: Patrik Wolf, Thomas Kleine Buening, Andreas Krause et al.*  
-
-- **[RoboTTT: Context Scaling for Robot Policies](http://arxiv.org/abs/2607.15275v1)**  
-  *Published on Jul 16, 2026 | Authors: Yunfan Jiang, Yevgen Chebotar, Ruijie Zheng et al.*  
-
-- **[MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators](http://arxiv.org/abs/2607.15273v1)**  
-  *Published on Jul 16, 2026 | Authors: Yushi Huang, Xiangxin Zhou, Jun Zhang et al.*  
-
-- **[SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions](http://arxiv.org/abs/2607.15272v1)**  
-  *Published on Jul 16, 2026 | Authors: Yasheng Sun, Zezi Zeng, Yifan Yang et al.*  
-
-- **[Online Neural Space Time Memory for Dynamic Novel View Synthesis](http://arxiv.org/abs/2607.15271v1)**  
-  *Published on Jul 16, 2026 | Authors: Baback Elmieh, Lynn Tsai, Zeman Li et al.*
+{{LATEST_ARXIV_PAPERS}}
 
 ---
 
 ### 🔥 Trending on Hugging Face (Auto-updates daily)
-- **[thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling)** (Model) (1005 ❤️)  
-- **[prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf)** (Model) (702 ❤️)  
-- **[prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf)** (Model) (415 ❤️)  
-- **[zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)** (Model) (4098 ❤️)  
-- **[empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)** (Model) (2286 ❤️)
+{{TRENDING_HF_MODELS}}
 
 ---
 
@@ -101,5 +84,5 @@ An advanced **AI-powered Interview Assistant** built using **React, OpenRouter A
 ---
 
 <p align="center">
-  <sub>Last updated: <i>2026-07-18 17:21:23 UTC</i> via automated GitHub Actions pipeline.</sub>
+  <sub>Last updated: <i>{{LAST_UPDATED}}</i> via automated GitHub Actions pipeline.</sub>
 </p>
