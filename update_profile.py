@@ -24,6 +24,7 @@ def fetch_arxiv_papers():
         for entry in root.findall('atom:entry', ns):
             title = entry.find('atom:title', ns).text
             title = re.sub(r'\s+', ' ', title).strip() # Clean newlines and double spaces
+            title = title.replace('–', '-').replace('—', '-') # Replace en and em dashes with normal hyphens
             
             published_str = entry.find('atom:published', ns).text
             published_dt = datetime.strptime(published_str[:10], "%Y-%m-%d")
@@ -106,7 +107,7 @@ def generate_readme():
     if trending:
         trending_md = ""
         for item in trending:
-            likes_str = f" ({item['likes']} ❤️)" if item['likes'] > 0 else ""
+            likes_str = f" ({item['likes']} likes)" if item['likes'] > 0 else ""
             trending_md += f"- **[{item['name']}]({item['url']})** ({item['type']}){likes_str}  \n"
     else:
         trending_md = "_Failed to fetch Hugging Face trending items today. Checking back soon!_\n"
