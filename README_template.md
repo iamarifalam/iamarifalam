@@ -27,7 +27,7 @@
 ---
 
 ## 🕹️ Interactive Web Portfolio & AI Lab
-👉 **[Open my Live Web Portfolio & Play the Visual Node Sandbox](https://iamarifalam.github.io/)** (Once hosted)  
+👉 **[Open my Live Web Portfolio & Play the Visual Node Sandbox](https://iamarifalam.github.io/iamarifalam/)** (Once hosted)  
 > *Prefer a fully visual drag-and-drop workspace? Check out the **Interactive AI Lab** on my website to construct, edit, and test complex multi-agent LangGraph pipelines directly in your browser with real-time glowing data flows and execution logs!*
 
 ---
@@ -129,7 +129,7 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 🛑 **Factual Hallucination Audit Failed!**
 - **Log**: The LLM Generator attempted to write a pricing sheet response using raw weights without retrieving facts from the database.
 - **Audit Result**: Factual Hallucination.
-- **Resolution**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [try our visual sandbox with interactive canvas lines](https://iamarifalam.github.io/).
+- **Resolution**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [try our visual sandbox with interactive canvas lines](https://iamarifalam.github.io/iamarifalam/).
 
 ---
 
@@ -146,7 +146,7 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 🛑 **PII Leak & Safety Audit Failed!**
 - **Log**: The database context was piped directly to the output response without evaluation or text formatting. Raw internal databases details were exposed.
 - **Audit Result**: Security Violation / Privacy Leak.
-- **Resolution**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [try our visual sandbox with interactive canvas lines](https://iamarifalam.github.io/).
+- **Resolution**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [try our visual sandbox with interactive canvas lines](https://iamarifalam.github.io/iamarifalam/).
 
 ---
 
@@ -163,7 +163,7 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 🛑 **Compliance Audit Failed!**
 - **Log**: Output text was delivered directly to the user without checking for prompt injections, hate speech, or hallucination alignment.
 - **Audit Result**: Compliance Risk / Safety Violation.
-- **Resolution**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [try our visual sandbox with interactive canvas lines](https://iamarifalam.github.io/).
+- **Resolution**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [try our visual sandbox with interactive canvas lines](https://iamarifalam.github.io/iamarifalam/).
 
 ---
 
@@ -178,7 +178,7 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 🏆 **Challenge Cleared! Agent Workflow Executed Safely!**
 - **Execution Pipeline**: `[User Input] ➔ [Vector DB (RAG)] ➔ [LLM Gen] ➔ [Safety Guardrail] ➔ [Response Output]`
 - **Status**: Factual correctness 100%, Safety Audit Passed, Delivery Success.
-- **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
+- **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/iamarifalam/) to drag and link customized agent pipelines!
 
 ---
 *Last updated: {{LAST_UPDATED}} via automated CI/CD pipeline.*
