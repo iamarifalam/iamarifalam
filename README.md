@@ -61,11 +61,11 @@ Below are the latest research papers fetched dynamically from arXiv (in categori
 ### Trending Machine Learning Repositories (Auto-updating Feed)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling)** (Model) (1025 likes)  
-- **[prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf)** (Model) (714 likes)  
-- **[prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf)** (Model) (426 likes)  
-- **[zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)** (Model) (4111 likes)  
-- **[empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)** (Model) (2291 likes)
+- **[thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling)** (Model) (1064 likes)  
+- **[prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf)** (Model) (739 likes)  
+- **[prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf)** (Model) (445 likes)  
+- **[zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)** (Model) (4129 likes)  
+- **[empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)** (Model) (2315 likes)
 
 ---
 
@@ -77,4 +77,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamarifalam&theme=tokyonight&hide_border=true)](https://github.com/iamarifalam)
 
 ---
-Last updated: 2026-07-18 16:54:10 UTC via automated CI/CD pipeline.
+Last updated: 2026-07-19 02:24:20 UTC via automated CI/CD pipeline.
