@@ -118,11 +118,11 @@ Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.C
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling)** (Model) (1079 likes)  
-- **[prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf)** (Model) (751 likes)  
-- **[prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf)** (Model) (453 likes)  
-- **[zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)** (Model) (4135 likes)  
-- **[openbmb/UltraX-Preview](https://huggingface.co/datasets/openbmb/UltraX-Preview)** (Dataset) (221 likes)
+- **[thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling)** (Model) (1092 likes)  
+- **[prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf)** (Model) (758 likes)  
+- **[prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf)** (Model) (461 likes)  
+- **[zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)** (Model) (4142 likes)  
+- **[openbmb/UltraX-Preview](https://huggingface.co/datasets/openbmb/UltraX-Preview)** (Dataset) (222 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-07-19 12:23:07 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-07-19 09:49:17 UTC via automated CI/CD pipeline.*
