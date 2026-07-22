@@ -98,31 +98,18 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric](http://arxiv.org/abs/2607.18237v1)**  
-  *Published on Jul 20, 2026 | Authors: Sheng-Yu Wang, Yotam Nitzan, Aaron Hertzmann et al.*  
-
-- **[Patch Policy: Efficient Embodied Control via Dense Visual Representations](http://arxiv.org/abs/2607.18236v1)**  
-  *Published on Jul 20, 2026 | Authors: Gaoyue Zhou, Zichen Jeff Cui, Ada Langford et al.*  
-
-- **[Automated Discovery Has No Universally Superior Harness](http://arxiv.org/abs/2607.18235v1)**  
-  *Published on Jul 20, 2026 | Authors: Akshat Gupta, Jermaine Lei, Alexander Lu et al.*  
-
-- **[It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](http://arxiv.org/abs/2607.18232v1)**  
-  *Published on Jul 20, 2026 | Authors: Kevin Du, Clara Kümpel, Michelle Wastl et al.*  
-
-- **[Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs](http://arxiv.org/abs/2607.18230v1)**  
-  *Published on Jul 20, 2026 | Authors: Yi Tang, Xinyi Shang, Jiacheng Cui et al.*
+_Failed to fetch arXiv papers today. Checking back soon!_
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling)** (Model) (1330 likes)  
-- **[prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf)** (Model) (886 likes)  
-- **[baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)** (Model) (2574 likes)  
-- **[prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf)** (Model) (564 likes)  
-- **[zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)** (Model) (4258 likes)
+- **[thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling)** (Model) (1366 likes)  
+- **[prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf)** (Model) (899 likes)  
+- **[baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)** (Model) (2609 likes)  
+- **[prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf)** (Model) (571 likes)  
+- **[zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)** (Model) (4284 likes)
 
 ---
 
@@ -198,4 +185,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-07-21 17:14:09 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-07-22 02:21:42 UTC via automated CI/CD pipeline.*
