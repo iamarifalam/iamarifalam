@@ -6,10 +6,10 @@
   <a href="mailto:arifalam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<h3 align="center">AI Engineer | Educator & Content Creator (1M+) </h3>
+<h3 align="center">AI Engineer at EY | Educator & Content Creator (1M+) | MBA Candidate at NMIMS</h3>
 
 <p align="center">
-  <b>AI Engineer crafting production-grade systems while simplifying AI for the world.</b>
+  <b>“AI Engineer crafting production-grade systems while simplifying AI for the world.”</b>
 </p>
 
 <p align="center">
@@ -118,11 +118,11 @@ Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.C
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling)** (Model) (1394 likes)  
-- **[baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)** (Model) (2644 likes)  
-- **[prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf)** (Model) (912 likes)  
-- **[prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf)** (Model) (578 likes)  
-- **[zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)** (Model) (4303 likes)
+- **[thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling)** (Model) (1426 likes)  
+- **[baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)** (Model) (2680 likes)  
+- **[prism-ml/Ternary-Bonsai-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf)** (Model) (925 likes)  
+- **[poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)** (Model) (350 likes)  
+- **[prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf)** (Model) (588 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-07-22 10:22:18 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-07-22 17:14:04 UTC via automated CI/CD pipeline.*
