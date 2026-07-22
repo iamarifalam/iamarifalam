@@ -6,10 +6,10 @@
   <a href="mailto:arifalam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<h3 align="center">AI Engineer at EY | Educator & Content Creator (1M+) </h3>
+<h3 align="center">AI Engineer | Educator & Content Creator (1M+) </h3>
 
 <p align="center">
-  <b>“AI Engineer crafting production-grade systems while simplifying AI for the world.”</b>
+  <b>AI Engineer crafting production-grade systems while simplifying AI for the world.</b>
 </p>
 
 <p align="center">
