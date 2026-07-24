@@ -28,8 +28,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "iamarifalam"
+          git config --global user.email "56503130+iamarifalam@users.noreply.github.com"
           
           # Check if there are changes to commit
           git add README.md
