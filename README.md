@@ -98,18 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-_Failed to fetch arXiv papers today. Checking back soon!_
+- **[3D-Aware VLMs with Implicit and Explicit Geometries](http://arxiv.org/abs/2607.21595v1)**  
+  *Published on Jul 23, 2026 | Authors: Wenhao Li, Xueying Jiang, Quanhao Qian et al.*  
+
+- **[Expanding Flow Maps](http://arxiv.org/abs/2607.21585v1)**  
+  *Published on Jul 23, 2026 | Authors: Sophia Tang, Pranam Chatterjee*  
+
+- **[GraphVid: Interactive Graph-Controllable Video Generation](http://arxiv.org/abs/2607.21580v1)**  
+  *Published on Jul 23, 2026 | Authors: Vedant Shah, Onkar Susladkar, Tushar Prakash et al.*  
+
+- **[Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\geq 4$](http://arxiv.org/abs/2607.21579v1)**  
+  *Published on Jul 23, 2026 | Authors: Dawei Li, Xiaotian Jiang, Mingyi Hong*  
+
+- **[Synthetic data generation framework for quality control automation in gravure printing](http://arxiv.org/abs/2607.21577v1)**  
+  *Published on Jul 23, 2026 | Authors: Korota Arsène Coulibaly, Mohamed Hamlich, Khalid Hmali et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)** (Model) (3027 likes)  
-- **[poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)** (Model) (618 likes)  
-- **[thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling)** (Model) (1547 likes)  
-- **[upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B)** (Model) (543 likes)  
-- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (496 likes)
+- **[baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)** (Model) (3039 likes)  
+- **[poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)** (Model) (627 likes)  
+- **[thinkingmachines/Inkling](https://huggingface.co/thinkingmachines/Inkling)** (Model) (1553 likes)  
+- **[upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B)** (Model) (545 likes)  
+- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (504 likes)
 
 ---
 
@@ -185,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-07-25 06:12:05 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-07-25 09:41:19 UTC via automated CI/CD pipeline.*
