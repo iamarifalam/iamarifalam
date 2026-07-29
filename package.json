@@ -1,0 +1,28 @@
+{
+  "name": "@iamarifalam/agentic-routing",
+  "version": "1.0.0",
+  "description": "Production-ready open-source multi-agent routing engine and visual sandbox.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "agentic-ai",
+    "langgraph",
+    "routing",
+    "guardrails",
+    "rag",
+    "open-source"
+  ],
+  "author": "Arif Alam <iamarifalam@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamarifalam/iamarifalam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iamarifalam/iamarifalam/issues"
+  },
+  "homepage": "https://github.com/iamarifalam/iamarifalam#readme"
+}

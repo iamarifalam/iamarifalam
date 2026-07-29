@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentic-routing-framework"
+version = "1.0.0"
+description = "A high-performance, open-source multi-agent routing framework with RAG context validation and safety guardrails."
+readme = "README.md"
+authors = [
+    { name = "Arif Alam", email = "iamarifalam@gmail.com" }
+]
+license = { text = "MIT" }
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+keywords = ["ai", "agents", "langgraph", "rag", "guardrails", "routing", "llm"]
+dependencies = [
+    "pydantic>=2.0.0",
+    "typing-extensions>=4.5.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+    "black>=23.0.0",
+    "mypy>=1.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/iamarifalam/iamarifalam"
+Documentation = "https://github.com/iamarifalam/iamarifalam#readme"
+Repository = "https://github.com/iamarifalam/iamarifalam.git"
+Issues = "https://github.com/iamarifalam/iamarifalam/issues"
