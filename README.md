@@ -4,13 +4,6 @@
   <a href="https://linkedin.com/in/iamarifalam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/arifalam4u"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:arifalam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/iamarifalam/iamarifalam/actions/workflows/ci.yml"><img src="https://img.shields.io/badge/CI-Passing-brightgreen.svg?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
-  <a href="https://github.com/iamarifalam/iamarifalam/actions/workflows/codeql.yml"><img src="https://img.shields.io/badge/CodeQL-Secured-blue.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" /></a>
-  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge" /></a>
-  <a href="SECURITY.md"><img src="https://img.shields.io/badge/OpenSSF-Security--Policy-blue.svg?style=for-the-badge" /></a>
-  <a href="DEVELOPMENT.md"><img src="https://img.shields.io/badge/Engineering-Dev--Guide-orange.svg?style=for-the-badge" /></a>
-  <a href="ARCHITECTURE.md"><img src="https://img.shields.io/badge/Architecture-Spec-purple.svg?style=for-the-badge" /></a>
 </div>
 
 <h3 align="center">AI Engineer at EY | Educator & Content Creator (1M+) | MBA Candidate at NMIMS</h3>
@@ -22,51 +15,6 @@
 <p align="center">
   🚀 <i>Bridging AI engineering with education at scale • Turning complex AI systems into practical solutions.</i>
 </p>
-
----
-
-## 📦 Open Source Package: Agentic Routing Framework
-
-```bash
-pip install agentic-routing-framework
-```
-
-```python
-from agentic_routing import AgentRouter, SafetyGuardrail
-
-# Initialize cognitive agent router
-router = AgentRouter()
-result = router.route_query("Fetch real-time pricing data for vector database storage")
-
-# Evaluate response with security guardrails
-guardrail = SafetyGuardrail()
-audit = guardrail.audit(result.response)
-print(f"Routing Path: {result.execution_path} | Security Audit: {audit['status']}")
-```
-
----
-
-## ⚡ Developer Quick Start
-
-```bash
-# 1. Clone and setup
-git clone https://github.com/iamarifalam/iamarifalam.git && cd iamarifalam
-
-# 2. Install everything (env + hooks + tools)
-make dev
-
-# 3. Run tests
-make test
-
-# 4. Lint + Type-check
-make lint && make typecheck
-
-# 5. Run in Docker
-make docker-build && make docker-run
-
-# 6. Full local CI pipeline (exactly what GitHub Actions runs)
-make all
-```
 
 ---
 
@@ -170,11 +118,11 @@ Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.C
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (8364 likes)  
-- **[baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)** (Model) (3466 likes)  
-- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (882 likes)  
+- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (8453 likes)  
+- **[baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)** (Model) (3480 likes)  
+- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (893 likes)  
 - **[upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B)** (Model) (686 likes)  
-- **[poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)** (Model) (807 likes)
+- **[poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)** (Model) (808 likes)
 
 ---
 
@@ -250,14 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-
-## 🤝 Open Source & Community Governance
-This project is an open-source initiative designed to provide accessible, production-grade reference architectures for agentic AI systems and LLM guardrails.
-
-- 📄 **License**: Released under the [MIT License](LICENSE).
-- 🛠️ **Contributing**: We welcome external pull requests, issues, and feature suggestions! Read our [Contributing Guide](CONTRIBUTING.md).
-- 🛡️ **Security**: See our [Security Policy](SECURITY.md) for vulnerability disclosure and reporting.
-- 📜 **Code of Conduct**: Community standards adhere to the [Contributor Covenant Code of Conduct](.github/CODE_OF_CONDUCT.md).
-
----
-*Last updated: 2026-07-29 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-07-29 13:56:46 UTC via automated CI/CD pipeline.*
