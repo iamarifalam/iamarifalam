@@ -4,6 +4,9 @@
   <a href="https://linkedin.com/in/iamarifalam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/arifalam4u"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:arifalam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" /></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge" /></a>
+  <a href="SECURITY.md"><img src="https://img.shields.io/badge/OpenSSF-Security--Policy-blue.svg?style=for-the-badge" /></a>
 </div>
 
 <h3 align="center">AI Engineer at EY | Educator & Content Creator (1M+) | MBA Candidate at NMIMS</h3>
@@ -198,4 +201,14 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-07-29 10:33:50 UTC via automated CI/CD pipeline.*
+
+## 🤝 Open Source & Community Governance
+This project is an open-source initiative designed to provide accessible, production-grade reference architectures for agentic AI systems and LLM guardrails.
+
+- 📄 **License**: Released under the [MIT License](LICENSE).
+- 🛠️ **Contributing**: We welcome external pull requests, issues, and feature suggestions! Read our [Contributing Guide](CONTRIBUTING.md).
+- 🛡️ **Security**: See our [Security Policy](SECURITY.md) for vulnerability disclosure and reporting.
+- 📜 **Code of Conduct**: Community standards adhere to the [Contributor Covenant Code of Conduct](.github/CODE_OF_CONDUCT.md).
+
+---
+*Last updated: 2026-07-29 UTC via automated CI/CD pipeline.*
