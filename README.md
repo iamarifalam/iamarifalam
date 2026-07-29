@@ -5,9 +5,11 @@
   <a href="https://twitter.com/arifalam4u"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:arifalam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/iamarifalam/iamarifalam/actions/workflows/ci.yml"><img src="https://img.shields.io/badge/CI-Passing-brightgreen.svg?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+  <a href="https://github.com/iamarifalam/iamarifalam/actions/workflows/codeql.yml"><img src="https://img.shields.io/badge/CodeQL-Secured-blue.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" /></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge" /></a>
   <a href="SECURITY.md"><img src="https://img.shields.io/badge/OpenSSF-Security--Policy-blue.svg?style=for-the-badge" /></a>
+  <a href="DEVELOPMENT.md"><img src="https://img.shields.io/badge/Engineering-Dev--Guide-orange.svg?style=for-the-badge" /></a>
   <a href="ARCHITECTURE.md"><img src="https://img.shields.io/badge/Architecture-Spec-purple.svg?style=for-the-badge" /></a>
 </div>
 

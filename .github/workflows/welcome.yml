@@ -1,0 +1,24 @@
+name: Contributor Welcome Automation
+
+on:
+  pull_request_target:
+    types: [opened]
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        pr-message: |
+          👋 Thank you for opening your first Pull Request in the **Agentic Routing Framework**!
+          
+          We appreciate your contribution to open-source AI infrastructure. 
+          - Our automated CI pipeline (`ci.yml` & `codeql.yml`) will now run unit tests and security audits.
+          - A maintainer will review your changes shortly. 
+          
+          Please make sure your code adheres to our [Contributing Guide](https://github.com/iamarifalam/iamarifalam/blob/main/CONTRIBUTING.md) and passes `pytest tests/`.
