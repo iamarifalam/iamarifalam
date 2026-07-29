@@ -6,6 +6,10 @@
   <a href="mailto:arifalam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
+<p align="center">
+  <b>⭐ Star this repo if it helps you — it really matters for open-source discoverability!</b>
+</p>
+
 <h3 align="center">AI Engineer at EY | Educator & Content Creator (1M+) | MBA Candidate at NMIMS</h3>
 
 <p align="center">

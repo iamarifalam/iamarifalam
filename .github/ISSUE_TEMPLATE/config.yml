@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions — Ask questions, share ideas
+    url: https://github.com/iamarifalam/iamarifalam/discussions
+    about: Ask usage questions, share your agentic pipelines, or propose new features.
+  - name: 🛡️ Security Vulnerability
+    url: https://github.com/iamarifalam/iamarifalam/blob/main/SECURITY.md
+    about: Please report security vulnerabilities privately, NOT as a public issue.
+  - name: 📖 Documentation Question
+    url: https://github.com/iamarifalam/iamarifalam/discussions/categories/q-a
+    about: Questions about usage, API, or setup belong in Discussions.
