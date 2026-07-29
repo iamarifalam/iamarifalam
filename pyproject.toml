@@ -38,6 +38,9 @@ dev = [
     "mypy>=1.0.0",
 ]
 
+[project.scripts]
+agentic-cli = "agentic_routing.cli:main"
+
 [project.urls]
 Homepage = "https://github.com/iamarifalam/iamarifalam"
 Documentation = "https://github.com/iamarifalam/iamarifalam#readme"
