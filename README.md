@@ -98,18 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-_Failed to fetch arXiv papers today. Checking back soon!_
+- **[Pass the Baton: Trajectory-Relayed On-Policy Distillation](http://arxiv.org/abs/2607.26057v1)**  
+  *Published on Jul 28, 2026 | Authors: Haolei Xu, Xiaowen Xu, Haiwen Hong et al.*  
+
+- **[$π\mathbf{R}^2$: Reactive Real-time Flow Policies](http://arxiv.org/abs/2607.26055v1)**  
+  *Published on Jul 28, 2026 | Authors: Sungjae Park, Shubham Tulsiani*  
+
+- **[Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA](http://arxiv.org/abs/2607.26052v1)**  
+  *Published on Jul 28, 2026 | Authors: Tom Saliencro, Rohan Desai, Priya Nair et al.*  
+
+- **[Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis](http://arxiv.org/abs/2607.26043v1)**  
+  *Published on Jul 28, 2026 | Authors: Adarsh Bhandary Panambur, Siming Bayer, Andreas Maier*  
+
+- **[VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening](http://arxiv.org/abs/2607.26042v1)**  
+  *Published on Jul 28, 2026 | Authors: Syed Mhamudul Hasan, Anas AlSobeh, Hussein Zangoti et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (8033 likes)  
-- **[baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)** (Model) (3420 likes)  
-- **[poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)** (Model) (801 likes)  
-- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (854 likes)  
-- **[upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B)** (Model) (645 likes)
+- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (8223 likes)  
+- **[baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)** (Model) (3440 likes)  
+- **[upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B)** (Model) (668 likes)  
+- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (868 likes)  
+- **[poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)** (Model) (805 likes)
 
 ---
 
@@ -185,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-07-29 02:05:07 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-07-29 06:26:38 UTC via automated CI/CD pipeline.*
