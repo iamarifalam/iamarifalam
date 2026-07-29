@@ -46,3 +46,42 @@ Homepage = "https://github.com/iamarifalam/iamarifalam"
 Documentation = "https://github.com/iamarifalam/iamarifalam#readme"
 Repository = "https://github.com/iamarifalam/iamarifalam.git"
 Issues = "https://github.com/iamarifalam/iamarifalam/issues"
+Changelog = "https://github.com/iamarifalam/iamarifalam/blob/main/CHANGELOG.md"
+Roadmap = "https://github.com/iamarifalam/iamarifalam/blob/main/ROADMAP.md"
+
+# ==============================================================================
+# Tool Configurations — enforced in CI
+# ==============================================================================
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "W", "F", "I", "B", "C4", "UP"]
+ignore = ["E501"]
+
+[tool.black]
+line-length = 100
+target-version = ["py39", "py310", "py311", "py312"]
+
+[tool.mypy]
+python_version = "3.9"
+warn_return_any = true
+warn_unused_configs = true
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short"
+
+[tool.coverage.run]
+source = ["agentic_routing"]
+omit = ["tests/*", "**/__pycache__/*"]
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = false
+

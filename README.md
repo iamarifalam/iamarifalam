@@ -46,6 +46,30 @@ print(f"Routing Path: {result.execution_path} | Security Audit: {audit['status']
 
 ---
 
+## ⚡ Developer Quick Start
+
+```bash
+# 1. Clone and setup
+git clone https://github.com/iamarifalam/iamarifalam.git && cd iamarifalam
+
+# 2. Install everything (env + hooks + tools)
+make dev
+
+# 3. Run tests
+make test
+
+# 4. Lint + Type-check
+make lint && make typecheck
+
+# 5. Run in Docker
+make docker-build && make docker-run
+
+# 6. Full local CI pipeline (exactly what GitHub Actions runs)
+make all
+```
+
+---
+
 ## 🎮 Playable README Mini-Game: The Agentic Routing Challenge
 > Help the AI Agent route a sensitive query safely. Choose a node to connect first to begin the simulation:
 

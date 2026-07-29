@@ -1,0 +1,25 @@
+# CODEOWNERS
+# -----------
+# This file defines automatic PR review assignments.
+# GitHub uses this to request reviews from the right people automatically.
+# Syntax: <file pattern>    @<github-username>
+
+# Global default: Arif Alam reviews everything
+*                       @iamarifalam
+
+# Core routing engine
+agentic_routing/core.py             @iamarifalam
+agentic_routing/async_router.py     @iamarifalam
+
+# Security-critical modules — mandatory maintainer review
+agentic_routing/guardrails.py       @iamarifalam
+SECURITY.md                         @iamarifalam
+
+# Documentation
+docs/                               @iamarifalam
+README.md                           @iamarifalam
+
+# CI/CD infrastructure — careful review required
+.github/                            @iamarifalam
+Makefile                            @iamarifalam
+Dockerfile                          @iamarifalam

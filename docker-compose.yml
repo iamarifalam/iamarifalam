@@ -1,0 +1,41 @@
+version: '3.9'
+
+services:
+  # Main agentic routing application service
+  agentic-routing:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: agentic_routing_app
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONPATH=/app
+      - ENV=development
+    command: python -m agentic_routing.cli --query "Hello from Docker" --audit
+
+  # Run the test suite in isolation
+  test:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: agentic_routing_tests
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONPATH=/app
+    command: pytest tests/ -v
+
+  # Interactive Python REPL shell with framework pre-loaded
+  shell:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: agentic_routing_shell
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONPATH=/app
+    stdin_open: true
+    tty: true
+    command: python3

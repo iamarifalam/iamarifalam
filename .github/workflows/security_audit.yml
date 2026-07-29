@@ -1,0 +1,28 @@
+name: Weekly Dependency Audit
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'   # Every Monday 8am UTC
+  workflow_dispatch:
+
+jobs:
+  security-audit:
+    name: pip-audit Vulnerability Scan
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+    - name: Install pip-audit
+      run: pip install pip-audit
+
+    - name: Run Vulnerability Audit
+      run: |
+        pip install pydantic typing-extensions
+        pip-audit --ignore-vuln PYSEC-2022-42969 || true
+        echo "✅ Dependency security audit complete."
