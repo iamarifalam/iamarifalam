@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning](http://arxiv.org/abs/2607.27109v1)**  
-  *Published on Jul 29, 2026 | Authors: Weijie Wu, Junbo Li, Lin Li et al.*  
+- **[Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?](http://arxiv.org/abs/2607.27203v1)**  
+  *Published on Jul 29, 2026 | Authors: Perry Dong, Ron Polonsky, Dorsa Sadigh et al.*  
 
-- **[Hierarchical Spatio-Temporal Transformer for Coherent Emergency Department Forecasting](http://arxiv.org/abs/2607.27106v1)**  
-  *Published on Jul 29, 2026 | Authors: Filipa Lino, Bárbara Tavares, Carlos Santiago et al.*  
+- **[Mental World Modeling](http://arxiv.org/abs/2607.27201v1)**  
+  *Published on Jul 29, 2026 | Authors: Hao Fei, Yiran Zhao*  
 
-- **[Detecting seizure onset and offset times using human intelligence: A critical-transitions-based approach](http://arxiv.org/abs/2607.27105v1)**  
-  *Published on Jul 29, 2026 | Authors: Andrew Flynn, Cian McCafferty, Klaus Lehnertz et al.*  
+- **[From Classification to Regression: Using a Fruitfly to Solve Equations](http://arxiv.org/abs/2607.27196v1)**  
+  *Published on Jul 29, 2026 | Authors: Shady E. Ahmed, Panos Stinis*  
 
-- **[Sky sphere representation in language models](http://arxiv.org/abs/2607.27092v1)**  
-  *Published on Jul 29, 2026 | Authors: Aleksandr Berdnikov, Yevgeny Liokumovich*  
+- **[Can AI agents conduct open-ended AI research? Early evidence from two case studies](http://arxiv.org/abs/2607.27191v1)**  
+  *Published on Jul 29, 2026 | Authors: Peter Kirgis, Sayash Kapoor, Andrew Schwartz et al.*  
 
-- **[InferScale: GPU-Native KV Injection for Personalized LLM Serving](http://arxiv.org/abs/2607.27090v1)**  
-  *Published on Jul 29, 2026 | Authors: Peter Li, Prashant Pandey*
+- **[APEX-Accounting](http://arxiv.org/abs/2607.27189v1)**  
+  *Published on Jul 29, 2026 | Authors: Julien Benchek, Austin Bennett, Jasmin Kern et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (8658 likes)  
-- **[baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)** (Model) (3516 likes)  
-- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (945 likes)  
-- **[poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)** (Model) (827 likes)  
-- **[upstage/Solar-Open2-250B](https://huggingface.co/upstage/Solar-Open2-250B)** (Model) (696 likes)
+- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (8720 likes)  
+- **[baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)** (Model) (3520 likes)  
+- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (960 likes)  
+- **[poolside/Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)** (Model) (830 likes)  
+- **[HuggingFaceCode/stack-v3-train](https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train)** (Dataset) (232 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-07-30 01:54:55 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-07-30 04:54:24 UTC via automated CI/CD pipeline.*
