@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth](http://arxiv.org/abs/2608.01075v1)**  
-  *Published on Aug 02, 2026 | Authors: Kehan Wang*  
+- **[AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling](http://arxiv.org/abs/2608.02602v1)**  
+  *Published on Aug 03, 2026 | Authors: Jiajun Liang, Yucheng Liao, Yukang Cao et al.*  
 
-- **[Logit-Origin Centering for Singleton Test-Time Adaptation](http://arxiv.org/abs/2608.01074v1)**  
-  *Published on Aug 02, 2026 | Authors: Mayank Sharma, Rohit Kumar Mourya, Pratik Mazumder*  
+- **[Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework](http://arxiv.org/abs/2608.02599v1)**  
+  *Published on Aug 03, 2026 | Authors: Junjie Yin, Buxin She, Xinyu Feng et al.*  
 
-- **[Characterizing Bias in Post-Bandit Inference under Index Algorithms](http://arxiv.org/abs/2608.01069v1)**  
-  *Published on Aug 02, 2026 | Authors: Lisu Wang, Yilun Chen, Jiaqi Lu*  
+- **[onepot-Bench 0: towards lab-aware in silico chemistry benchmarks](http://arxiv.org/abs/2608.02595v1)**  
+  *Published on Aug 03, 2026 | Authors: Brandon Wang, Andrei S. Tyrin, Daniil A. Boiko*  
 
-- **[Control Under Compression: Reliability Frontiers for Tool-Using Agents](http://arxiv.org/abs/2608.01056v1)**  
-  *Published on Aug 02, 2026 | Authors: Yinghan Hou, Zongyou Yang*  
+- **[The Condition-Number Barrier in Sparse Least Squares](http://arxiv.org/abs/2608.02588v1)**  
+  *Published on Aug 03, 2026 | Authors: Honghao Lin, Vahab Mirrokni, David P. Woodruff*  
 
-- **[Credit the Right Box: Marginal Contribution Assignment for Structured Visual Perception](http://arxiv.org/abs/2608.01055v1)**  
-  *Published on Aug 02, 2026 | Authors: Xinheng Han, Jianfei Wang, Yu Chen et al.*
+- **[GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning](http://arxiv.org/abs/2608.02585v1)**  
+  *Published on Aug 03, 2026 | Authors: Zhaoxin Yu, Qi Shen, Hengli Li et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (9854 likes)  
-- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2064 likes)  
-- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (1474 likes)  
-- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (1434 likes)  
-- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (449 likes)
+- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (9872 likes)  
+- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2103 likes)  
+- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (1572 likes)  
+- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (1452 likes)  
+- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (473 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-04 02:00:11 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-04 05:21:46 UTC via automated CI/CD pipeline.*
