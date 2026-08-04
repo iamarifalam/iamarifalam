@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[TokTier: Exact Stateful Tokenization for Agentic LLM Serving](http://arxiv.org/abs/2607.29678v1)**  
-  *Published on Jul 31, 2026 | Authors: Zhenyu Zhang, Zhichao Cao*  
+- **[Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth](http://arxiv.org/abs/2608.01075v1)**  
+  *Published on Aug 02, 2026 | Authors: Kehan Wang*  
 
-- **[ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction](http://arxiv.org/abs/2607.29677v1)**  
-  *Published on Jul 31, 2026 | Authors: Boyang Zhang, Adrian Lyjak, Eli Stewart et al.*  
+- **[Logit-Origin Centering for Singleton Test-Time Adaptation](http://arxiv.org/abs/2608.01074v1)**  
+  *Published on Aug 02, 2026 | Authors: Mayank Sharma, Rohit Kumar Mourya, Pratik Mazumder*  
 
-- **[Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering](http://arxiv.org/abs/2607.29675v1)**  
-  *Published on Jul 31, 2026 | Authors: Arkajyoti Bhattacharjee, Arnab Auddy*  
+- **[Characterizing Bias in Post-Bandit Inference under Index Algorithms](http://arxiv.org/abs/2608.01069v1)**  
+  *Published on Aug 02, 2026 | Authors: Lisu Wang, Yilun Chen, Jiaqi Lu*  
 
-- **[Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback](http://arxiv.org/abs/2607.29674v1)**  
-  *Published on Jul 31, 2026 | Authors: Maria Smirnova, Alexey Kravatskiy*  
+- **[Control Under Compression: Reliability Frontiers for Tool-Using Agents](http://arxiv.org/abs/2608.01056v1)**  
+  *Published on Aug 02, 2026 | Authors: Yinghan Hou, Zongyou Yang*  
 
-- **[Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations](http://arxiv.org/abs/2607.29665v1)**  
-  *Published on Jul 31, 2026 | Authors: Juncheng Zhong, Chenghuang Shen, Jianfeng Liu et al.*
+- **[Credit the Right Box: Marginal Contribution Assignment for Structured Visual Perception](http://arxiv.org/abs/2608.01055v1)**  
+  *Published on Aug 02, 2026 | Authors: Xinheng Han, Jianfei Wang, Yu Chen et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (9837 likes)  
-- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2041 likes)  
-- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (1408 likes)  
-- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (1424 likes)  
-- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (432 likes)
+- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (9854 likes)  
+- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2064 likes)  
+- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (1474 likes)  
+- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (1434 likes)  
+- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (449 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-03 22:55:29 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-04 02:00:11 UTC via automated CI/CD pipeline.*
