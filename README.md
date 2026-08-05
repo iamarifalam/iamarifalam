@@ -98,18 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-_Failed to fetch arXiv papers today. Checking back soon!_
+- **[ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs](http://arxiv.org/abs/2608.04010v1)**  
+  *Published on Aug 04, 2026 | Authors: Yang Yang, Qinyu Zhao, Mouxiang Chen et al.*  
+
+- **[SocietyBench: Forecasting Counterfactual Social-World Evolution](http://arxiv.org/abs/2608.04009v1)**  
+  *Published on Aug 04, 2026 | Authors: Zhenran Wang, Zhonghan Bian, Jinsong Li et al.*  
+
+- **[WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament](http://arxiv.org/abs/2608.04008v1)**  
+  *Published on Aug 04, 2026 | Authors: Zhenran Wang, Zhonghan Bian, Jinsong Li et al.*  
+
+- **[TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning](http://arxiv.org/abs/2608.04007v1)**  
+  *Published on Aug 04, 2026 | Authors: Changle Qu, Sunhao Dai, Hengyi Cai et al.*  
+
+- **[PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents](http://arxiv.org/abs/2608.04003v1)**  
+  *Published on Aug 04, 2026 | Authors: Shuhan Xue, Zixin Ding, Yichen Shen et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (2467 likes)  
-- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2476 likes)  
-- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (10111 likes)  
-- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (742 likes)  
-- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (1577 likes)
+- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (2480 likes)  
+- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2482 likes)  
+- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (10116 likes)  
+- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (747 likes)  
+- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (1582 likes)
 
 ---
 
@@ -185,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-05 21:02:37 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-05 22:53:24 UTC via automated CI/CD pipeline.*
