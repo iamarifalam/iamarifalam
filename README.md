@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling](http://arxiv.org/abs/2608.02602v1)**  
-  *Published on Aug 03, 2026 | Authors: Jiajun Liang, Yucheng Liao, Yukang Cao et al.*  
+- **[Computing Actual Causes for Neural Network Predictions under Structured Causal Inputs](http://arxiv.org/abs/2608.03772v1)**  
+  *Published on Aug 04, 2026 | Authors: Jannick Strobel, Muqsit Azeem, Stefan Leue*  
 
-- **[Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework](http://arxiv.org/abs/2608.02599v1)**  
-  *Published on Aug 03, 2026 | Authors: Junjie Yin, Buxin She, Xinyu Feng et al.*  
+- **[MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models](http://arxiv.org/abs/2608.03769v1)**  
+  *Published on Aug 04, 2026 | Authors: Tong Ling, Hang Lei, Feng Xiao et al.*  
 
-- **[onepot-Bench 0: towards lab-aware in silico chemistry benchmarks](http://arxiv.org/abs/2608.02595v1)**  
-  *Published on Aug 03, 2026 | Authors: Brandon Wang, Andrei S. Tyrin, Daniil A. Boiko*  
+- **[GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks](http://arxiv.org/abs/2608.03764v1)**  
+  *Published on Aug 04, 2026 | Authors: Leijun Zhou, Zhihao Liu, Xiang Qu et al.*  
 
-- **[The Condition-Number Barrier in Sparse Least Squares](http://arxiv.org/abs/2608.02588v1)**  
-  *Published on Aug 03, 2026 | Authors: Honghao Lin, Vahab Mirrokni, David P. Woodruff*  
+- **[Risky Business: Measuring The Faithfulness-Safety Tension](http://arxiv.org/abs/2608.03745v1)**  
+  *Published on Aug 04, 2026 | Authors: Dominik Meier, Luca Joshua Francis, Marco Bernhard Kaiser et al.*  
 
-- **[GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning](http://arxiv.org/abs/2608.02585v1)**  
-  *Published on Aug 03, 2026 | Authors: Zhaoxin Yu, Qi Shen, Hengli Li et al.*
+- **[Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi-Agent Systems](http://arxiv.org/abs/2608.03744v1)**  
+  *Published on Aug 04, 2026 | Authors: Sebastián Andrés Cajas Ordóñez, Agastya Munnangi, Aldo Marzullo et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2287 likes)  
-- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (1983 likes)  
-- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (10005 likes)  
-- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (591 likes)  
-- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (1509 likes)
+- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2308 likes)  
+- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (2028 likes)  
+- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (10012 likes)  
+- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (605 likes)  
+- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (1513 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-04 22:57:17 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-05 01:59:12 UTC via automated CI/CD pipeline.*
