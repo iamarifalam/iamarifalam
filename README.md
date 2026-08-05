@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Computing Actual Causes for Neural Network Predictions under Structured Causal Inputs](http://arxiv.org/abs/2608.03772v1)**  
-  *Published on Aug 04, 2026 | Authors: Jannick Strobel, Muqsit Azeem, Stefan Leue*  
+- **[ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs](http://arxiv.org/abs/2608.04010v1)**  
+  *Published on Aug 04, 2026 | Authors: Yang Yang, Qinyu Zhao, Mouxiang Chen et al.*  
 
-- **[MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models](http://arxiv.org/abs/2608.03769v1)**  
-  *Published on Aug 04, 2026 | Authors: Tong Ling, Hang Lei, Feng Xiao et al.*  
+- **[SocietyBench: Forecasting Counterfactual Social-World Evolution](http://arxiv.org/abs/2608.04009v1)**  
+  *Published on Aug 04, 2026 | Authors: Zhenran Wang, Zhonghan Bian, Jinsong Li et al.*  
 
-- **[GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks](http://arxiv.org/abs/2608.03764v1)**  
-  *Published on Aug 04, 2026 | Authors: Leijun Zhou, Zhihao Liu, Xiang Qu et al.*  
+- **[WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament](http://arxiv.org/abs/2608.04008v1)**  
+  *Published on Aug 04, 2026 | Authors: Zhenran Wang, Zhonghan Bian, Jinsong Li et al.*  
 
-- **[Risky Business: Measuring The Faithfulness-Safety Tension](http://arxiv.org/abs/2608.03745v1)**  
-  *Published on Aug 04, 2026 | Authors: Dominik Meier, Luca Joshua Francis, Marco Bernhard Kaiser et al.*  
+- **[TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning](http://arxiv.org/abs/2608.04007v1)**  
+  *Published on Aug 04, 2026 | Authors: Changle Qu, Sunhao Dai, Hengyi Cai et al.*  
 
-- **[Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi-Agent Systems](http://arxiv.org/abs/2608.03744v1)**  
-  *Published on Aug 04, 2026 | Authors: Sebastián Andrés Cajas Ordóñez, Agastya Munnangi, Aldo Marzullo et al.*
+- **[PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents](http://arxiv.org/abs/2608.04003v1)**  
+  *Published on Aug 04, 2026 | Authors: Shuhan Xue, Zixin Ding, Yichen Shen et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2308 likes)  
-- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (2028 likes)  
-- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (10012 likes)  
-- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (605 likes)  
-- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (1513 likes)
+- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2341 likes)  
+- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (2096 likes)  
+- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (10025 likes)  
+- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (639 likes)  
+- **[DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)** (Model) (1526 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-05 01:59:12 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-05 05:19:45 UTC via automated CI/CD pipeline.*
