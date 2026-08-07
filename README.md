@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training](http://arxiv.org/abs/2608.05148v1)**  
-  *Published on Aug 05, 2026 | Authors: Damien Sileo, Valentin Lacombe, Dimitri Kachler*  
+- **[Stochastic Dynamics on Persistence Diagram Space via Reinforcement Learning](http://arxiv.org/abs/2608.06276v1)**  
+  *Published on Aug 06, 2026 | Authors: Farzana Nasrin*  
 
-- **[Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning](http://arxiv.org/abs/2608.05144v1)**  
-  *Published on Aug 05, 2026 | Authors: Boxiu Li, Zimo Wen, Yijia Fan et al.*  
+- **[The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images](http://arxiv.org/abs/2608.06270v1)**  
+  *Published on Aug 06, 2026 | Authors: Zhiheng Wang, Bo Peng, Lai Wei et al.*  
 
-- **[OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling](http://arxiv.org/abs/2608.05141v1)**  
-  *Published on Aug 05, 2026 | Authors: Indraneil Paul, Falko Helm, Goran Glavaš et al.*  
+- **[Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints](http://arxiv.org/abs/2608.06265v1)**  
+  *Published on Aug 06, 2026 | Authors: Omid Bazgir, Md Nasir, Jacob Hoffman et al.*  
 
-- **[Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning](http://arxiv.org/abs/2608.05139v1)**  
-  *Published on Aug 05, 2026 | Authors: Yinghui He, Ling Yang, Jiarui Liu et al.*  
+- **[OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations](http://arxiv.org/abs/2608.06264v1)**  
+  *Published on Aug 06, 2026 | Authors: Robin Trombetta, Carole Lartizien*  
 
-- **[Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains](http://arxiv.org/abs/2608.05138v1)**  
-  *Published on Aug 05, 2026 | Authors: Ayoub Kirouane, Christos Petrocheilos*
+- **[Hypothesis Testing with Conditional Queries: Learnability and the Value of Interaction](http://arxiv.org/abs/2608.06262v1)**  
+  *Published on Aug 06, 2026 | Authors: Zonghuan Xu*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (2738 likes)  
-- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2640 likes)  
-- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (10196 likes)  
-- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (844 likes)  
-- **[unsloth/DeepSeek-V4-Flash-0731-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF)** (Model) (542 likes)
+- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (2763 likes)  
+- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2651 likes)  
+- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (10204 likes)  
+- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (854 likes)  
+- **[unsloth/DeepSeek-V4-Flash-0731-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF)** (Model) (550 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-06 23:53:26 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-07 02:23:48 UTC via automated CI/CD pipeline.*
