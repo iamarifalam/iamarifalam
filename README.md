@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Stochastic Dynamics on Persistence Diagram Space via Reinforcement Learning](http://arxiv.org/abs/2608.06276v1)**  
-  *Published on Aug 06, 2026 | Authors: Farzana Nasrin*  
+- **[Learning When to Trust via Selective Context Preference Optimization](http://arxiv.org/abs/2608.06377v1)**  
+  *Published on Aug 06, 2026 | Authors: Xian Sun, Wei Chow, Yingshuo Wang et al.*  
 
-- **[The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images](http://arxiv.org/abs/2608.06270v1)**  
-  *Published on Aug 06, 2026 | Authors: Zhiheng Wang, Bo Peng, Lai Wei et al.*  
+- **[The Bitter Lesson of Tool Calling](http://arxiv.org/abs/2608.06370v1)**  
+  *Published on Aug 06, 2026 | Authors: Ishan Patel, Sahil Sen, Elias Lumer et al.*  
 
-- **[Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints](http://arxiv.org/abs/2608.06265v1)**  
-  *Published on Aug 06, 2026 | Authors: Omid Bazgir, Md Nasir, Jacob Hoffman et al.*  
+- **[Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering](http://arxiv.org/abs/2608.06366v1)**  
+  *Published on Aug 06, 2026 | Authors: Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi et al.*  
 
-- **[OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations](http://arxiv.org/abs/2608.06264v1)**  
-  *Published on Aug 06, 2026 | Authors: Robin Trombetta, Carole Lartizien*  
+- **[Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria](http://arxiv.org/abs/2608.06364v1)**  
+  *Published on Aug 06, 2026 | Authors: George Grispos, Sajda Qureshi*  
 
-- **[Hypothesis Testing with Conditional Queries: Learnability and the Value of Interaction](http://arxiv.org/abs/2608.06262v1)**  
-  *Published on Aug 06, 2026 | Authors: Zonghuan Xu*
+- **[An Optimal Agnostic PAC Algorithm](http://arxiv.org/abs/2608.06363v1)**  
+  *Published on Aug 06, 2026 | Authors: Markus Engelund Mathiasen, Jian Qian, Nikita Zhivotovskiy*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (2763 likes)  
-- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2651 likes)  
-- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (10204 likes)  
-- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (854 likes)  
-- **[unsloth/DeepSeek-V4-Flash-0731-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF)** (Model) (550 likes)
+- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (2792 likes)  
+- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2669 likes)  
+- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (10218 likes)  
+- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (861 likes)  
+- **[unsloth/DeepSeek-V4-Flash-0731-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF)** (Model) (559 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-07 02:23:48 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-07 05:35:51 UTC via automated CI/CD pipeline.*
