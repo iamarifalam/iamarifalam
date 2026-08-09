@@ -98,31 +98,18 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Learning When to Trust via Selective Context Preference Optimization](http://arxiv.org/abs/2608.06377v1)**  
-  *Published on Aug 06, 2026 | Authors: Xian Sun, Wei Chow, Yingshuo Wang et al.*  
-
-- **[The Bitter Lesson of Tool Calling](http://arxiv.org/abs/2608.06370v1)**  
-  *Published on Aug 06, 2026 | Authors: Ishan Patel, Sahil Sen, Elias Lumer et al.*  
-
-- **[Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering](http://arxiv.org/abs/2608.06366v1)**  
-  *Published on Aug 06, 2026 | Authors: Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi et al.*  
-
-- **[Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria](http://arxiv.org/abs/2608.06364v1)**  
-  *Published on Aug 06, 2026 | Authors: George Grispos, Sajda Qureshi*  
-
-- **[An Optimal Agnostic PAC Algorithm](http://arxiv.org/abs/2608.06363v1)**  
-  *Published on Aug 06, 2026 | Authors: Markus Engelund Mathiasen, Jian Qian, Nikita Zhivotovskiy*
+_Failed to fetch arXiv papers today. Checking back soon!_
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (3094 likes)  
-- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2844 likes)  
-- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (1002 likes)  
-- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (10337 likes)  
-- **[larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora)** (Model) (478 likes)
+- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (3106 likes)  
+- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (2853 likes)  
+- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** (Model) (1006 likes)  
+- **[moonshotai/Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)** (Model) (10343 likes)  
+- **[larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora)** (Model) (486 likes)
 
 ---
 
@@ -198,4 +185,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-08 22:22:11 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-09 01:15:22 UTC via automated CI/CD pipeline.*
