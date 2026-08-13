@@ -98,18 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-_Failed to fetch arXiv papers today. Checking back soon!_
+- **[AVA-Encoder: Towards Agent-Native Video Representation Learning](http://arxiv.org/abs/2608.12313v1)**  
+  *Published on Aug 12, 2026 | Authors: Chuyue Li, Jinpeng Yu, Haozhe Wang et al.*  
+
+- **[DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation](http://arxiv.org/abs/2608.12308v1)**  
+  *Published on Aug 12, 2026 | Authors: Yan Deng, Fei Xu*  
+
+- **[AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses](http://arxiv.org/abs/2608.12307v1)**  
+  *Published on Aug 12, 2026 | Authors: Cheng Qian, Wenting Zhao, Liangwei Yang et al.*  
+
+- **[Redistribution-based Cost Inference Improves Sparse Safe Offline RL](http://arxiv.org/abs/2608.12306v1)**  
+  *Published on Aug 12, 2026 | Authors: Ebenezer Gelo, Geraud Nangue Tasse, Steven James et al.*  
+
+- **[Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models](http://arxiv.org/abs/2608.12304v1)**  
+  *Published on Aug 12, 2026 | Authors: Saman Marandi, Yu-Shu Hu, Mohammad Modarres*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)** (Model) (1297 likes)  
-- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (3716 likes)  
-- **[larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora)** (Model) (701 likes)  
-- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (3239 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (569 likes)
+- **[meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)** (Model) (1312 likes)  
+- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (3731 likes)  
+- **[larryvrh/MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora)** (Model) (702 likes)  
+- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (3252 likes)  
+- **[Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)** (Model) (563 likes)
 
 ---
 
@@ -185,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-13 01:25:25 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-13 04:05:53 UTC via automated CI/CD pipeline.*
