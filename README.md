@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Enhancing Virtual Agents through SLMs and Edge-Computing: An Exploratory Evaluation of Think and Memory Processes](http://arxiv.org/abs/2608.13420v1)**  
-  *Published on Aug 13, 2026 | Authors: Aimilios Hadjiliasi, Louis Nisiotis*  
+- **[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](http://arxiv.org/abs/2608.13560v1)**  
+  *Published on Aug 13, 2026 | Authors: Yaxin Luo, Haobin Jiang, Jialv Zou et al.*  
 
-- **[Wasserstein Filtering: A Sample Selection Method for Robust Distribution Learning](http://arxiv.org/abs/2608.13418v1)**  
-  *Published on Aug 13, 2026 | Authors: Yikai Xu, Zhao Chen, Jian Huang*  
+- **[OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](http://arxiv.org/abs/2608.13558v1)**  
+  *Published on Aug 13, 2026 | Authors: Bobo Li, Hao Fei, Tianjie Ju et al.*  
 
-- **[Beyond Final Scores: A Systematic Evaluation of Agents for Long-Horizon AI Research and Development](http://arxiv.org/abs/2608.13417v1)**  
-  *Published on Aug 13, 2026 | Authors: Yiwei Li, Wanli Yang, Hexiang Tan et al.*  
+- **[HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark](http://arxiv.org/abs/2608.13555v1)**  
+  *Published on Aug 13, 2026 | Authors: Dairu Liu, Zekun Qi, Jiayu Zeng et al.*  
 
-- **[Deliberate Practice: Learning Robot Skills under a Budget](http://arxiv.org/abs/2608.13415v1)**  
-  *Published on Aug 13, 2026 | Authors: Shivam Vats, Sudarshan Harithas, Mete Tuluhan Akbulut et al.*  
+- **[Defensive Boosting for Online Probabilistic Forecasting](http://arxiv.org/abs/2608.13554v1)**  
+  *Published on Aug 13, 2026 | Authors: Georgy Noarov, Aaron Roth*  
 
-- **[Who Speaks Matters: Authority-Aware Multi-View RAG over Italian Parliamentary Proceedings](http://arxiv.org/abs/2608.13410v1)**  
-  *Published on Aug 13, 2026 | Authors: Mirko Tritella, Riccardo Pozzi, Matteo Palmonari*
+- **[Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure](http://arxiv.org/abs/2608.13549v1)**  
+  *Published on Aug 13, 2026 | Authors: Mingyuan Zhang*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)** (Model) (1419 likes)  
-- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (3824 likes)  
-- **[Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)** (Model) (785 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (721 likes)  
-- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (3320 likes)
+- **[meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)** (Model) (1433 likes)  
+- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (3836 likes)  
+- **[Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)** (Model) (801 likes)  
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (738 likes)  
+- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (3329 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-14 01:24:55 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-14 04:02:22 UTC via automated CI/CD pipeline.*
