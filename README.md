@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[AVA-Encoder: Towards Agent-Native Video Representation Learning](http://arxiv.org/abs/2608.12313v1)**  
-  *Published on Aug 12, 2026 | Authors: Chuyue Li, Jinpeng Yu, Haozhe Wang et al.*  
+- **[Enhancing Virtual Agents through SLMs and Edge-Computing: An Exploratory Evaluation of Think and Memory Processes](http://arxiv.org/abs/2608.13420v1)**  
+  *Published on Aug 13, 2026 | Authors: Aimilios Hadjiliasi, Louis Nisiotis*  
 
-- **[DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation](http://arxiv.org/abs/2608.12308v1)**  
-  *Published on Aug 12, 2026 | Authors: Yan Deng, Fei Xu*  
+- **[Wasserstein Filtering: A Sample Selection Method for Robust Distribution Learning](http://arxiv.org/abs/2608.13418v1)**  
+  *Published on Aug 13, 2026 | Authors: Yikai Xu, Zhao Chen, Jian Huang*  
 
-- **[AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses](http://arxiv.org/abs/2608.12307v1)**  
-  *Published on Aug 12, 2026 | Authors: Cheng Qian, Wenting Zhao, Liangwei Yang et al.*  
+- **[Beyond Final Scores: A Systematic Evaluation of Agents for Long-Horizon AI Research and Development](http://arxiv.org/abs/2608.13417v1)**  
+  *Published on Aug 13, 2026 | Authors: Yiwei Li, Wanli Yang, Hexiang Tan et al.*  
 
-- **[Redistribution-based Cost Inference Improves Sparse Safe Offline RL](http://arxiv.org/abs/2608.12306v1)**  
-  *Published on Aug 12, 2026 | Authors: Ebenezer Gelo, Geraud Nangue Tasse, Steven James et al.*  
+- **[Deliberate Practice: Learning Robot Skills under a Budget](http://arxiv.org/abs/2608.13415v1)**  
+  *Published on Aug 13, 2026 | Authors: Shivam Vats, Sudarshan Harithas, Mete Tuluhan Akbulut et al.*  
 
-- **[Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models](http://arxiv.org/abs/2608.12304v1)**  
-  *Published on Aug 12, 2026 | Authors: Saman Marandi, Yu-Shu Hu, Mohammad Modarres*
+- **[Who Speaks Matters: Authority-Aware Multi-View RAG over Italian Parliamentary Proceedings](http://arxiv.org/abs/2608.13410v1)**  
+  *Published on Aug 13, 2026 | Authors: Mirko Tritella, Riccardo Pozzi, Matteo Palmonari*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)** (Model) (1411 likes)  
-- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (3817 likes)  
-- **[Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)** (Model) (772 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (711 likes)  
-- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (3313 likes)
+- **[meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)** (Model) (1419 likes)  
+- **[MiniMaxAI/MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)** (Model) (3824 likes)  
+- **[Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)** (Model) (785 likes)  
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (721 likes)  
+- **[deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)** (Model) (3320 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-13 22:35:26 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-14 01:24:55 UTC via automated CI/CD pipeline.*
