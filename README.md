@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](http://arxiv.org/abs/2608.13560v1)**  
-  *Published on Aug 13, 2026 | Authors: Yaxin Luo, Haobin Jiang, Jialv Zou et al.*  
+- **[Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils](http://arxiv.org/abs/2608.14539v1)**  
+  *Published on Aug 14, 2026 | Authors: Karel Becerra, Boris Mederos, Dean Snow et al.*  
 
-- **[OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](http://arxiv.org/abs/2608.13558v1)**  
-  *Published on Aug 13, 2026 | Authors: Bobo Li, Hao Fei, Tianjie Ju et al.*  
+- **[Marionette: Predicting World States, Rendering Geometry, Painting Appearance](http://arxiv.org/abs/2608.14530v1)**  
+  *Published on Aug 14, 2026 | Authors: Zian Meng, Zhen Li, Chuanhao Li et al.*  
 
-- **[HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark](http://arxiv.org/abs/2608.13555v1)**  
-  *Published on Aug 13, 2026 | Authors: Dairu Liu, Zekun Qi, Jiayu Zeng et al.*  
+- **[Handover of In-Context Learning State Across Session Boundaries](http://arxiv.org/abs/2608.14528v1)**  
+  *Published on Aug 14, 2026 | Authors: Masahiro Kato, Taka Kato*  
 
-- **[Defensive Boosting for Online Probabilistic Forecasting](http://arxiv.org/abs/2608.13554v1)**  
-  *Published on Aug 13, 2026 | Authors: Georgy Noarov, Aaron Roth*  
+- **[Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](http://arxiv.org/abs/2608.14522v1)**  
+  *Published on Aug 14, 2026 | Authors: Taenyun Kim, Edyta Bogucka, Daniele Quercia*  
 
-- **[Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure](http://arxiv.org/abs/2608.13549v1)**  
-  *Published on Aug 13, 2026 | Authors: Mingyuan Zhang*
+- **[Learning-to-Transition for Large-scale and High-Order MIMO Detection](http://arxiv.org/abs/2608.14511v1)**  
+  *Published on Aug 14, 2026 | Authors: Yubo Zhang, Yiyao Liu, Xiaodong Wang*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (10284 likes)  
-- **[meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)** (Model) (1630 likes)  
-- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (1456 likes)  
-- **[Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)** (Model) (1011 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (1028 likes)
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (10333 likes)  
+- **[meta-models/Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)** (Model) (1635 likes)  
+- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (1475 likes)  
+- **[Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)** (Model) (1013 likes)  
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (1033 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-17 00:55:41 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-17 02:54:48 UTC via automated CI/CD pipeline.*
