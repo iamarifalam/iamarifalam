@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils](http://arxiv.org/abs/2608.14539v1)**  
-  *Published on Aug 14, 2026 | Authors: Karel Becerra, Boris Mederos, Dean Snow et al.*  
+- **[Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory](http://arxiv.org/abs/2608.16889v1)**  
+  *Published on Aug 17, 2026 | Authors: Bingxin Xu, Yuzhang Shang, Emilio Ferrara*  
 
-- **[Marionette: Predicting World States, Rendering Geometry, Painting Appearance](http://arxiv.org/abs/2608.14530v1)**  
-  *Published on Aug 14, 2026 | Authors: Zian Meng, Zhen Li, Chuanhao Li et al.*  
+- **[Q-based Variational Inverse Reinforcement Learning](http://arxiv.org/abs/2608.16888v1)**  
+  *Published on Aug 17, 2026 | Authors: Ondrej Bajgar, Peter Tisnikar, Alessandro Abate et al.*  
 
-- **[Handover of In-Context Learning State Across Session Boundaries](http://arxiv.org/abs/2608.14528v1)**  
-  *Published on Aug 14, 2026 | Authors: Masahiro Kato, Taka Kato*  
+- **[Improving the matrix multiplication exponent with modern optimization and AlphaEvolve](http://arxiv.org/abs/2608.16884v1)**  
+  *Published on Aug 17, 2026 | Authors: Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii et al.*  
 
-- **[Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](http://arxiv.org/abs/2608.14522v1)**  
-  *Published on Aug 14, 2026 | Authors: Taenyun Kim, Edyta Bogucka, Daniele Quercia*  
+- **[Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run](http://arxiv.org/abs/2608.16878v1)**  
+  *Published on Aug 17, 2026 | Authors: Yunbum Kook, Santosh S. Vempala*  
 
-- **[Learning-to-Transition for Large-scale and High-Order MIMO Detection](http://arxiv.org/abs/2608.14511v1)**  
-  *Published on Aug 14, 2026 | Authors: Yubo Zhang, Yiyao Liu, Xiaodong Wang*
+- **[AutoSR: Automatic Symbolic Regression by Searching Research States](http://arxiv.org/abs/2608.16876v1)**  
+  *Published on Aug 17, 2026 | Authors: Kejia Zhang, Youran Sun, Xinyu Ren et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (10717 likes)  
-- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (1631 likes)  
-- **[Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)** (Model) (1041 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (1109 likes)  
-- **[MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)** (Model) (905 likes)
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (10745 likes)  
+- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (1645 likes)  
+- **[Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)** (Model) (1043 likes)  
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (1116 likes)  
+- **[MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)** (Model) (909 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-18 00:54:18 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-18 02:51:04 UTC via automated CI/CD pipeline.*
