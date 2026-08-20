@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation](http://arxiv.org/abs/2608.18076v1)**  
-  *Published on Aug 18, 2026 | Authors: Xingjian Wang, Zhao Wang, Taihang Hu et al.*  
+- **[SPADE: Self-Play in Adaptive Synthetic Executable Environments](http://arxiv.org/abs/2608.19197v1)**  
+  *Published on Aug 19, 2026 | Authors: Bo Liu, Simon Yu, Yiding Jiang et al.*  
 
-- **[Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation](http://arxiv.org/abs/2608.18072v1)**  
-  *Published on Aug 18, 2026 | Authors: Iryna Hartsock, Cesar Lam, Christopher Otteni et al.*  
+- **[ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning](http://arxiv.org/abs/2608.19182v1)**  
+  *Published on Aug 19, 2026 | Authors: Jayjun Lee, Jessica Yin, Asif Rana et al.*  
 
-- **[On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification](http://arxiv.org/abs/2608.18066v1)**  
-  *Published on Aug 18, 2026 | Authors: Qinyuan Ye, Yu Li, Yada Pruksachatkun et al.*  
+- **[Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning](http://arxiv.org/abs/2608.19181v1)**  
+  *Published on Aug 19, 2026 | Authors: Zhu Zhang, Jixun Wang, Xiaoang Xu et al.*  
 
-- **[TokEval: A Tokenizer Evaluation Suite](http://arxiv.org/abs/2608.18062v1)**  
-  *Published on Aug 18, 2026 | Authors: Clara Meister*  
+- **[Finetuning Strategies for Querying Sounds by Vocal Imitation](http://arxiv.org/abs/2608.19174v1)**  
+  *Published on Aug 19, 2026 | Authors: Aditya Bhattacharjee, Christos Plachouras, Sungkyun Chang et al.*  
 
-- **[The concentration game: Bayesian updating, regret, and information](http://arxiv.org/abs/2608.18061v1)**  
-  *Published on Aug 18, 2026 | Authors: Akshay Balsubramani*
+- **[Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention](http://arxiv.org/abs/2608.19171v1)**  
+  *Published on Aug 19, 2026 | Authors: Sotirios P. Chatzis, Loukas Papadoulas*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (11483 likes)  
-- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (2080 likes)  
-- **[MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)** (Model) (1037 likes)  
-- **[deepseek-ai/DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813)** (Model) (633 likes)  
-- **[Qwen/Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)** (Model) (600 likes)
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (11500 likes)  
+- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (2104 likes)  
+- **[MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)** (Model) (1046 likes)  
+- **[deepseek-ai/DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813)** (Model) (638 likes)  
+- **[Qwen/Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)** (Model) (601 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-20 00:55:13 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-20 02:52:06 UTC via automated CI/CD pipeline.*
