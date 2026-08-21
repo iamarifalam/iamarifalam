@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[SPADE: Self-Play in Adaptive Synthetic Executable Environments](http://arxiv.org/abs/2608.19197v1)**  
-  *Published on Aug 19, 2026 | Authors: Bo Liu, Simon Yu, Yiding Jiang et al.*  
+- **[Information on trajectories: martingales and random times](http://arxiv.org/abs/2608.20337v1)**  
+  *Published on Aug 20, 2026 | Authors: Akshay Balsubramani*  
 
-- **[ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning](http://arxiv.org/abs/2608.19182v1)**  
-  *Published on Aug 19, 2026 | Authors: Jayjun Lee, Jessica Yin, Asif Rana et al.*  
+- **[ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](http://arxiv.org/abs/2608.20338v1)**  
+  *Published on Aug 20, 2026 | Authors: Sahil Kale, Ian Harris*  
 
-- **[Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning](http://arxiv.org/abs/2608.19181v1)**  
-  *Published on Aug 19, 2026 | Authors: Zhu Zhang, Jixun Wang, Xiaoang Xu et al.*  
+- **[G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation](http://arxiv.org/abs/2608.20331v1)**  
+  *Published on Aug 20, 2026 | Authors: Shiao Xie, Siyu Chen, Jianwei Lv et al.*  
 
-- **[Finetuning Strategies for Querying Sounds by Vocal Imitation](http://arxiv.org/abs/2608.19174v1)**  
-  *Published on Aug 19, 2026 | Authors: Aditya Bhattacharjee, Christos Plachouras, Sungkyun Chang et al.*  
+- **[$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval](http://arxiv.org/abs/2608.20326v1)**  
+  *Published on Aug 20, 2026 | Authors: Parampreet Singh, Anushka Singh, Sumit Kumar et al.*  
 
-- **[Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention](http://arxiv.org/abs/2608.19171v1)**  
-  *Published on Aug 19, 2026 | Authors: Sotirios P. Chatzis, Loukas Papadoulas*
+- **[A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection](http://arxiv.org/abs/2608.20322v1)**  
+  *Published on Aug 20, 2026 | Authors: Anton Lambrecht, Reda El Hail, Xianjun Jiao et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (11745 likes)  
-- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (2359 likes)  
-- **[MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)** (Model) (1105 likes)  
-- **[Qwen/Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)** (Model) (633 likes)  
-- **[orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)** (Model) (713 likes)
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (11762 likes)  
+- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (2370 likes)  
+- **[MiniMaxAI/MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)** (Model) (1112 likes)  
+- **[Qwen/Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)** (Model) (634 likes)  
+- **[orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)** (Model) (717 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-21 00:58:31 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-21 02:57:03 UTC via automated CI/CD pipeline.*
