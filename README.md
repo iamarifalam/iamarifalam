@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Information on trajectories: martingales and random times](http://arxiv.org/abs/2608.20337v1)**  
-  *Published on Aug 20, 2026 | Authors: Akshay Balsubramani*  
+- **[Primal Acceleration of Newton's Method](http://arxiv.org/abs/2608.21359v1)**  
+  *Published on Aug 21, 2026 | Authors: Nikita Doikov*  
 
-- **[ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](http://arxiv.org/abs/2608.20338v1)**  
-  *Published on Aug 20, 2026 | Authors: Sahil Kale, Ian Harris*  
+- **[VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences](http://arxiv.org/abs/2608.21357v1)**  
+  *Published on Aug 21, 2026 | Authors: Elaine Lau, Thanuka Udumulla, Lee Izhaki-Tavor et al.*  
 
-- **[G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation](http://arxiv.org/abs/2608.20331v1)**  
-  *Published on Aug 20, 2026 | Authors: Shiao Xie, Siyu Chen, Jianwei Lv et al.*  
+- **[AI with Authority, from Application to Silicon](http://arxiv.org/abs/2608.21356v1)**  
+  *Published on Aug 21, 2026 | Authors: Jason Hickey*  
 
-- **[$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval](http://arxiv.org/abs/2608.20326v1)**  
-  *Published on Aug 20, 2026 | Authors: Parampreet Singh, Anushka Singh, Sumit Kumar et al.*  
+- **[PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction](http://arxiv.org/abs/2608.21349v1)**  
+  *Published on Aug 21, 2026 | Authors: Yoshitaka Inoue, Minoh Jeong, Alfred Hero et al.*  
 
-- **[A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection](http://arxiv.org/abs/2608.20322v1)**  
-  *Published on Aug 20, 2026 | Authors: Anton Lambrecht, Reda El Hail, Xianjun Jiao et al.*
+- **[Truthful Calibration Measures for Sequential Prediction](http://arxiv.org/abs/2608.21348v1)**  
+  *Published on Aug 21, 2026 | Authors: Anagha Gokul, Jason Hartline, Lunjia Hu et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (12315 likes)  
-- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (2738 likes)  
-- **[orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)** (Model) (956 likes)  
-- **[OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)** (Model) (632 likes)  
-- **[orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8)** (Model) (1047 likes)
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (12334 likes)  
+- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (2741 likes)  
+- **[orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)** (Model) (962 likes)  
+- **[OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)** (Model) (642 likes)  
+- **[orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8)** (Model) (1051 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-24 00:57:15 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-24 02:57:58 UTC via automated CI/CD pipeline.*
