@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Primal Acceleration of Newton's Method](http://arxiv.org/abs/2608.21359v1)**  
-  *Published on Aug 21, 2026 | Authors: Nikita Doikov*  
+- **[How to Train a Critic Stably and Efficiently](http://arxiv.org/abs/2608.23566v1)**  
+  *Published on Aug 24, 2026 | Authors: Penghui Qi, Xiangxin Zhou, Wee Sun Lee*  
 
-- **[VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences](http://arxiv.org/abs/2608.21357v1)**  
-  *Published on Aug 21, 2026 | Authors: Elaine Lau, Thanuka Udumulla, Lee Izhaki-Tavor et al.*  
+- **[ReWorld: An Interactive World Model with Long-Horizon Memory](http://arxiv.org/abs/2608.23565v1)**  
+  *Published on Aug 24, 2026 | Authors: Zhifei Chen, Luozhou Wang, Guibao Shen et al.*  
 
-- **[AI with Authority, from Application to Silicon](http://arxiv.org/abs/2608.21356v1)**  
-  *Published on Aug 21, 2026 | Authors: Jason Hickey*  
+- **[SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?](http://arxiv.org/abs/2608.23564v1)**  
+  *Published on Aug 24, 2026 | Authors: Deyao Hong, Yizhe Chi, Wenyi Li et al.*  
 
-- **[PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction](http://arxiv.org/abs/2608.21349v1)**  
-  *Published on Aug 21, 2026 | Authors: Yoshitaka Inoue, Minoh Jeong, Alfred Hero et al.*  
+- **[EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings](http://arxiv.org/abs/2608.23563v1)**  
+  *Published on Aug 24, 2026 | Authors: Md Thamed Bin Zaman Chowdhury, Moazzem Hossain*  
 
-- **[Truthful Calibration Measures for Sequential Prediction](http://arxiv.org/abs/2608.21348v1)**  
-  *Published on Aug 21, 2026 | Authors: Anagha Gokul, Jason Hartline, Lunjia Hu et al.*
+- **[Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography](http://arxiv.org/abs/2608.23562v1)**  
+  *Published on Aug 24, 2026 | Authors: Yuanyuan Zhang, Yida Zhang, Jiahui Li et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (12514 likes)  
-- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (2837 likes)  
-- **[orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)** (Model) (1028 likes)  
-- **[OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)** (Model) (695 likes)  
-- **[orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8)** (Model) (1099 likes)
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (12526 likes)  
+- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (2842 likes)  
+- **[orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)** (Model) (1033 likes)  
+- **[OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)** (Model) (699 likes)  
+- **[orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8)** (Model) (1100 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-25 00:56:42 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-25 02:53:16 UTC via automated CI/CD pipeline.*
