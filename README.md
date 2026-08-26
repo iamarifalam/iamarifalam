@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[How to Train a Critic Stably and Efficiently](http://arxiv.org/abs/2608.23566v1)**  
-  *Published on Aug 24, 2026 | Authors: Penghui Qi, Xiangxin Zhou, Wee Sun Lee*  
+- **[What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation](http://arxiv.org/abs/2608.24881v1)**  
+  *Published on Aug 25, 2026 | Authors: Hao Chen*  
 
-- **[ReWorld: An Interactive World Model with Long-Horizon Memory](http://arxiv.org/abs/2608.23565v1)**  
-  *Published on Aug 24, 2026 | Authors: Zhifei Chen, Luozhou Wang, Guibao Shen et al.*  
+- **[Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](http://arxiv.org/abs/2608.24876v1)**  
+  *Published on Aug 25, 2026 | Authors: Zhaochen Yu, Yingcheng Wu, Zhenfei Yin et al.*  
 
-- **[SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?](http://arxiv.org/abs/2608.23564v1)**  
-  *Published on Aug 24, 2026 | Authors: Deyao Hong, Yizhe Chi, Wenyi Li et al.*  
+- **[SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL](http://arxiv.org/abs/2608.24870v1)**  
+  *Published on Aug 25, 2026 | Authors: Kai Ruan, Jinghao Lin, Qianshan Wei et al.*  
 
-- **[EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings](http://arxiv.org/abs/2608.23563v1)**  
-  *Published on Aug 24, 2026 | Authors: Md Thamed Bin Zaman Chowdhury, Moazzem Hossain*  
+- **[Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes](http://arxiv.org/abs/2608.24865v1)**  
+  *Published on Aug 25, 2026 | Authors: Aritra Das, Vincent Froese, Moritz Grillo et al.*  
 
-- **[Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography](http://arxiv.org/abs/2608.23562v1)**  
-  *Published on Aug 24, 2026 | Authors: Yuanyuan Zhang, Yida Zhang, Jiahui Li et al.*
+- **[Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement](http://arxiv.org/abs/2608.24859v1)**  
+  *Published on Aug 25, 2026 | Authors: Arthur Corrêa, Paulo Nascimento, Samuel Moniz*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (12710 likes)  
-- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (2915 likes)  
-- **[OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)** (Model) (749 likes)  
-- **[orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)** (Model) (1096 likes)  
-- **[orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8)** (Model) (1148 likes)
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (12727 likes)  
+- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (2920 likes)  
+- **[OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)** (Model) (756 likes)  
+- **[orcarouter/Qwen3.8-27B-Uncensored-MLX](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)** (Model) (1102 likes)  
+- **[orcarouter/Qwen3.8-27B-Uncensored-FP8](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8)** (Model) (1152 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-26 00:58:04 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-26 02:59:08 UTC via automated CI/CD pipeline.*
