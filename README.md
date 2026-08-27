@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation](http://arxiv.org/abs/2608.24881v1)**  
-  *Published on Aug 25, 2026 | Authors: Hao Chen*  
+- **[VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning](http://arxiv.org/abs/2608.26105v1)**  
+  *Published on Aug 26, 2026 | Authors: Junxiang Xu, Ruisi Wang, Fanyi Pu et al.*  
 
-- **[Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](http://arxiv.org/abs/2608.24876v1)**  
-  *Published on Aug 25, 2026 | Authors: Zhaochen Yu, Yingcheng Wu, Zhenfei Yin et al.*  
+- **[A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training](http://arxiv.org/abs/2608.26095v1)**  
+  *Published on Aug 26, 2026 | Authors: Kaichen Li, Zhilin Zhu, Jianhao Huang et al.*  
 
-- **[SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL](http://arxiv.org/abs/2608.24870v1)**  
-  *Published on Aug 25, 2026 | Authors: Kai Ruan, Jinghao Lin, Qianshan Wei et al.*  
+- **[MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching](http://arxiv.org/abs/2608.26094v1)**  
+  *Published on Aug 26, 2026 | Authors: Hao Yin, Paritosh Parmar, Lijun Gu et al.*  
 
-- **[Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes](http://arxiv.org/abs/2608.24865v1)**  
-  *Published on Aug 25, 2026 | Authors: Aritra Das, Vincent Froese, Moritz Grillo et al.*  
+- **[Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role](http://arxiv.org/abs/2608.26093v1)**  
+  *Published on Aug 26, 2026 | Authors: Ahmad Khan, Akram Bin Sediq, Sara Azadegi Naeini et al.*  
 
-- **[Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement](http://arxiv.org/abs/2608.24859v1)**  
-  *Published on Aug 25, 2026 | Authors: Arthur Corrêa, Paulo Nascimento, Samuel Moniz*
+- **[PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans](http://arxiv.org/abs/2608.26091v1)**  
+  *Published on Aug 26, 2026 | Authors: Nabaraj Subedi, Shuvo Dip Datta, Ahmed Abdelaty et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (3576 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (12892 likes)  
-- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (2993 likes)  
-- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (760 likes)  
-- **[OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)** (Model) (809 likes)
+- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (3747 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (12936 likes)  
+- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1066 likes)  
+- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (3018 likes)  
+- **[OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)** (Model) (818 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-26 22:39:14 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-27 06:49:05 UTC via automated CI/CD pipeline.*
