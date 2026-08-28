@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning](http://arxiv.org/abs/2608.26105v1)**  
-  *Published on Aug 26, 2026 | Authors: Junxiang Xu, Ruisi Wang, Fanyi Pu et al.*  
+- **[CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes](http://arxiv.org/abs/2608.27455v1)**  
+  *Published on Aug 27, 2026 | Authors: Yufan Wu, Yinghui He, Zhengyi Hu et al.*  
 
-- **[A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training](http://arxiv.org/abs/2608.26095v1)**  
-  *Published on Aug 26, 2026 | Authors: Kaichen Li, Zhilin Zhu, Jianhao Huang et al.*  
+- **[WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1)**  
+  *Published on Aug 27, 2026 | Authors: Liyan Tang, Cyrus Rashtchian, Chun-Sung Ferng et al.*  
 
-- **[MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching](http://arxiv.org/abs/2608.26094v1)**  
-  *Published on Aug 26, 2026 | Authors: Hao Yin, Paritosh Parmar, Lijun Gu et al.*  
+- **[SWE-Prime: Fewer Trajectories, Better Performance](http://arxiv.org/abs/2608.27449v1)**  
+  *Published on Aug 27, 2026 | Authors: Dewu Zheng, Ruizhe Ye, Yanlin Wang et al.*  
 
-- **[Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role](http://arxiv.org/abs/2608.26093v1)**  
-  *Published on Aug 26, 2026 | Authors: Ahmad Khan, Akram Bin Sediq, Sara Azadegi Naeini et al.*  
+- **[TTPO: Test-Time Policy Optimization](http://arxiv.org/abs/2608.27448v1)**  
+  *Published on Aug 27, 2026 | Authors: Aozhe Wang, Zhengxi Lu, Jianze Wang et al.*  
 
-- **[PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans](http://arxiv.org/abs/2608.26091v1)**  
-  *Published on Aug 26, 2026 | Authors: Nabaraj Subedi, Shuvo Dip Datta, Ahmed Abdelaty et al.*
+- **[From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench](http://arxiv.org/abs/2608.27442v1)**  
+  *Published on Aug 27, 2026 | Authors: Dewu Zheng, Yanlin Wang, Xiwen Wang et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (3910 likes)  
-- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1274 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (13010 likes)  
-- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (3060 likes)  
-- **[OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)** (Model) (839 likes)
+- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (3979 likes)  
+- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1350 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (13050 likes)  
+- **[unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)** (Model) (3083 likes)  
+- **[OBLITERATUS/Qwen3.8-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED)** (Model) (853 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-27 18:44:27 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-28 03:58:27 UTC via automated CI/CD pipeline.*
