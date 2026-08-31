@@ -98,18 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-_Failed to fetch arXiv papers today. Checking back soon!_
+- **[QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs](http://arxiv.org/abs/2608.28589v1)**  
+  *Published on Aug 28, 2026 | Authors: Vaibhav Mehandiratta, Saket Ramchandra*  
+
+- **[Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning](http://arxiv.org/abs/2608.28578v1)**  
+  *Published on Aug 28, 2026 | Authors: Nan Wang, Mohit Yadav, Jonathan Wulff et al.*  
+
+- **[Learning a Size-Weight Frontier for Synthetic-Augmented Inference](http://arxiv.org/abs/2608.28576v1)**  
+  *Published on Aug 28, 2026 | Authors: Chengpiao Huang, Kaizheng Wang*  
+
+- **[On two proofs of $d^2$ mixing of weighted Dikin walks](http://arxiv.org/abs/2608.28566v1)**  
+  *Published on Aug 28, 2026 | Authors: Yuansi Chen, Yunbum Kook*  
+
+- **[Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy](http://arxiv.org/abs/2608.28564v1)**  
+  *Published on Aug 28, 2026 | Authors: Lorenzo Rizzi, Arie Wortsman Zurich, Bruno Loureiro*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4396 likes)  
-- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1725 likes)  
-- **[zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)** (Model) (1350 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (13356 likes)  
-- **[unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)** (Model) (604 likes)
+- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4443 likes)  
+- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1762 likes)  
+- **[zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)** (Model) (1375 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (13400 likes)  
+- **[unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)** (Model) (615 likes)
 
 ---
 
@@ -185,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-31 03:02:23 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-08-31 10:22:14 UTC via automated CI/CD pipeline.*
