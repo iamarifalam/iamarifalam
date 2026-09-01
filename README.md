@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs](http://arxiv.org/abs/2608.28589v1)**  
-  *Published on Aug 28, 2026 | Authors: Vaibhav Mehandiratta, Saket Ramchandra*  
+- **[MURANO: Design, Run, and Reproduce Mechanistic Interpretability Experiments as Composable Pipelines](http://arxiv.org/abs/2608.30662v1)**  
+  *Published on Aug 31, 2026 | Authors: Alireza Bayat Makou, Emirhan Böge, Phu Gia Hoang et al.*  
 
-- **[Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning](http://arxiv.org/abs/2608.28578v1)**  
-  *Published on Aug 28, 2026 | Authors: Nan Wang, Mohit Yadav, Jonathan Wulff et al.*  
+- **[SwarmBench: Can Large Language Models Act as Agent Swarm Orchestrators?](http://arxiv.org/abs/2608.30661v1)**  
+  *Published on Aug 31, 2026 | Authors: Jinshan Gao, Zhuoran Jin, Tianyi Men et al.*  
 
-- **[Learning a Size-Weight Frontier for Synthetic-Augmented Inference](http://arxiv.org/abs/2608.28576v1)**  
-  *Published on Aug 28, 2026 | Authors: Chengpiao Huang, Kaizheng Wang*  
+- **[Season-Aware Hybrid Convolutional-Transformer for Antarctic Sea Ice Concentration Forecasting](http://arxiv.org/abs/2608.30654v1)**  
+  *Published on Aug 31, 2026 | Authors: Danyang Li, John Taylor, Thang Bui et al.*  
 
-- **[On two proofs of $d^2$ mixing of weighted Dikin walks](http://arxiv.org/abs/2608.28566v1)**  
-  *Published on Aug 28, 2026 | Authors: Yuansi Chen, Yunbum Kook*  
+- **[Fine-Grained Multi Image Object Hallucination Benchmark](http://arxiv.org/abs/2608.30653v1)**  
+  *Published on Aug 31, 2026 | Authors: Joonki Min, Chaeyun Kim, Hyungwook Choi et al.*  
 
-- **[Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy](http://arxiv.org/abs/2608.28564v1)**  
-  *Published on Aug 28, 2026 | Authors: Lorenzo Rizzi, Arie Wortsman Zurich, Bruno Loureiro*
+- **[PyKEEN-NSX: A Modular Framework for Static, Dynamic and Schema-Aware Negative Sampling in PyKEEN](http://arxiv.org/abs/2608.30652v1)**  
+  *Published on Aug 31, 2026 | Authors: Ivan Diliso, Nicola Fanizzi, Claudia d'Amato*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4514 likes)  
-- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1807 likes)  
-- **[zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)** (Model) (1412 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (13470 likes)  
-- **[unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)** (Model) (635 likes)
+- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4531 likes)  
+- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1816 likes)  
+- **[zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)** (Model) (1420 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (13481 likes)  
+- **[unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)** (Model) (638 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-08-31 23:33:54 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-01 03:09:19 UTC via automated CI/CD pipeline.*
