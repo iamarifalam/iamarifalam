@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[MURANO: Design, Run, and Reproduce Mechanistic Interpretability Experiments as Composable Pipelines](http://arxiv.org/abs/2608.30662v1)**  
-  *Published on Aug 31, 2026 | Authors: Alireza Bayat Makou, Emirhan Böge, Phu Gia Hoang et al.*  
+- **[Context-Aware Interleaved Batching for WhisperX](http://arxiv.org/abs/2608.31170v1)**  
+  *Published on Aug 31, 2026 | Authors: Carlos Bain, Max Bain*  
 
-- **[SwarmBench: Can Large Language Models Act as Agent Swarm Orchestrators?](http://arxiv.org/abs/2608.30661v1)**  
-  *Published on Aug 31, 2026 | Authors: Jinshan Gao, Zhuoran Jin, Tianyi Men et al.*  
+- **[Constant Individual Regret in General Games](http://arxiv.org/abs/2608.31166v1)**  
+  *Published on Aug 31, 2026 | Authors: Mingyang Liu, Gabriele Farina, Asuman Ozdaglar*  
 
-- **[Season-Aware Hybrid Convolutional-Transformer for Antarctic Sea Ice Concentration Forecasting](http://arxiv.org/abs/2608.30654v1)**  
-  *Published on Aug 31, 2026 | Authors: Danyang Li, John Taylor, Thang Bui et al.*  
+- **[SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies](http://arxiv.org/abs/2608.31167v1)**  
+  *Published on Aug 31, 2026 | Authors: Weiqi Wang, Zhi Li, Yudong Lei et al.*  
 
-- **[Fine-Grained Multi Image Object Hallucination Benchmark](http://arxiv.org/abs/2608.30653v1)**  
-  *Published on Aug 31, 2026 | Authors: Joonki Min, Chaeyun Kim, Hyungwook Choi et al.*  
+- **[Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations](http://arxiv.org/abs/2608.31157v1)**  
+  *Published on Aug 31, 2026 | Authors: Shijun Zhang*  
 
-- **[PyKEEN-NSX: A Modular Framework for Static, Dynamic and Schema-Aware Negative Sampling in PyKEEN](http://arxiv.org/abs/2608.30652v1)**  
-  *Published on Aug 31, 2026 | Authors: Ivan Diliso, Nicola Fanizzi, Claudia d'Amato*
+- **[Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification](http://arxiv.org/abs/2608.31142v1)**  
+  *Published on Aug 31, 2026 | Authors: Yisen Xi*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4531 likes)  
-- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1816 likes)  
-- **[zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)** (Model) (1420 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (13481 likes)  
-- **[unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)** (Model) (638 likes)
+- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4560 likes)  
+- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1833 likes)  
+- **[zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)** (Model) (1430 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (13508 likes)  
+- **[unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)** (Model) (645 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-01 03:09:19 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-01 09:05:16 UTC via automated CI/CD pipeline.*
