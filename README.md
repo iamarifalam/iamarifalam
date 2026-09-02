@@ -118,11 +118,11 @@ Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.C
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)** (Model) (1507 likes)  
-- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1945 likes)  
-- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4720 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (13673 likes)  
-- **[deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp)** (Model) (493 likes)
+- **[zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)** (Model) (1514 likes)  
+- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1960 likes)  
+- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4729 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (13681 likes)  
+- **[deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp)** (Model) (500 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-02 19:09:43 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-02 22:15:42 UTC via automated CI/CD pipeline.*
