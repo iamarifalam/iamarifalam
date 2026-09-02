@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Context-Aware Interleaved Batching for WhisperX](http://arxiv.org/abs/2608.31170v1)**  
-  *Published on Aug 31, 2026 | Authors: Carlos Bain, Max Bain*  
+- **[On the Design Fundamentals of Pixel Text Representation Learning](http://arxiv.org/abs/2609.01147v1)**  
+  *Published on Sep 01, 2026 | Authors: Chaohao Yuan, Ruifeng Yuan, Zhuoxu Huang et al.*  
 
-- **[Constant Individual Regret in General Games](http://arxiv.org/abs/2608.31166v1)**  
-  *Published on Aug 31, 2026 | Authors: Mingyang Liu, Gabriele Farina, Asuman Ozdaglar*  
+- **[StainPresetNet: Stain Preset Network for Fast Multi-to-Multi Stain Normalization](http://arxiv.org/abs/2609.01146v1)**  
+  *Published on Sep 01, 2026 | Authors: Hongtao Kang, Die Luo, Li Chen et al.*  
 
-- **[SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies](http://arxiv.org/abs/2608.31167v1)**  
-  *Published on Aug 31, 2026 | Authors: Weiqi Wang, Zhi Li, Yudong Lei et al.*  
+- **[Revisiting Face Recognition for Monozygotic Twins: The Celeb Twins Test Set](http://arxiv.org/abs/2609.01141v1)**  
+  *Published on Sep 01, 2026 | Authors: Michael Zang, Haiyu Wu, Mrinal Sharma et al.*  
 
-- **[Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations](http://arxiv.org/abs/2608.31157v1)**  
-  *Published on Aug 31, 2026 | Authors: Shijun Zhang*  
+- **[Does task decomposition improve automatic NLG evaluation?](http://arxiv.org/abs/2609.01139v1)**  
+  *Published on Sep 01, 2026 | Authors: Sebastian Steindl, Nikos Voskarides, Alberto Gasparin et al.*  
 
-- **[Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification](http://arxiv.org/abs/2608.31142v1)**  
-  *Published on Aug 31, 2026 | Authors: Yisen Xi*
+- **[Overfitting Mitigation via Singular Value Decomposition in Minimum Bayes Risk Decoding](http://arxiv.org/abs/2609.01135v1)**  
+  *Published on Sep 01, 2026 | Authors: Riza Setiawan Soetedjo, Yusuke Sakai, Hidetaka Kamigaito et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4630 likes)  
-- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1875 likes)  
-- **[zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)** (Model) (1466 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (13576 likes)  
-- **[unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)** (Model) (666 likes)
+- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4650 likes)  
+- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1884 likes)  
+- **[zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)** (Model) (1469 likes)  
+- **[unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)** (Model) (674 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (13588 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-01 22:18:49 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-02 02:28:16 UTC via automated CI/CD pipeline.*
