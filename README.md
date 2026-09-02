@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[On the Design Fundamentals of Pixel Text Representation Learning](http://arxiv.org/abs/2609.01147v1)**  
-  *Published on Sep 01, 2026 | Authors: Chaohao Yuan, Ruifeng Yuan, Zhuoxu Huang et al.*  
+- **[Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation](http://arxiv.org/abs/2609.01604v1)**  
+  *Published on Sep 01, 2026 | Authors: Himil Vasava, Ming Jiang*  
 
-- **[StainPresetNet: Stain Preset Network for Fast Multi-to-Multi Stain Normalization](http://arxiv.org/abs/2609.01146v1)**  
-  *Published on Sep 01, 2026 | Authors: Hongtao Kang, Die Luo, Li Chen et al.*  
+- **[Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation](http://arxiv.org/abs/2609.01603v1)**  
+  *Published on Sep 01, 2026 | Authors: Kefeng Duan, Dewu Zheng, Yanlin Wang et al.*  
 
-- **[Revisiting Face Recognition for Monozygotic Twins: The Celeb Twins Test Set](http://arxiv.org/abs/2609.01141v1)**  
-  *Published on Sep 01, 2026 | Authors: Michael Zang, Haiyu Wu, Mrinal Sharma et al.*  
+- **[Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation](http://arxiv.org/abs/2609.01601v1)**  
+  *Published on Sep 01, 2026 | Authors: Kefeng Duan, Dewu Zheng, Yanlin Wang et al.*  
 
-- **[Does task decomposition improve automatic NLG evaluation?](http://arxiv.org/abs/2609.01139v1)**  
-  *Published on Sep 01, 2026 | Authors: Sebastian Steindl, Nikos Voskarides, Alberto Gasparin et al.*  
+- **[CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?](http://arxiv.org/abs/2609.01600v1)**  
+  *Published on Sep 01, 2026 | Authors: Damien Sileo, Dimitri Kachler*  
 
-- **[Overfitting Mitigation via Singular Value Decomposition in Minimum Bayes Risk Decoding](http://arxiv.org/abs/2609.01135v1)**  
-  *Published on Sep 01, 2026 | Authors: Riza Setiawan Soetedjo, Yusuke Sakai, Hidetaka Kamigaito et al.*
+- **[The Rise of Verbal Reinforcement Learning](http://arxiv.org/abs/2609.01597v1)**  
+  *Published on Sep 01, 2026 | Authors: Kshitij Tayal, Arun Sharma, Genta Indra Winata et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4650 likes)  
-- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1884 likes)  
-- **[zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)** (Model) (1469 likes)  
-- **[unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)** (Model) (674 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (13588 likes)
+- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4679 likes)  
+- **[zai-org/GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash)** (Model) (1903 likes)  
+- **[zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)** (Model) (1478 likes)  
+- **[unsloth/Qwen3.8-Flash-Next-GGUF](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF)** (Model) (686 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (13614 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-02 02:28:16 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-02 08:19:03 UTC via automated CI/CD pipeline.*
