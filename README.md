@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](http://arxiv.org/abs/2609.04199v1)**  
-  *Published on Sep 03, 2026 | Authors: Yuntian Deng, Pengyu Nie, Stuart Shieber*  
+- **[RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?](http://arxiv.org/abs/2609.05324v1)**  
+  *Published on Sep 04, 2026 | Authors: Zhenxuan Fan, Bo Zhang, Yutong Lin et al.*  
 
-- **[Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints](http://arxiv.org/abs/2609.04198v1)**  
-  *Published on Sep 03, 2026 | Authors: Haoyaun Zhu, Jie Zhang*  
+- **[Adaptive Gated Deepfake Detection for Low-Resolution and Resource-Constrained Environments](http://arxiv.org/abs/2609.05320v1)**  
+  *Published on Sep 04, 2026 | Authors: Vaishnavi Sen, Cody Laurie, Rashida Hasan*  
 
-- **[ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize](http://arxiv.org/abs/2609.04197v1)**  
-  *Published on Sep 03, 2026 | Authors: Lihao Liu, Peng Tang, Kunwar Yashraj Singh et al.*  
+- **[Optimal Rates for Agentic Networked Information Aggregation](http://arxiv.org/abs/2609.05318v1)**  
+  *Published on Sep 04, 2026 | Authors: MohammadHossein Bateni, Zahra Hadizadeh, MohammadTaghi Hajiaghayi et al.*  
 
-- **[Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning](http://arxiv.org/abs/2609.04194v1)**  
-  *Published on Sep 03, 2026 | Authors: Kevin Du, Alexander Hoyle, Laura Ruis et al.*  
+- **[Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness](http://arxiv.org/abs/2609.05314v1)**  
+  *Published on Sep 04, 2026 | Authors: Alexander Neubauer, Tianzhen Hong, Han Li et al.*  
 
-- **[One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing](http://arxiv.org/abs/2609.04190v1)**  
-  *Published on Sep 03, 2026 | Authors: Adheesh Sunil Juvekar, Onkar Kishor Susladkar, Kiet A. Nguyen et al.*
+- **[How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing](http://arxiv.org/abs/2609.05309v1)**  
+  *Published on Sep 04, 2026 | Authors: Pengxiang Zhao, Xing Li, Xianzhi Yu et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp)** (Model) (741 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (14125 likes)  
-- **[XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** (Model) (599 likes)  
-- **[google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch)** (Model) (499 likes)  
-- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4943 likes)
+- **[deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp)** (Model) (749 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (14140 likes)  
+- **[XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** (Model) (620 likes)  
+- **[google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch)** (Model) (509 likes)  
+- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4946 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-06 23:24:22 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-07 02:26:49 UTC via automated CI/CD pipeline.*
