@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?](http://arxiv.org/abs/2609.05324v1)**  
-  *Published on Sep 04, 2026 | Authors: Zhenxuan Fan, Bo Zhang, Yutong Lin et al.*  
+- **[UniMate: One Unified Model to Animate Diverse Skeletons](http://arxiv.org/abs/2609.05415v1)**  
+  *Published on Sep 04, 2026 | Authors: Linzhan Mou, Jiahui Lei, Zhiyang Dou et al.*  
 
-- **[Adaptive Gated Deepfake Detection for Low-Resolution and Resource-Constrained Environments](http://arxiv.org/abs/2609.05320v1)**  
-  *Published on Sep 04, 2026 | Authors: Vaishnavi Sen, Cody Laurie, Rashida Hasan*  
+- **[WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data](http://arxiv.org/abs/2609.05405v1)**  
+  *Published on Sep 04, 2026 | Authors: Ji Soo Lee, Xilun Chen, Pierce Chuang et al.*  
 
-- **[Optimal Rates for Agentic Networked Information Aggregation](http://arxiv.org/abs/2609.05318v1)**  
-  *Published on Sep 04, 2026 | Authors: MohammadHossein Bateni, Zahra Hadizadeh, MohammadTaghi Hajiaghayi et al.*  
+- **[Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction](http://arxiv.org/abs/2609.05404v1)**  
+  *Published on Sep 04, 2026 | Authors: Sihwa Park*  
 
-- **[Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness](http://arxiv.org/abs/2609.05314v1)**  
-  *Published on Sep 04, 2026 | Authors: Alexander Neubauer, Tianzhen Hong, Han Li et al.*  
+- **[RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments](http://arxiv.org/abs/2609.05403v1)**  
+  *Published on Sep 04, 2026 | Authors: Quoc H. Nguyen, Ali Lafzi, Abhijeet Phatak et al.*  
 
-- **[How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing](http://arxiv.org/abs/2609.05309v1)**  
-  *Published on Sep 04, 2026 | Authors: Pengxiang Zhao, Xing Li, Xianzhi Yu et al.*
+- **[Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models](http://arxiv.org/abs/2609.05401v1)**  
+  *Published on Sep 04, 2026 | Authors: Wonje Jeung, Sangyeon Yoon, Hyesoo Hong et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp)** (Model) (749 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (14140 likes)  
-- **[XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** (Model) (620 likes)  
-- **[google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch)** (Model) (509 likes)  
-- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4946 likes)
+- **[deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp)** (Model) (768 likes)  
+- **[XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** (Model) (644 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (14170 likes)  
+- **[google/timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch)** (Model) (533 likes)  
+- **[Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)** (Model) (4956 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-07 02:26:49 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-07 08:50:15 UTC via automated CI/CD pipeline.*
