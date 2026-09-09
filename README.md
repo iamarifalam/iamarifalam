@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[ProcArena: A Multi-Scenario Benchmark for LLMs on Direct and Interactive PL/SQL Development from Natural Language](http://arxiv.org/abs/2609.06527v1)**  
-  *Published on Sep 06, 2026 | Authors: Hang Zhang, Chaokun Wang, Yuzhi Pan et al.*  
+- **[TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model](http://arxiv.org/abs/2609.09158v1)**  
+  *Published on Sep 08, 2026 | Authors: Anqi Li, Yuxin Chen, Zhaobo Li et al.*  
 
-- **[Not Just Oversmoothing: Detecting the Echo Chamber Effect in Graph Neural Networks](http://arxiv.org/abs/2609.06521v1)**  
-  *Published on Sep 06, 2026 | Authors: Asela Hevapathige, Ahad N. Zehmakan, Asiri Wijesinghe et al.*  
+- **[Learning Length-Extrapolatable Recurrent Models](http://arxiv.org/abs/2609.09157v1)**  
+  *Published on Sep 08, 2026 | Authors: Hanwen Jiang*  
 
-- **[Role-Specific Predictive Geometries for Nonstationary Multivariate Graph-Signal Forecasting](http://arxiv.org/abs/2609.06519v1)**  
-  *Published on Sep 06, 2026 | Authors: Yanbo Chen, Anamitra Makur*  
+- **[ReCite: Agentic Reasoning for Faithful Citation](http://arxiv.org/abs/2609.09156v1)**  
+  *Published on Sep 08, 2026 | Authors: Yuyang Huang, Bobo Li, Jiajia Song et al.*  
 
-- **[Model-Adaptive and Risk-Constrained Frequency Hopping Against Predictive Jammers](http://arxiv.org/abs/2609.06514v1)**  
-  *Published on Sep 06, 2026 | Authors: Yanbo Chen, Xinjing Zhou*  
+- **[Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](http://arxiv.org/abs/2609.09153v1)**  
+  *Published on Sep 08, 2026 | Authors: Yuxing Lu, Yicheng Chen, Shanchan Wu et al.*  
 
-- **[Bi-HYCO: Bi-Objective Cooperative Learning for PDE Parameter Identification under Fragmented Observations](http://arxiv.org/abs/2609.06511v1)**  
-  *Published on Sep 06, 2026 | Authors: Umberto Biccari, Jun Chen, Roberto Morales et al.*
+- **[Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration](http://arxiv.org/abs/2609.09152v1)**  
+  *Published on Sep 08, 2026 | Authors: Yuhan Ye, Kaizhao Liu*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** (Model) (856 likes)  
-- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (693 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (14397 likes)  
-- **[ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)** (Model) (661 likes)  
-- **[kuben-developer/tiktok-videos-4b](https://huggingface.co/datasets/kuben-developer/tiktok-videos-4b)** (Dataset) (281 likes)
+- **[XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** (Model) (939 likes)  
+- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (777 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (14434 likes)  
+- **[ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)** (Model) (682 likes)  
+- **[kuben-developer/tiktok-videos-4b](https://huggingface.co/datasets/kuben-developer/tiktok-videos-4b)** (Dataset) (283 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-09 02:39:56 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-09 08:33:04 UTC via automated CI/CD pipeline.*
