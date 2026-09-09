@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[UniMate: One Unified Model to Animate Diverse Skeletons](http://arxiv.org/abs/2609.05415v1)**  
-  *Published on Sep 04, 2026 | Authors: Linzhan Mou, Jiahui Lei, Zhiyang Dou et al.*  
+- **[ProcArena: A Multi-Scenario Benchmark for LLMs on Direct and Interactive PL/SQL Development from Natural Language](http://arxiv.org/abs/2609.06527v1)**  
+  *Published on Sep 06, 2026 | Authors: Hang Zhang, Chaokun Wang, Yuzhi Pan et al.*  
 
-- **[WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data](http://arxiv.org/abs/2609.05405v1)**  
-  *Published on Sep 04, 2026 | Authors: Ji Soo Lee, Xilun Chen, Pierce Chuang et al.*  
+- **[Not Just Oversmoothing: Detecting the Echo Chamber Effect in Graph Neural Networks](http://arxiv.org/abs/2609.06521v1)**  
+  *Published on Sep 06, 2026 | Authors: Asela Hevapathige, Ahad N. Zehmakan, Asiri Wijesinghe et al.*  
 
-- **[Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction](http://arxiv.org/abs/2609.05404v1)**  
-  *Published on Sep 04, 2026 | Authors: Sihwa Park*  
+- **[Role-Specific Predictive Geometries for Nonstationary Multivariate Graph-Signal Forecasting](http://arxiv.org/abs/2609.06519v1)**  
+  *Published on Sep 06, 2026 | Authors: Yanbo Chen, Anamitra Makur*  
 
-- **[RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments](http://arxiv.org/abs/2609.05403v1)**  
-  *Published on Sep 04, 2026 | Authors: Quoc H. Nguyen, Ali Lafzi, Abhijeet Phatak et al.*  
+- **[Model-Adaptive and Risk-Constrained Frequency Hopping Against Predictive Jammers](http://arxiv.org/abs/2609.06514v1)**  
+  *Published on Sep 06, 2026 | Authors: Yanbo Chen, Xinjing Zhou*  
 
-- **[Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models](http://arxiv.org/abs/2609.05401v1)**  
-  *Published on Sep 04, 2026 | Authors: Wonje Jeung, Sangyeon Yoon, Hyesoo Hong et al.*
+- **[Bi-HYCO: Bi-Objective Cooperative Learning for PDE Parameter Identification under Fragmented Observations](http://arxiv.org/abs/2609.06511v1)**  
+  *Published on Sep 06, 2026 | Authors: Umberto Biccari, Jun Chen, Roberto Morales et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** (Model) (842 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (14383 likes)  
-- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (642 likes)  
-- **[ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)** (Model) (649 likes)  
-- **[kuben-developer/tiktok-videos-4b](https://huggingface.co/datasets/kuben-developer/tiktok-videos-4b)** (Dataset) (275 likes)
+- **[XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** (Model) (856 likes)  
+- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (693 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (14397 likes)  
+- **[ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)** (Model) (661 likes)  
+- **[kuben-developer/tiktok-videos-4b](https://huggingface.co/datasets/kuben-developer/tiktok-videos-4b)** (Dataset) (281 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-08 22:17:53 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-09 02:39:56 UTC via automated CI/CD pipeline.*
