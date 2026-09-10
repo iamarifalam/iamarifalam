@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis](http://arxiv.org/abs/2609.10364v1)**  
-  *Published on Sep 09, 2026 | Authors: Ayush Debnath, Ruelia Saha, Sudip Misra*  
+- **[IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications](http://arxiv.org/abs/2609.10539v1)**  
+  *Published on Sep 09, 2026 | Authors: Yiling Ma, Yilun Zhao, Sihong Wu et al.*  
 
-- **[A Later Test Set Is Not a New Domain: Pretraining Familiarity Survives a Contamination-Free Hold-Out](http://arxiv.org/abs/2609.10357v1)**  
-  *Published on Sep 09, 2026 | Authors: Mahdi Naser Moghadasi, Faezeh Ghaderi*  
+- **[Likelihood-free inference with nuisance parameters through normalizing flows](http://arxiv.org/abs/2609.10534v1)**  
+  *Published on Sep 09, 2026 | Authors: Phil Assheton*  
 
-- **[Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs](http://arxiv.org/abs/2609.10355v1)**  
-  *Published on Sep 09, 2026 | Authors: Killian Steunou, Yannis Tevissen, Mounîm A. El Yacoubi*  
+- **[A positive resolution of the gap-entropy conjecture](http://arxiv.org/abs/2609.10529v1)**  
+  *Published on Sep 09, 2026 | Authors: P. M. Aronow, Nathan Kallus, Patrick Lopatto*  
 
-- **[Cyber-Financial Contagion: Modeling the Propagation of an AI Vendor Compromise Through the Banking System](http://arxiv.org/abs/2609.10350v1)**  
-  *Published on Sep 09, 2026 | Authors: Alex Leytes*  
+- **[Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch](http://arxiv.org/abs/2609.10525v1)**  
+  *Published on Sep 09, 2026 | Authors: Xiaoyu Li, Andi Han, Jiaojiao Jiang et al.*  
 
-- **[Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs](http://arxiv.org/abs/2609.10346v1)**  
-  *Published on Sep 09, 2026 | Authors: Haiji Liang, Pengfei Zhou, Zhenglin Wan et al.*
+- **[Show-Harness: Just a VLM Agent Can Play Robots](http://arxiv.org/abs/2609.10522v1)**  
+  *Published on Sep 09, 2026 | Authors: Yanzhe Chen, Zechen Bai, Zhijun Cao et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (938 likes)  
-- **[XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** (Model) (1009 likes)  
-- **[ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)** (Model) (738 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (14529 likes)  
-- **[kuben-developer/tiktok-videos-4b](https://huggingface.co/datasets/kuben-developer/tiktok-videos-4b)** (Dataset) (296 likes)
+- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (1004 likes)  
+- **[XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** (Model) (1025 likes)  
+- **[ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)** (Model) (752 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (14553 likes)  
+- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (534 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-10 02:42:17 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-10 08:34:54 UTC via automated CI/CD pipeline.*
