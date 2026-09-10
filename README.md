@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model](http://arxiv.org/abs/2609.09158v1)**  
-  *Published on Sep 08, 2026 | Authors: Anqi Li, Yuxin Chen, Zhaobo Li et al.*  
+- **[OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis](http://arxiv.org/abs/2609.10364v1)**  
+  *Published on Sep 09, 2026 | Authors: Ayush Debnath, Ruelia Saha, Sudip Misra*  
 
-- **[Learning Length-Extrapolatable Recurrent Models](http://arxiv.org/abs/2609.09157v1)**  
-  *Published on Sep 08, 2026 | Authors: Hanwen Jiang*  
+- **[A Later Test Set Is Not a New Domain: Pretraining Familiarity Survives a Contamination-Free Hold-Out](http://arxiv.org/abs/2609.10357v1)**  
+  *Published on Sep 09, 2026 | Authors: Mahdi Naser Moghadasi, Faezeh Ghaderi*  
 
-- **[ReCite: Agentic Reasoning for Faithful Citation](http://arxiv.org/abs/2609.09156v1)**  
-  *Published on Sep 08, 2026 | Authors: Yuyang Huang, Bobo Li, Jiajia Song et al.*  
+- **[Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs](http://arxiv.org/abs/2609.10355v1)**  
+  *Published on Sep 09, 2026 | Authors: Killian Steunou, Yannis Tevissen, Mounîm A. El Yacoubi*  
 
-- **[Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](http://arxiv.org/abs/2609.09153v1)**  
-  *Published on Sep 08, 2026 | Authors: Yuxing Lu, Yicheng Chen, Shanchan Wu et al.*  
+- **[Cyber-Financial Contagion: Modeling the Propagation of an AI Vendor Compromise Through the Banking System](http://arxiv.org/abs/2609.10350v1)**  
+  *Published on Sep 09, 2026 | Authors: Alex Leytes*  
 
-- **[Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration](http://arxiv.org/abs/2609.09152v1)**  
-  *Published on Sep 08, 2026 | Authors: Yuhan Ye, Kaizhao Liu*
+- **[Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs](http://arxiv.org/abs/2609.10346v1)**  
+  *Published on Sep 09, 2026 | Authors: Haiji Liang, Pengfei Zhou, Zhenglin Wan et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** (Model) (998 likes)  
-- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (892 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (14515 likes)  
-- **[ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)** (Model) (731 likes)  
-- **[kuben-developer/tiktok-videos-4b](https://huggingface.co/datasets/kuben-developer/tiktok-videos-4b)** (Dataset) (295 likes)
+- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (938 likes)  
+- **[XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** (Model) (1009 likes)  
+- **[ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)** (Model) (738 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (14529 likes)  
+- **[kuben-developer/tiktok-videos-4b](https://huggingface.co/datasets/kuben-developer/tiktok-videos-4b)** (Dataset) (296 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-09 22:09:57 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-10 02:42:17 UTC via automated CI/CD pipeline.*
