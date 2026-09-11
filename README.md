@@ -98,31 +98,18 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications](http://arxiv.org/abs/2609.10539v1)**  
-  *Published on Sep 09, 2026 | Authors: Yiling Ma, Yilun Zhao, Sihong Wu et al.*  
-
-- **[Likelihood-free inference with nuisance parameters through normalizing flows](http://arxiv.org/abs/2609.10534v1)**  
-  *Published on Sep 09, 2026 | Authors: Phil Assheton*  
-
-- **[A positive resolution of the gap-entropy conjecture](http://arxiv.org/abs/2609.10529v1)**  
-  *Published on Sep 09, 2026 | Authors: P. M. Aronow, Nathan Kallus, Patrick Lopatto*  
-
-- **[Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch](http://arxiv.org/abs/2609.10525v1)**  
-  *Published on Sep 09, 2026 | Authors: Xiaoyu Li, Andi Han, Jiaojiao Jiang et al.*  
-
-- **[Show-Harness: Just a VLM Agent Can Play Robots](http://arxiv.org/abs/2609.10522v1)**  
-  *Published on Sep 09, 2026 | Authors: Yanzhe Chen, Zechen Bai, Zhijun Cao et al.*
+_Failed to fetch arXiv papers today. Checking back soon!_
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (1293 likes)  
-- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (1102 likes)  
-- **[XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** (Model) (1061 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (14638 likes)  
-- **[ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)** (Model) (791 likes)
+- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (1404 likes)  
+- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (1117 likes)  
+- **[XHToken/Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)** (Model) (1068 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (14652 likes)  
+- **[ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)** (Model) (798 likes)
 
 ---
 
@@ -198,4 +185,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-10 22:12:02 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-11 02:35:30 UTC via automated CI/CD pipeline.*
