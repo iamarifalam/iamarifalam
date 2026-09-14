@@ -98,18 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-_Failed to fetch arXiv papers today. Checking back soon!_
+- **[Type Diversity Enables Transformers to Generalise Compositionally](http://arxiv.org/abs/2609.13144v1)**  
+  *Published on Sep 11, 2026 | Authors: Anssi Moisio, Mathias Creutz, Mikko Kurimo*  
+
+- **[SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking](http://arxiv.org/abs/2609.13141v1)**  
+  *Published on Sep 11, 2026 | Authors: Zhiwei Li, Lei Zhu, Hao Gu et al.*  
+
+- **[Rethinking Heterogeneous System Disaggregation for Subquadratic Attention](http://arxiv.org/abs/2609.13134v1)**  
+  *Published on Sep 11, 2026 | Authors: Arya Tschand, Yaosheng Fu, Vikram Sharma Mailthody et al.*  
+
+- **[A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios](http://arxiv.org/abs/2609.13125v1)**  
+  *Published on Sep 11, 2026 | Authors: Seif ElDein Mostafa, Yahia Ahmed, Farah Datwish et al.*  
+
+- **[CMA-OT: Hierarchical Expert Supervision for Dance-to-Music Generation](http://arxiv.org/abs/2609.13118v1)**  
+  *Published on Sep 11, 2026 | Authors: Jinting Wang, Chenxing Li, Dong Yu et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (2384 likes)  
-- **[Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)** (Model) (1657 likes)  
-- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (1380 likes)  
-- **[nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)** (Model) (776 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (15097 likes)
+- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (2431 likes)  
+- **[Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)** (Model) (1871 likes)  
+- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (1389 likes)  
+- **[nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)** (Model) (778 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (15124 likes)
 
 ---
 
@@ -185,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-14 16:06:54 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-14 21:19:09 UTC via automated CI/CD pipeline.*
