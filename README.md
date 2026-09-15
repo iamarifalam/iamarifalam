@@ -98,18 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-_Failed to fetch arXiv papers today. Checking back soon!_
+- **[Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection](http://arxiv.org/abs/2609.15989v1)**  
+  *Published on Sep 14, 2026 | Authors: Keertana Chidambaram, Andrew Ilyas, Vasilis Syrgkanis*  
+
+- **[Bellman Policy Optimization](http://arxiv.org/abs/2609.15987v1)**  
+  *Published on Sep 14, 2026 | Authors: Zhuoqing Song, Haotian Xu, Xikun Zhang et al.*  
+
+- **[Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science](http://arxiv.org/abs/2609.15983v1)**  
+  *Published on Sep 14, 2026 | Authors: Honghao Lin, David P. Woodruff, Yuan Deng et al.*  
+
+- **[The Router Within: Eliciting Native Skill Routing from a Frozen LLM](http://arxiv.org/abs/2609.15982v1)**  
+  *Published on Sep 14, 2026 | Authors: Ruishuo Chen, Xun Wang, Yu Chen et al.*  
+
+- **[A Chosen Future Can Still Be Rewritten: Causal Writability in Video Models](http://arxiv.org/abs/2609.15980v1)**  
+  *Published on Sep 14, 2026 | Authors: Xingyun Wang, Haomin Zheng, Man Yuan et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (2585 likes)  
-- **[Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)** (Model) (2403 likes)  
-- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (1424 likes)  
-- **[nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)** (Model) (798 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (15204 likes)
+- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (2634 likes)  
+- **[Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)** (Model) (2528 likes)  
+- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (1434 likes)  
+- **[nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)** (Model) (802 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (15228 likes)
 
 ---
 
@@ -185,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-15 13:03:54 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-15 17:52:51 UTC via automated CI/CD pipeline.*
