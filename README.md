@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection](http://arxiv.org/abs/2609.15989v1)**  
-  *Published on Sep 14, 2026 | Authors: Keertana Chidambaram, Andrew Ilyas, Vasilis Syrgkanis*  
+- **[Agentic Societies Need a Social Harness](http://arxiv.org/abs/2609.17527v1)**  
+  *Published on Sep 15, 2026 | Authors: Tapan Chugh, Vidushi Singh, Krish Jain et al.*  
 
-- **[Bellman Policy Optimization](http://arxiv.org/abs/2609.15987v1)**  
-  *Published on Sep 14, 2026 | Authors: Zhuoqing Song, Haotian Xu, Xikun Zhang et al.*  
+- **[ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents](http://arxiv.org/abs/2609.17523v1)**  
+  *Published on Sep 15, 2026 | Authors: Shuhan Xue, Jianyuan Zhong, Ziyuan Nan et al.*  
 
-- **[Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science](http://arxiv.org/abs/2609.15983v1)**  
-  *Published on Sep 14, 2026 | Authors: Honghao Lin, David P. Woodruff, Yuan Deng et al.*  
+- **[PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control](http://arxiv.org/abs/2609.17521v1)**  
+  *Published on Sep 15, 2026 | Authors: Chuhao Chen, Peter Wonka, Chaoyang Wang et al.*  
 
-- **[The Router Within: Eliciting Native Skill Routing from a Frozen LLM](http://arxiv.org/abs/2609.15982v1)**  
-  *Published on Sep 14, 2026 | Authors: Ruishuo Chen, Xun Wang, Yu Chen et al.*  
+- **[When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control](http://arxiv.org/abs/2609.17516v1)**  
+  *Published on Sep 15, 2026 | Authors: Ali Şenol*  
 
-- **[A Chosen Future Can Still Be Rewritten: Causal Writability in Video Models](http://arxiv.org/abs/2609.15980v1)**  
-  *Published on Sep 14, 2026 | Authors: Xingyun Wang, Haomin Zheng, Man Yuan et al.*
+- **[What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity](http://arxiv.org/abs/2609.17515v1)**  
+  *Published on Sep 15, 2026 | Authors: Congjing Zhang, Vashishtha Patil, Henning Lange et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (2684 likes)  
-- **[Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)** (Model) (2724 likes)  
-- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (1451 likes)  
-- **[nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)** (Model) (804 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (15264 likes)
+- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (2710 likes)  
+- **[Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)** (Model) (2824 likes)  
+- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (1464 likes)  
+- **[nex-agi/Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)** (Model) (810 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (15281 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-15 23:54:21 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-16 02:56:21 UTC via automated CI/CD pipeline.*
