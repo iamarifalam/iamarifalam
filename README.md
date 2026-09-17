@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Revisiting Distributed Sign-Based Variance Reduction](http://arxiv.org/abs/2609.18656v1)**  
-  *Published on Sep 16, 2026 | Authors: Wei Jiang, Zechao Li, Lijun Zhang*  
+- **[Objective vs. Search: Decomposing What Makes a Good Tokeniser](http://arxiv.org/abs/2609.19145v1)**  
+  *Published on Sep 16, 2026 | Authors: Ahmetcan Yavuz, Clara Meister, Tiago Pimentel*  
 
-- **[Learning to Program Adaptive Non-Local Observables for Machine Learning](http://arxiv.org/abs/2609.18655v1)**  
-  *Published on Sep 16, 2026 | Authors: Yu-Ting Lee, Samuel Yen-Chi Chen, Huan-Hsin Tseng*  
+- **[A Zeroth-Order Paradigm for LLM Preference Alignment](http://arxiv.org/abs/2609.19144v1)**  
+  *Published on Sep 16, 2026 | Authors: Peter Chen, Xi Chen, Wotao Yin et al.*  
 
-- **[DyMT-ESB: Dynamic Multi-Turn Evaluation of Social Bias in User-LLM Interactions](http://arxiv.org/abs/2609.18649v1)**  
-  *Published on Sep 16, 2026 | Authors: Rem Hida, Masahiro Kaneko, Daisuke Oba et al.*  
+- **[PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection](http://arxiv.org/abs/2609.19143v1)**  
+  *Published on Sep 16, 2026 | Authors: Sara Pieri, Evangelos Kazakos, Shizhe Chen et al.*  
 
-- **[Fallacy Benchmarks Measure Scheme Recognition, Not Fallacy Detection](http://arxiv.org/abs/2609.18644v1)**  
-  *Published on Sep 16, 2026 | Authors: Navyansh Singh, Animesh Pathak, Aarav Singh*  
+- **[Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation](http://arxiv.org/abs/2609.19137v1)**  
+  *Published on Sep 16, 2026 | Authors: Guanhua Ji, Tianyu Li, Dayoon Suh et al.*  
 
-- **[STRETCH the Boundaries: A Unified Self-Taught Framework for Progressive LLM Evolution](http://arxiv.org/abs/2609.18642v1)**  
-  *Published on Sep 16, 2026 | Authors: Yajie Yu, Mark Lee, Yue Feng*
+- **[Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging](http://arxiv.org/abs/2609.19135v1)**  
+  *Published on Sep 16, 2026 | Authors: Pranaya Jajoo*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (2867 likes)  
-- **[Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)** (Model) (3121 likes)  
-- **[m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)** (Model) (648 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (15412 likes)  
-- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (1507 likes)
+- **[Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)** (Model) (3213 likes)  
+- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (2913 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (15460 likes)  
+- **[m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)** (Model) (680 likes)  
+- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (1527 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-17 02:59:40 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-17 09:06:20 UTC via automated CI/CD pipeline.*
