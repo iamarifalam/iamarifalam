@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Agentic Societies Need a Social Harness](http://arxiv.org/abs/2609.17527v1)**  
-  *Published on Sep 15, 2026 | Authors: Tapan Chugh, Vidushi Singh, Krish Jain et al.*  
+- **[Revisiting Distributed Sign-Based Variance Reduction](http://arxiv.org/abs/2609.18656v1)**  
+  *Published on Sep 16, 2026 | Authors: Wei Jiang, Zechao Li, Lijun Zhang*  
 
-- **[ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents](http://arxiv.org/abs/2609.17523v1)**  
-  *Published on Sep 15, 2026 | Authors: Shuhan Xue, Jianyuan Zhong, Ziyuan Nan et al.*  
+- **[Learning to Program Adaptive Non-Local Observables for Machine Learning](http://arxiv.org/abs/2609.18655v1)**  
+  *Published on Sep 16, 2026 | Authors: Yu-Ting Lee, Samuel Yen-Chi Chen, Huan-Hsin Tseng*  
 
-- **[PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control](http://arxiv.org/abs/2609.17521v1)**  
-  *Published on Sep 15, 2026 | Authors: Chuhao Chen, Peter Wonka, Chaoyang Wang et al.*  
+- **[DyMT-ESB: Dynamic Multi-Turn Evaluation of Social Bias in User-LLM Interactions](http://arxiv.org/abs/2609.18649v1)**  
+  *Published on Sep 16, 2026 | Authors: Rem Hida, Masahiro Kaneko, Daisuke Oba et al.*  
 
-- **[When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control](http://arxiv.org/abs/2609.17516v1)**  
-  *Published on Sep 15, 2026 | Authors: Ali Şenol*  
+- **[Fallacy Benchmarks Measure Scheme Recognition, Not Fallacy Detection](http://arxiv.org/abs/2609.18644v1)**  
+  *Published on Sep 16, 2026 | Authors: Navyansh Singh, Animesh Pathak, Aarav Singh*  
 
-- **[What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity](http://arxiv.org/abs/2609.17515v1)**  
-  *Published on Sep 15, 2026 | Authors: Congjing Zhang, Vashishtha Patil, Henning Lange et al.*
+- **[STRETCH the Boundaries: A Unified Self-Taught Framework for Progressive LLM Evolution](http://arxiv.org/abs/2609.18642v1)**  
+  *Published on Sep 16, 2026 | Authors: Yajie Yu, Mark Lee, Yue Feng*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (2849 likes)  
-- **[Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)** (Model) (3037 likes)  
-- **[m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)** (Model) (628 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (15389 likes)  
-- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (1502 likes)
+- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (2867 likes)  
+- **[Edge0/Edge0-35B-A3B-preview](https://huggingface.co/Edge0/Edge0-35B-A3B-preview)** (Model) (3121 likes)  
+- **[m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)** (Model) (648 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (15412 likes)  
+- **[openbmb/MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)** (Model) (1507 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-16 22:34:47 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-17 02:59:40 UTC via automated CI/CD pipeline.*
