@@ -98,18 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-_Failed to fetch arXiv papers today. Checking back soon!_
+- **[Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design](http://arxiv.org/abs/2609.22086v1)**  
+  *Published on Sep 18, 2026 | Authors: Hongyang Du, Lan Yan, Christian Flores et al.*  
+
+- **[Cross-sector generalization of accident-process role classification in occupational accident narratives](http://arxiv.org/abs/2609.22081v1)**  
+  *Published on Sep 18, 2026 | Authors: Aho Yapi, Pierre Latouche, Arnaud Guillin et al.*  
+
+- **[CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](http://arxiv.org/abs/2609.22068v1)**  
+  *Published on Sep 18, 2026 | Authors: Bowen Ye, Lei Li, Shicheng Li et al.*  
+
+- **[Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw](http://arxiv.org/abs/2609.22067v1)**  
+  *Published on Sep 18, 2026 | Authors: Renkai Ma, Ruyuan Wan, Xuan Lu et al.*  
+
+- **[BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings](http://arxiv.org/abs/2609.22064v1)**  
+  *Published on Sep 18, 2026 | Authors: Alexandre Andre, Shivashriganesh P. Mahato, Vinam Arora et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf)** (Model) (1517 likes)  
-- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** (Model) (1159 likes)  
-- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (3442 likes)  
-- **[Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)** (Model) (836 likes)  
-- **[XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B)** (Model) (908 likes)
+- **[prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf)** (Model) (1609 likes)  
+- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** (Model) (1364 likes)  
+- **[Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)** (Model) (1089 likes)  
+- **[XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B)** (Model) (973 likes)  
+- **[deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)** (Model) (3465 likes)
 
 ---
 
@@ -185,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-21 02:55:10 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-21 09:31:07 UTC via automated CI/CD pipeline.*
