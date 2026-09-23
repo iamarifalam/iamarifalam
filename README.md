@@ -98,18 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-_Failed to fetch arXiv papers today. Checking back soon!_
+- **[Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs](http://arxiv.org/abs/2609.26796v1)**  
+  *Published on Sep 22, 2026 | Authors: Quan Nguyen-Tri, Mukul Ranjan, Zhiqiang Shen*  
+
+- **[A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing](http://arxiv.org/abs/2609.26783v1)**  
+  *Published on Sep 22, 2026 | Authors: Xiaoxing Ren, Thomas Parisini, Andreas A. Malikopoulos*  
+
+- **[Agensh: Scaling Organizational Intelligence to 1,024 Agents](http://arxiv.org/abs/2609.26781v1)**  
+  *Published on Sep 22, 2026 | Authors: Zhihao Zhan, Ting Song, Li Dong et al.*  
+
+- **[SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](http://arxiv.org/abs/2609.26780v1)**  
+  *Published on Sep 22, 2026 | Authors: Haobo Zheng, Tan Tang, Yan Chen et al.*  
+
+- **[CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents](http://arxiv.org/abs/2609.26779v1)**  
+  *Published on Sep 22, 2026 | Authors: Trang Nguyen, Eulrang Cho, Bingqing Chen et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** (Model) (2606 likes)  
-- **[prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf)** (Model) (1893 likes)  
-- **[Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)** (Model) (1818 likes)  
-- **[XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B)** (Model) (1399 likes)  
-- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (1163 likes)
+- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** (Model) (2772 likes)  
+- **[Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)** (Model) (1879 likes)  
+- **[prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf)** (Model) (1906 likes)  
+- **[XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B)** (Model) (1443 likes)  
+- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (1252 likes)
 
 ---
 
@@ -185,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-23 03:36:22 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-23 09:00:07 UTC via automated CI/CD pipeline.*
