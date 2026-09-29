@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency](http://arxiv.org/abs/2609.31619v1)**  
-  *Published on Sep 25, 2026 | Authors: Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe et al.*  
+- **[FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets](http://arxiv.org/abs/2609.35770v1)**  
+  *Published on Sep 28, 2026 | Authors: Srinjay Sarkar, Prakhar Kaushik, Soumava Paul et al.*  
 
-- **[Gap-free Differentially Private PCA for Gaussian Data](http://arxiv.org/abs/2609.31614v1)**  
-  *Published on Sep 25, 2026 | Authors: Alina Ene, Huy L. Nguyen*  
+- **[Telescopic Language Models](http://arxiv.org/abs/2609.35769v1)**  
+  *Published on Sep 28, 2026 | Authors: Zhilin Guo, Boqiao Zhang, Hakan Aktas et al.*  
 
-- **[First-Order Stationarity of Reverse Diffusions](http://arxiv.org/abs/2609.31612v1)**  
-  *Published on Sep 25, 2026 | Authors: Zhifeng Chen, Chenyang Jiang, Yazhen Wang*  
+- **[PDMD: Projected Distribution Matching Distillation for Video Diffusion Models](http://arxiv.org/abs/2609.35768v1)**  
+  *Published on Sep 28, 2026 | Authors: Zimo Wang, Junkun Yuan, Angtian Wang et al.*  
 
-- **[Statistical attribute alignment for black-box generative AI via output post-processing](http://arxiv.org/abs/2609.31607v1)**  
-  *Published on Sep 25, 2026 | Authors: Kevin Jiang, Morgane Austern, Edgar Dobriban et al.*  
+- **[Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning](http://arxiv.org/abs/2609.35767v1)**  
+  *Published on Sep 28, 2026 | Authors: Yijia Fan, Ziqi Huang, Zhongang Cai et al.*  
 
-- **[User Model Extraction via Belief Self-Distillation](http://arxiv.org/abs/2609.31603v1)**  
-  *Published on Sep 25, 2026 | Authors: Ali Holmov, Yiran Huang, Kirill Bykov et al.*
+- **[Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales](http://arxiv.org/abs/2609.35765v1)**  
+  *Published on Sep 28, 2026 | Authors: András Kovács, Alexander Conroy, Daniel Hershcovich et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** (Model) (4301 likes)  
-- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (2264 likes)  
-- **[Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite)** (Model) (1396 likes)  
-- **[Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)** (Model) (2590 likes)  
-- **[XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss)** (Dataset) (508 likes)
+- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** (Model) (4377 likes)  
+- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (2313 likes)  
+- **[Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite)** (Model) (1453 likes)  
+- **[Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)** (Model) (2608 likes)  
+- **[XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss)** (Dataset) (520 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-29 00:07:23 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-29 07:47:14 UTC via automated CI/CD pipeline.*
