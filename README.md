@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets](http://arxiv.org/abs/2609.35770v1)**  
-  *Published on Sep 28, 2026 | Authors: Srinjay Sarkar, Prakhar Kaushik, Soumava Paul et al.*  
+- **[Skill-Space Shooting for Autonomous Robot Policy Improvement](http://arxiv.org/abs/2609.38178v1)**  
+  *Published on Sep 29, 2026 | Authors: Zihang Rui, Renhao Wang, Haoxu Huang et al.*  
 
-- **[Telescopic Language Models](http://arxiv.org/abs/2609.35769v1)**  
-  *Published on Sep 28, 2026 | Authors: Zhilin Guo, Boqiao Zhang, Hakan Aktas et al.*  
+- **[Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](http://arxiv.org/abs/2609.38177v1)**  
+  *Published on Sep 29, 2026 | Authors: Jaewoo Jung, Hyeonseo Yu, Honggyu An et al.*  
 
-- **[PDMD: Projected Distribution Matching Distillation for Video Diffusion Models](http://arxiv.org/abs/2609.35768v1)**  
-  *Published on Sep 28, 2026 | Authors: Zimo Wang, Junkun Yuan, Angtian Wang et al.*  
+- **[Breakdown of Local Denoising as Semantic Speciation](http://arxiv.org/abs/2609.38176v1)**  
+  *Published on Sep 29, 2026 | Authors: Guangkuo Liu, Mert Okyay, Yifan F. Zhang et al.*  
 
-- **[Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning](http://arxiv.org/abs/2609.35767v1)**  
-  *Published on Sep 28, 2026 | Authors: Yijia Fan, Ziqi Huang, Zhongang Cai et al.*  
+- **[STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](http://arxiv.org/abs/2609.38169v1)**  
+  *Published on Sep 29, 2026 | Authors: Bingchen Yao, Haobo Xu, Haokun Lin et al.*  
 
-- **[Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales](http://arxiv.org/abs/2609.35765v1)**  
-  *Published on Sep 28, 2026 | Authors: András Kovács, Alexander Conroy, Daniel Hershcovich et al.*
+- **[LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization](http://arxiv.org/abs/2609.38166v1)**  
+  *Published on Sep 29, 2026 | Authors: Yi Pan, Haocheng Xi, Kan Zhu et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** (Model) (4511 likes)  
-- **[Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite)** (Model) (1528 likes)  
-- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (2438 likes)  
-- **[XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss)** (Dataset) (548 likes)  
-- **[XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR)** (Model) (870 likes)
+- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** (Model) (4550 likes)  
+- **[Edge0/Audio8-ASR-Infinite](https://huggingface.co/Edge0/Audio8-ASR-Infinite)** (Model) (1554 likes)  
+- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (2464 likes)  
+- **[XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss)** (Dataset) (557 likes)  
+- **[XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR)** (Model) (908 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-09-30 00:57:51 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-09-30 07:50:13 UTC via automated CI/CD pipeline.*
