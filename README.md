@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis](http://arxiv.org/abs/2609.40361v1)**  
-  *Published on Sep 30, 2026 | Authors: Tian Xia, Minghao Liu, Yiqing Liang et al.*  
+- **[One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars](http://arxiv.org/abs/2610.02207v1)**  
+  *Published on Oct 01, 2026 | Authors: Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev*  
 
-- **[Semifactual Credit-Augmented Policy Optimization](http://arxiv.org/abs/2609.40360v1)**  
-  *Published on Sep 30, 2026 | Authors: Junshu Pan, Zhizhang Fu, Shulin Huang et al.*  
+- **[KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards](http://arxiv.org/abs/2610.02206v1)**  
+  *Published on Oct 01, 2026 | Authors: Pengfei Li, Naufal Suryanto, Sicheng Zhang et al.*  
 
-- **[Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text](http://arxiv.org/abs/2609.40359v1)**  
-  *Published on Sep 30, 2026 | Authors: Dulhan Jayalath, Oiwi Parker Jones*  
+- **[Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents](http://arxiv.org/abs/2610.02204v1)**  
+  *Published on Oct 01, 2026 | Authors: Yen-Jen Wang, Haozhe Jiang, Shuying Deng et al.*  
 
-- **[ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing](http://arxiv.org/abs/2609.40356v1)**  
-  *Published on Sep 30, 2026 | Authors: Xinghao Chen, Xiangbo Gao, Jiongze Yu et al.*  
+- **[Embedding Prediction Helps Image Generation](http://arxiv.org/abs/2610.02203v1)**  
+  *Published on Oct 01, 2026 | Authors: Sihan Xu, Ji Xie, Zilin Wang et al.*  
 
-- **[Image Classifiers are Efficient Self-Supervised Video Representation Learners](http://arxiv.org/abs/2609.40347v1)**  
-  *Published on Sep 30, 2026 | Authors: Owais Iqbal, Sudipta Sarkar, Shyam Marjit et al.*
+- **[ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research](http://arxiv.org/abs/2610.02202v1)**  
+  *Published on Oct 01, 2026 | Authors: Sohyeon Kim, Yoonho Lee, Bo Liu et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** (Model) (4839 likes)  
-- **[XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR)** (Model) (1217 likes)  
-- **[XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss)** (Dataset) (679 likes)  
-- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (2698 likes)  
-- **[Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)** (Model) (2781 likes)
+- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** (Model) (4868 likes)  
+- **[XingChen-AGI/TeleOCR](https://huggingface.co/XingChen-AGI/TeleOCR)** (Model) (1234 likes)  
+- **[XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss)** (Dataset) (683 likes)  
+- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (2716 likes)  
+- **[Contrastive-LM/CLM-v0.1-8B](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B)** (Model) (627 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-01 22:14:27 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-02 03:40:52 UTC via automated CI/CD pipeline.*
