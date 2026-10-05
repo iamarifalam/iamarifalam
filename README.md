@@ -98,31 +98,18 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars](http://arxiv.org/abs/2610.02207v1)**  
-  *Published on Oct 01, 2026 | Authors: Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev*  
-
-- **[KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards](http://arxiv.org/abs/2610.02206v1)**  
-  *Published on Oct 01, 2026 | Authors: Pengfei Li, Naufal Suryanto, Sicheng Zhang et al.*  
-
-- **[Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents](http://arxiv.org/abs/2610.02204v1)**  
-  *Published on Oct 01, 2026 | Authors: Yen-Jen Wang, Haozhe Jiang, Shuying Deng et al.*  
-
-- **[Embedding Prediction Helps Image Generation](http://arxiv.org/abs/2610.02203v1)**  
-  *Published on Oct 01, 2026 | Authors: Sihan Xu, Ji Xie, Zilin Wang et al.*  
-
-- **[ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research](http://arxiv.org/abs/2610.02202v1)**  
-  *Published on Oct 01, 2026 | Authors: Sohyeon Kim, Yoonho Lee, Bo Liu et al.*
+_Failed to fetch arXiv papers today. Checking back soon!_
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** (Model) (1173 likes)  
-- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** (Model) (5149 likes)  
-- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (3103 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (6278 likes)  
-- **[Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash)** (Model) (422 likes)
+- **[Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** (Model) (1207 likes)  
+- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** (Model) (5162 likes)  
+- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (3137 likes)  
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (6309 likes)  
+- **[Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash)** (Model) (426 likes)
 
 ---
 
@@ -198,4 +185,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-04 20:53:25 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-05 00:22:51 UTC via automated CI/CD pipeline.*
