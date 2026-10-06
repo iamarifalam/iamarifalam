@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](http://arxiv.org/abs/2610.03717v1)**  
-  *Published on Oct 02, 2026 | Authors: Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan et al.*  
+- **[One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline](http://arxiv.org/abs/2610.06852v1)**  
+  *Published on Oct 05, 2026 | Authors: Shih-Chen Tseng, Chih-Hsuan Chen, Ryan Yang et al.*  
 
-- **[4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes](http://arxiv.org/abs/2610.03715v1)**  
-  *Published on Oct 02, 2026 | Authors: Ruihong Shen, Žiga Kovačič, Peter Kulits et al.*  
+- **[Base Models Can Reason By Taking a Cue From Training Data](http://arxiv.org/abs/2610.06851v1)**  
+  *Published on Oct 05, 2026 | Authors: Sophie L. Wang, Amil Dravid, Rulin Shao et al.*  
 
-- **[What Should World Models Forget? Stratified Retention for Continual Adaptation](http://arxiv.org/abs/2610.03713v1)**  
-  *Published on Oct 02, 2026 | Authors: Nishit Anand, Ramani Duraiswami, Dinesh Manocha*  
+- **[BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance](http://arxiv.org/abs/2610.06846v1)**  
+  *Published on Oct 05, 2026 | Authors: Haojin Deng, Zhiping Lin, Yimin Yang*  
 
-- **[RNADyn: A Benchmark for Generating and Understanding RNA Dynamics](http://arxiv.org/abs/2610.03712v1)**  
-  *Published on Oct 02, 2026 | Authors: Yiming Huang, Lennart Bastian, Hanqun Cao et al.*  
+- **[Learning to Read the Contextual Tokens in Diffusion Transformers](http://arxiv.org/abs/2610.06844v1)**  
+  *Published on Oct 05, 2026 | Authors: Omer Dahary, Etai Sella, Hadar Averbuch-Elor et al.*  
 
-- **[EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras](http://arxiv.org/abs/2610.03710v1)**  
-  *Published on Oct 02, 2026 | Authors: Kush Hari, Justin Kerr, Nidhya Shivakumar et al.*
+- **[Recursive Video In-Context Learning for Agentic Robot](http://arxiv.org/abs/2610.06843v1)**  
+  *Published on Oct 05, 2026 | Authors: Wenrui Bao, Xinxin Liu, Bingxin Xu et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** (Model) (1495 likes)  
-- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** (Model) (5240 likes)  
-- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (3265 likes)  
-- **[Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)** (Model) (630 likes)  
-- **[Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash)** (Model) (531 likes)
+- **[Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** (Model) (1549 likes)  
+- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (3310 likes)  
+- **[autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL)** (Model) (812 likes)  
+- **[Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)** (Model) (655 likes)  
+- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** (Model) (5256 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-06 01:04:27 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-06 08:27:26 UTC via automated CI/CD pipeline.*
