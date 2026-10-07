@@ -98,31 +98,18 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline](http://arxiv.org/abs/2610.06852v1)**  
-  *Published on Oct 05, 2026 | Authors: Shih-Chen Tseng, Chih-Hsuan Chen, Ryan Yang et al.*  
-
-- **[Base Models Can Reason By Taking a Cue From Training Data](http://arxiv.org/abs/2610.06851v1)**  
-  *Published on Oct 05, 2026 | Authors: Sophie L. Wang, Amil Dravid, Rulin Shao et al.*  
-
-- **[BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance](http://arxiv.org/abs/2610.06846v1)**  
-  *Published on Oct 05, 2026 | Authors: Haojin Deng, Zhiping Lin, Yimin Yang*  
-
-- **[Learning to Read the Contextual Tokens in Diffusion Transformers](http://arxiv.org/abs/2610.06844v1)**  
-  *Published on Oct 05, 2026 | Authors: Omer Dahary, Etai Sella, Hadar Averbuch-Elor et al.*  
-
-- **[Recursive Video In-Context Learning for Agentic Robot](http://arxiv.org/abs/2610.06843v1)**  
-  *Published on Oct 05, 2026 | Authors: Wenrui Bao, Xinxin Liu, Bingxin Xu et al.*
+_Failed to fetch arXiv papers today. Checking back soon!_
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** (Model) (1668 likes)  
-- **[autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL)** (Model) (970 likes)  
-- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (3416 likes)  
-- **[Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)** (Model) (708 likes)  
-- **[Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash)** (Model) (587 likes)
+- **[Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** (Model) (1705 likes)  
+- **[autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL)** (Model) (1005 likes)  
+- **[Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)** (Model) (724 likes)  
+- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (3451 likes)  
+- **[autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide)** (Model) (752 likes)
 
 ---
 
@@ -198,4 +185,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-06 22:10:35 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-07 03:52:05 UTC via automated CI/CD pipeline.*
