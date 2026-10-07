@@ -118,11 +118,11 @@ Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.C
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** (Model) (1786 likes)  
-- **[autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL)** (Model) (1723 likes)  
-- **[autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide)** (Model) (1114 likes)  
-- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (880 likes)  
-- **[Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)** (Model) (767 likes)
+- **[Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** (Model) (1813 likes)  
+- **[autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL)** (Model) (1915 likes)  
+- **[autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide)** (Model) (1272 likes)  
+- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (941 likes)  
+- **[Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)** (Model) (774 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-07 18:18:18 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-07 23:58:26 UTC via automated CI/CD pipeline.*
