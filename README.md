@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[QF3: Fast Flow RL with Filtered Q-Gradients](http://arxiv.org/abs/2610.08789v1)**  
-  *Published on Oct 06, 2026 | Authors: Chung Min Kim, Brent Yi, David McAllister et al.*  
+- **[Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos](http://arxiv.org/abs/2610.10538v1)**  
+  *Published on Oct 07, 2026 | Authors: Shravan Chaudhari, William Paul, Suchi Saria et al.*  
 
-- **[Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective](http://arxiv.org/abs/2610.08785v1)**  
-  *Published on Oct 06, 2026 | Authors: Kevin Zhang, Stephen Bates*  
+- **[Decoupling Exploration from Optimization in RLVR](http://arxiv.org/abs/2610.10536v1)**  
+  *Published on Oct 07, 2026 | Authors: Saif Punjwani, Micah Goldblum*  
 
-- **[4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction](http://arxiv.org/abs/2610.08782v1)**  
-  *Published on Oct 06, 2026 | Authors: Shiqi Li, Sean Cho, Yijie Li et al.*  
+- **[EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory](http://arxiv.org/abs/2610.10533v1)**  
+  *Published on Oct 07, 2026 | Authors: Hongru Cai, Ran Wei, Wenjie Wang et al.*  
 
-- **[IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas](http://arxiv.org/abs/2610.08781v1)**  
-  *Published on Oct 06, 2026 | Authors: Ziyu Chen, Yilun Zhao, Jiashuo Sun et al.*  
+- **[Long-WAM: Scaling the Context of World-Action Models](http://arxiv.org/abs/2610.10528v1)**  
+  *Published on Oct 07, 2026 | Authors: Wei Huang, Bohan Zhang, Chenzhi Liu et al.*  
 
-- **[DepthWorld: 3D World Model for Robot Manipulation](http://arxiv.org/abs/2610.08780v1)**  
-  *Published on Oct 06, 2026 | Authors: Jai Bardhan, Josef Sivic, Vladimir Petrik*
+- **[Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping](http://arxiv.org/abs/2610.10527v1)**  
+  *Published on Oct 07, 2026 | Authors: Aleksandar Armacki, Haoyuan Cai, Ali H. Sayed*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** (Model) (1813 likes)  
-- **[autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL)** (Model) (1915 likes)  
-- **[autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide)** (Model) (1272 likes)  
-- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (941 likes)  
-- **[Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)** (Model) (774 likes)
+- **[autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL)** (Model) (2175 likes)  
+- **[Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** (Model) (1835 likes)  
+- **[autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide)** (Model) (1432 likes)  
+- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (1008 likes)  
+- **[Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)** (Model) (788 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-07 23:58:26 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-08 05:17:13 UTC via automated CI/CD pipeline.*
