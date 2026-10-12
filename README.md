@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[CSF: Contextual Safety Filtering for Motion Generators](http://arxiv.org/abs/2610.12467v1)**  
-  *Published on Oct 08, 2026 | Authors: Lizhi Yang, Yiling Hou, Yao Tang et al.*  
+- **[Can Language Models Play the Wikipedia Game?](http://arxiv.org/abs/2610.13948v1)**  
+  *Published on Oct 09, 2026 | Authors: Alexander Hickey, Joanna Knight, James Bishop*  
 
-- **[On the estimation and validity of AI time horizons---a statistical look at the METR plot](http://arxiv.org/abs/2610.12466v1)**  
-  *Published on Oct 08, 2026 | Authors: Drew T. Nguyen, William Fithian*  
+- **[Hide and Seek: HIDE Concepts to SEEK explanations for black box models](http://arxiv.org/abs/2610.13935v1)**  
+  *Published on Oct 09, 2026 | Authors: Bhanu Tokas, Rahul Nair, Rockwell Jackson et al.*  
 
-- **[A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control](http://arxiv.org/abs/2610.12465v1)**  
-  *Published on Oct 08, 2026 | Authors: Octi Zhang, Mateo Guaman Castro, Patrick Yin et al.*  
+- **[Constructive Bounds for the Topological Expressivity of Neural Networks](http://arxiv.org/abs/2610.13931v1)**  
+  *Published on Oct 09, 2026 | Authors: Kosio Beshkov*  
 
-- **[From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents](http://arxiv.org/abs/2610.12463v1)**  
-  *Published on Oct 08, 2026 | Authors: Abbas Raftari*  
+- **[AI Models Can Provably Hide Arbitrary Capabilities](http://arxiv.org/abs/2610.13928v1)**  
+  *Published on Oct 09, 2026 | Authors: Andis Draguns, Sumeet Ramesh Motwani, Raymond Douglas et al.*  
 
-- **[BrickBench: Evaluating Agentic Brick Design](http://arxiv.org/abs/2610.12452v1)**  
-  *Published on Oct 08, 2026 | Authors: Peter Kulits, Yiqing Xu, R. Kenny Jones et al.*
+- **[KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling](http://arxiv.org/abs/2610.13924v1)**  
+  *Published on Oct 09, 2026 | Authors: Tianyi Wu*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (1700 likes)  
-- **[jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer)** (Model) (1079 likes)  
-- **[Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** (Model) (2028 likes)  
-- **[abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)** (Model) (3984 likes)  
-- **[Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)** (Model) (541 likes)
+- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (1795 likes)  
+- **[jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer)** (Model) (1178 likes)  
+- **[Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** (Model) (2047 likes)  
+- **[abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)** (Model) (4022 likes)  
+- **[Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)** (Model) (570 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-12 00:54:28 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-12 08:27:03 UTC via automated CI/CD pipeline.*
