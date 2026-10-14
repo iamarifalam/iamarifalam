@@ -9,11 +9,11 @@
 <h3 align="center">AI Engineer at EY | Educator & Content Creator (1M+) | MBA Candidate at NMIMS</h3>
 
 <p align="center">
-  <b>“AI Engineer crafting production-grade systems while simplifying AI for the world.”</b>
+  <b> AI Engineer crafting production-grade systems while simplifying AI for the world. </b>
 </p>
 
 <p align="center">
-  🚀 <i>Bridging AI engineering with education at scale • Turning complex AI systems into practical solutions.</i>
+   <i>Bridging AI engineering with education at scale • Turning complex AI systems into practical solutions.</i>
 </p>
 
 ---
