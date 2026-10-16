@@ -98,31 +98,18 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion](http://arxiv.org/abs/2610.20606v1)**  
-  *Published on Oct 14, 2026 | Authors: Huixuan Cheng, Bike Zhang, Shankar Sastry et al.*  
-
-- **[Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance](http://arxiv.org/abs/2610.20607v1)**  
-  *Published on Oct 14, 2026 | Authors: Zhefei Gong, Hefeifei Jiang, Zehao Wang et al.*  
-
-- **[Co-Evolving Acting and Forecasting for Language Agents](http://arxiv.org/abs/2610.20597v1)**  
-  *Published on Oct 14, 2026 | Authors: Haofei Yu, Yixing Chen, Yining Zhao et al.*  
-
-- **[Your Transformer Is Secretly Elastic](http://arxiv.org/abs/2610.20588v1)**  
-  *Published on Oct 14, 2026 | Authors: Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts et al.*  
-
-- **[Price of Anarchy of First-Price Auctions in Agentic Markets](http://arxiv.org/abs/2610.20587v1)**  
-  *Published on Oct 14, 2026 | Authors: Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal et al.*
+_Failed to fetch arXiv papers today. Checking back soon!_
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (2394 likes)  
-- **[jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer)** (Model) (1729 likes)  
-- **[Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)** (Model) (873 likes)  
-- **[openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B)** (Model) (790 likes)  
-- **[abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)** (Model) (4379 likes)
+- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (2412 likes)  
+- **[jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer)** (Model) (1742 likes)  
+- **[Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)** (Model) (884 likes)  
+- **[openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B)** (Model) (796 likes)  
+- **[abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)** (Model) (4391 likes)
 
 ---
 
@@ -198,4 +185,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-15 22:51:05 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-16 02:47:08 UTC via automated CI/CD pipeline.*
