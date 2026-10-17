@@ -98,18 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-_Failed to fetch arXiv papers today. Checking back soon!_
+- **[LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](http://arxiv.org/abs/2610.22372v1)**  
+  *Published on Oct 15, 2026 | Authors: Zhixu Li, Keqian Tang, Litian Gong et al.*  
+
+- **[Discovering state-of-the-art quantum circuits with large language models](http://arxiv.org/abs/2610.22367v1)**  
+  *Published on Oct 15, 2026 | Authors: Andi Gu, Alek H. Kemeny, Susanne F. Yelin et al.*  
+
+- **[T2-z: Test-Time Optimization of Environment Latents for Robotic World Models](http://arxiv.org/abs/2610.22364v1)**  
+  *Published on Oct 15, 2026 | Authors: Chenyuan Zhou, Yining Hong, Huang Huang et al.*  
+
+- **[CoDA: Co-Evolution of Data Engines and Action Policies](http://arxiv.org/abs/2610.22362v1)**  
+  *Published on Oct 15, 2026 | Authors: Tianjiao Yu, Zhilin Ou, Yifan Shen et al.*  
+
+- **[PathFM: Fast Generative Forecasting of Multivariate Trajectories](http://arxiv.org/abs/2610.22358v1)**  
+  *Published on Oct 15, 2026 | Authors: Jiachen Yao, Xiyuan Zhang, Annan Yu et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (2516 likes)  
-- **[jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer)** (Model) (1832 likes)  
-- **[openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B)** (Model) (849 likes)  
-- **[fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)** (Model) (558 likes)  
-- **[Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)** (Model) (946 likes)
+- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (2532 likes)  
+- **[jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer)** (Model) (1846 likes)  
+- **[openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B)** (Model) (861 likes)  
+- **[fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)** (Model) (569 likes)  
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (8118 likes)
 
 ---
 
@@ -185,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-17 02:38:44 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-17 08:12:10 UTC via automated CI/CD pipeline.*
