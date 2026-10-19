@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Language Models Learn to Improve Language Models](http://arxiv.org/abs/2610.23344v1)**  
-  *Published on Oct 16, 2026 | Authors: Minhua Lin, Zijun Wang, Zewen Liu et al.*  
+- **[Rethinking the design space of Vanilla Pixel Diffusion Transformers](http://arxiv.org/abs/2610.23854v1)**  
+  *Published on Oct 16, 2026 | Authors: Soumik Mukhopadhyay, Long Mai, Abhinav Shrivastava et al.*  
 
-- **[How Finite-Rank Bottlenecks Shape the Low-Rank Adaptation Landscape](http://arxiv.org/abs/2610.23343v1)**  
-  *Published on Oct 16, 2026 | Authors: Long Nguyen-Chi, Quynh Nguyen, Thanh Nguyen-Cung et al.*  
+- **[Behavioral Couplings: From Formation to Behavioral Emergence in Language Models](http://arxiv.org/abs/2610.23847v1)**  
+  *Published on Oct 16, 2026 | Authors: Dongyoon Hahm, Woogyeol Jin, Dennis Wei et al.*  
 
-- **[Robust Function Calling for LLM Agents Under Interface Drift](http://arxiv.org/abs/2610.23342v1)**  
-  *Published on Oct 16, 2026 | Authors: Aniruddha Chattopadhyay, Kanishka Halder, Partha Sarathi Roy*  
+- **[AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery](http://arxiv.org/abs/2610.23845v1)**  
+  *Published on Oct 16, 2026 | Authors: Shicheng Liu, Krista Opsahl-Ong, Andrew Drozdov et al.*  
 
-- **[SETAREH Transform: A Sorting-Assisted Haar-Wavelet Sparsification Method for Approximate Inner-Product Computation](http://arxiv.org/abs/2610.23338v1)**  
-  *Published on Oct 16, 2026 | Authors: Seyed Kamaledin Setarehdan*  
+- **[DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses](http://arxiv.org/abs/2610.23839v1)**  
+  *Published on Oct 16, 2026 | Authors: Jianyuan Zhong, Chenwei Wu, Zhaochen Yu et al.*  
 
-- **[Minimax-optimal Scaling Laws in Ridge Regression via Transfer Learning](http://arxiv.org/abs/2610.23337v1)**  
-  *Published on Oct 16, 2026 | Authors: Yalda Shabanzadeh, Diyuan Wu, Marco Mondelli*
+- **[Task-aligned spectral inductive biases in parameterized quantum circuits](http://arxiv.org/abs/2610.23834v1)**  
+  *Published on Oct 16, 2026 | Authors: Felix Frohnert, Adrián Pérez-Salinas, Sebastian Lange et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (1368 likes)  
-- **[openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B)** (Model) (1010 likes)  
-- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (2667 likes)  
-- **[jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer)** (Model) (1950 likes)  
-- **[fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)** (Model) (702 likes)
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (1506 likes)  
+- **[openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B)** (Model) (1025 likes)  
+- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (2682 likes)  
+- **[fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)** (Model) (723 likes)  
+- **[black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)** (Model) (854 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-19 02:53:16 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-19 09:31:02 UTC via automated CI/CD pipeline.*
