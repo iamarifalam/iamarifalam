@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Rethinking the design space of Vanilla Pixel Diffusion Transformers](http://arxiv.org/abs/2610.23854v1)**  
-  *Published on Oct 16, 2026 | Authors: Soumik Mukhopadhyay, Long Mai, Abhinav Shrivastava et al.*  
+- **[Text-to-Image Generative Modeling Without Language Pretraining](http://arxiv.org/abs/2610.26863v1)**  
+  *Published on Oct 19, 2026 | Authors: Keshigeyan Chandrasegaran, Yue Zhao, Armin W. Thomas et al.*  
 
-- **[Behavioral Couplings: From Formation to Behavioral Emergence in Language Models](http://arxiv.org/abs/2610.23847v1)**  
-  *Published on Oct 16, 2026 | Authors: Dongyoon Hahm, Woogyeol Jin, Dennis Wei et al.*  
+- **[OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](http://arxiv.org/abs/2610.26860v1)**  
+  *Published on Oct 19, 2026 | Authors: Yu Zhou, Cheng-Fu Yang, Rui Sun et al.*  
 
-- **[AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery](http://arxiv.org/abs/2610.23845v1)**  
-  *Published on Oct 16, 2026 | Authors: Shicheng Liu, Krista Opsahl-Ong, Andrew Drozdov et al.*  
+- **[Can It Actually Work? Synthesizing Functional CAD Mechanisms](http://arxiv.org/abs/2610.26861v1)**  
+  *Published on Oct 19, 2026 | Authors: Wenqian Zhang, Yangyi Huang, Zigeng Xu et al.*  
 
-- **[DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses](http://arxiv.org/abs/2610.23839v1)**  
-  *Published on Oct 16, 2026 | Authors: Jianyuan Zhong, Chenwei Wu, Zhaochen Yu et al.*  
+- **[Reinforcement Learning with Visually Attributable On-Policy Self-Distillation](http://arxiv.org/abs/2610.26856v1)**  
+  *Published on Oct 19, 2026 | Authors: Shiao Xie, Siyu Chen, Jianwei Lv et al.*  
 
-- **[Task-aligned spectral inductive biases in parameterized quantum circuits](http://arxiv.org/abs/2610.23834v1)**  
-  *Published on Oct 16, 2026 | Authors: Felix Frohnert, Adrián Pérez-Salinas, Sebastian Lange et al.*
+- **[CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting](http://arxiv.org/abs/2610.26852v1)**  
+  *Published on Oct 19, 2026 | Authors: Zehao Wang, Jianpeng Yao, Yuping Wang et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (1694 likes)  
-- **[openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B)** (Model) (1066 likes)  
-- **[black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)** (Model) (964 likes)  
-- **[fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)** (Model) (770 likes)  
-- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (2725 likes)
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (1756 likes)  
+- **[black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)** (Model) (1001 likes)  
+- **[fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)** (Model) (787 likes)  
+- **[openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B)** (Model) (1071 likes)  
+- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (2734 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-20 00:53:32 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-20 07:01:20 UTC via automated CI/CD pipeline.*
