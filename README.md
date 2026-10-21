@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Text-to-Image Generative Modeling Without Language Pretraining](http://arxiv.org/abs/2610.26863v1)**  
-  *Published on Oct 19, 2026 | Authors: Keshigeyan Chandrasegaran, Yue Zhao, Armin W. Thomas et al.*  
+- **[Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs](http://arxiv.org/abs/2610.28632v1)**  
+  *Published on Oct 20, 2026 | Authors: Noam Rotstein, Yoad Tewel, Chen Tessler et al.*  
 
-- **[OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](http://arxiv.org/abs/2610.26860v1)**  
-  *Published on Oct 19, 2026 | Authors: Yu Zhou, Cheng-Fu Yang, Rui Sun et al.*  
+- **[GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery](http://arxiv.org/abs/2610.28629v1)**  
+  *Published on Oct 20, 2026 | Authors: Yazhuo Liu, Kunqing Ding, Xiaoguo Gong et al.*  
 
-- **[Can It Actually Work? Synthesizing Functional CAD Mechanisms](http://arxiv.org/abs/2610.26861v1)**  
-  *Published on Oct 19, 2026 | Authors: Wenqian Zhang, Yangyi Huang, Zigeng Xu et al.*  
+- **[Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking](http://arxiv.org/abs/2610.28628v1)**  
+  *Published on Oct 20, 2026 | Authors: Yuxuan Kuang, Jiashun Wang, Yixuan Sun et al.*  
 
-- **[Reinforcement Learning with Visually Attributable On-Policy Self-Distillation](http://arxiv.org/abs/2610.26856v1)**  
-  *Published on Oct 19, 2026 | Authors: Shiao Xie, Siyu Chen, Jianwei Lv et al.*  
+- **[UniWALM: Unified World Action Language Model for Embodied Robot Control](http://arxiv.org/abs/2610.28626v1)**  
+  *Published on Oct 20, 2026 | Authors: Rahul Sajnani, Diego Romeres, Mingyuan Zhang et al.*  
 
-- **[CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting](http://arxiv.org/abs/2610.26852v1)**  
-  *Published on Oct 19, 2026 | Authors: Zehao Wang, Jianpeng Yao, Yuping Wang et al.*
+- **[Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets](http://arxiv.org/abs/2610.28624v1)**  
+  *Published on Oct 20, 2026 | Authors: Jad Yammine, Malek Wahidi, Abrar Anwar et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (1942 likes)  
-- **[black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)** (Model) (1083 likes)  
-- **[fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)** (Model) (834 likes)  
-- **[meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B)** (Model) (607 likes)  
-- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (2763 likes)
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (1978 likes)  
+- **[black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)** (Model) (1100 likes)  
+- **[fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)** (Model) (839 likes)  
+- **[meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B)** (Model) (612 likes)  
+- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** (Model) (2771 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-20 22:53:08 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-21 02:57:57 UTC via automated CI/CD pipeline.*
