@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs](http://arxiv.org/abs/2610.28632v1)**  
-  *Published on Oct 20, 2026 | Authors: Noam Rotstein, Yoad Tewel, Chen Tessler et al.*  
+- **[LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](http://arxiv.org/abs/2610.30132v1)**  
+  *Published on Oct 21, 2026 | Authors: Zhennan Wan, Jianfei Chen*  
 
-- **[GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery](http://arxiv.org/abs/2610.28629v1)**  
-  *Published on Oct 20, 2026 | Authors: Yazhuo Liu, Kunqing Ding, Xiaoguo Gong et al.*  
+- **[Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation](http://arxiv.org/abs/2610.30128v1)**  
+  *Published on Oct 21, 2026 | Authors: Zhanshuo Cao, Jiakai Tang, Yuqi Zhou et al.*  
 
-- **[Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking](http://arxiv.org/abs/2610.28628v1)**  
-  *Published on Oct 20, 2026 | Authors: Yuxuan Kuang, Jiashun Wang, Yixuan Sun et al.*  
+- **[PhysiCalWorld: In-Context Physics Calibration for World Models](http://arxiv.org/abs/2610.30125v1)**  
+  *Published on Oct 21, 2026 | Authors: Yunhao Luo, Wentao He, Yinpei Dai et al.*  
 
-- **[UniWALM: Unified World Action Language Model for Embodied Robot Control](http://arxiv.org/abs/2610.28626v1)**  
-  *Published on Oct 20, 2026 | Authors: Rahul Sajnani, Diego Romeres, Mingyuan Zhang et al.*  
+- **[A Quasipolynomial Algorithm for $\ell_\infty$ Contractions](http://arxiv.org/abs/2610.30122v1)**  
+  *Published on Oct 21, 2026 | Authors: Ashkan Soleymani, Gabriele Farina*  
 
-- **[Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets](http://arxiv.org/abs/2610.28624v1)**  
-  *Published on Oct 20, 2026 | Authors: Jad Yammine, Malek Wahidi, Abrar Anwar et al.*
+- **[Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence](http://arxiv.org/abs/2610.30119v1)**  
+  *Published on Oct 21, 2026 | Authors: Imon Banerjee, Pierre Alquier*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (2153 likes)  
-- **[black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)** (Model) (1184 likes)  
-- **[meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B)** (Model) (635 likes)  
-- **[fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)** (Model) (887 likes)  
-- **[black-forest-labs/flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein)** (Model) (599 likes)
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (2184 likes)  
+- **[black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)** (Model) (1195 likes)  
+- **[meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B)** (Model) (638 likes)  
+- **[black-forest-labs/flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein)** (Model) (603 likes)  
+- **[fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)** (Model) (890 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-21 22:58:16 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-22 02:56:57 UTC via automated CI/CD pipeline.*
