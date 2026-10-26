@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](http://arxiv.org/abs/2610.31670v1)**  
-  *Published on Oct 22, 2026 | Authors: Yunfei Xie, Howard H. Qian, Shiyi Lan et al.*  
+- **[The Language of Instruction: Genre and Generative AI](http://arxiv.org/abs/2610.32982v1)**  
+  *Published on Oct 23, 2026 | Authors: James E. Dobson*  
 
-- **[Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning](http://arxiv.org/abs/2610.31667v1)**  
-  *Published on Oct 22, 2026 | Authors: Mahdi Salmani, Adel Javanmard, Devansh Gupta et al.*  
+- **[SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](http://arxiv.org/abs/2610.32978v1)**  
+  *Published on Oct 23, 2026 | Authors: Yuhan Liu, Lianhui Qin, Shenji Wan*  
 
-- **[Phase Transition from Random Features to Fully Trainable Networks](http://arxiv.org/abs/2610.31663v1)**  
-  *Published on Oct 22, 2026 | Authors: Xin He, Huan Lao, Xiliang Lu et al.*  
+- **[RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms](http://arxiv.org/abs/2610.32971v1)**  
+  *Published on Oct 23, 2026 | Authors: Xi Chen, Fengqi Hu, Zeyu Shen et al.*  
 
-- **[Reliable AI-Assisted Decisions via Selective Auditing](http://arxiv.org/abs/2610.31662v1)**  
-  *Published on Oct 22, 2026 | Authors: Isaac Gibbs, Elise L. Han, Ryan J. Tibshirani et al.*  
+- **[DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection](http://arxiv.org/abs/2610.32969v1)**  
+  *Published on Oct 23, 2026 | Authors: Amber Xie, Jiawei Fu, Xiaofeng Guo et al.*  
 
-- **[SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing](http://arxiv.org/abs/2610.31659v1)**  
-  *Published on Oct 22, 2026 | Authors: Sy-Tuyen Ho, Anirudh Satheesh, Soham Chawathe et al.*
+- **[Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection](http://arxiv.org/abs/2610.32964v1)**  
+  *Published on Oct 23, 2026 | Authors: Bernardo Perrone Ribeiro, Erkut Akdag, Egor Bondarev*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (2965 likes)  
-- **[RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint)** (Model) (850 likes)  
-- **[black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)** (Model) (1598 likes)  
-- **[XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B)** (Model) (492 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (9325 likes)
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (3001 likes)  
+- **[RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint)** (Model) (863 likes)  
+- **[black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)** (Model) (1608 likes)  
+- **[XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B)** (Model) (521 likes)  
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (9344 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-25 22:14:04 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-26 02:48:18 UTC via automated CI/CD pipeline.*
