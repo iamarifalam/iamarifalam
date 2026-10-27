@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[The Language of Instruction: Genre and Generative AI](http://arxiv.org/abs/2610.32982v1)**  
-  *Published on Oct 23, 2026 | Authors: James E. Dobson*  
+- **[Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks](http://arxiv.org/abs/2610.35123v1)**  
+  *Published on Oct 26, 2026 | Authors: Luca Biferale, Michele Buzzicotti*  
 
-- **[SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](http://arxiv.org/abs/2610.32978v1)**  
-  *Published on Oct 23, 2026 | Authors: Yuhan Liu, Lianhui Qin, Shenji Wan*  
+- **[Quality over Quantity: Rethinking Data and Model Assumptions for Bengali Coreference Resolution](http://arxiv.org/abs/2610.35114v1)**  
+  *Published on Oct 26, 2026 | Authors: Zenith Biswas, Andrew Thomas Dyer*  
 
-- **[RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms](http://arxiv.org/abs/2610.32971v1)**  
-  *Published on Oct 23, 2026 | Authors: Xi Chen, Fengqi Hu, Zeyu Shen et al.*  
+- **[UTA: Universal Training Adaptive Learning Rate Decay](http://arxiv.org/abs/2610.35113v1)**  
+  *Published on Oct 26, 2026 | Authors: Anda Tang, Junjie Wang, Xuanlin Yang et al.*  
 
-- **[DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection](http://arxiv.org/abs/2610.32969v1)**  
-  *Published on Oct 23, 2026 | Authors: Amber Xie, Jiawei Fu, Xiaofeng Guo et al.*  
+- **[Subspace Crystallization in Grokking: Rank Compression Tracks the Phase Transition](http://arxiv.org/abs/2610.35112v1)**  
+  *Published on Oct 26, 2026 | Authors: Shlok Mehendale, Paras Chopra*  
 
-- **[Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection](http://arxiv.org/abs/2610.32964v1)**  
-  *Published on Oct 23, 2026 | Authors: Bernardo Perrone Ribeiro, Erkut Akdag, Egor Bondarev*
+- **[Rethinking Evaluation for Principled Generalization Using a Kripkean Challenge to Meaning as Use](http://arxiv.org/abs/2610.35111v1)**  
+  *Published on Oct 26, 2026 | Authors: Niyar R Barman, Omar Naim, Nicholas Asher*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (3175 likes)  
-- **[RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint)** (Model) (918 likes)  
-- **[Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)** (Model) (588 likes)  
-- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (468 likes)  
-- **[XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B)** (Model) (638 likes)
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (3205 likes)  
+- **[RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint)** (Model) (926 likes)  
+- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (518 likes)  
+- **[Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)** (Model) (603 likes)  
+- **[XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B)** (Model) (670 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-26 22:11:56 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-27 03:22:11 UTC via automated CI/CD pipeline.*
