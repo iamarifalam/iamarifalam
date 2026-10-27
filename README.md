@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Generative AI in Turbulence: Foundations, Applications, Validations and Benchmarks](http://arxiv.org/abs/2610.35123v1)**  
-  *Published on Oct 26, 2026 | Authors: Luca Biferale, Michele Buzzicotti*  
+- **[Retriever-Free Retrieval: Navigating Documents with Decision Models](http://arxiv.org/abs/2610.35868v1)**  
+  *Published on Oct 26, 2026 | Authors: Chao Wan, Paul Jünger, Beixi Du et al.*  
 
-- **[Quality over Quantity: Rethinking Data and Model Assumptions for Bengali Coreference Resolution](http://arxiv.org/abs/2610.35114v1)**  
-  *Published on Oct 26, 2026 | Authors: Zenith Biswas, Andrew Thomas Dyer*  
+- **[Center-of-Mass Interpretation of Evolution Strategies](http://arxiv.org/abs/2610.35865v1)**  
+  *Published on Oct 26, 2026 | Authors: Akshat Gupta*  
 
-- **[UTA: Universal Training Adaptive Learning Rate Decay](http://arxiv.org/abs/2610.35113v1)**  
-  *Published on Oct 26, 2026 | Authors: Anda Tang, Junjie Wang, Xuanlin Yang et al.*  
+- **[Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling](http://arxiv.org/abs/2610.35866v1)**  
+  *Published on Oct 26, 2026 | Authors: Xi Chen, Chongjian Ge, Yiran Xu et al.*  
 
-- **[Subspace Crystallization in Grokking: Rank Compression Tracks the Phase Transition](http://arxiv.org/abs/2610.35112v1)**  
-  *Published on Oct 26, 2026 | Authors: Shlok Mehendale, Paras Chopra*  
+- **[Learning Force-Reactive Humanoid Loco-Manipulation](http://arxiv.org/abs/2610.35862v1)**  
+  *Published on Oct 26, 2026 | Authors: Sihang Li, Xiaofeng Guo, Jinkun Cao et al.*  
 
-- **[Rethinking Evaluation for Principled Generalization Using a Kripkean Challenge to Meaning as Use](http://arxiv.org/abs/2610.35111v1)**  
-  *Published on Oct 26, 2026 | Authors: Niyar R Barman, Omar Naim, Nicholas Asher*
+- **[On the stability of learning](http://arxiv.org/abs/2610.35856v1)**  
+  *Published on Oct 26, 2026 | Authors: John J. Vastola*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (3205 likes)  
-- **[RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint)** (Model) (926 likes)  
-- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (518 likes)  
-- **[Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)** (Model) (603 likes)  
-- **[XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B)** (Model) (670 likes)
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (3273 likes)  
+- **[RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint)** (Model) (937 likes)  
+- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (569 likes)  
+- **[Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)** (Model) (622 likes)  
+- **[XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B)** (Model) (730 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-27 03:22:11 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-27 09:31:42 UTC via automated CI/CD pipeline.*
