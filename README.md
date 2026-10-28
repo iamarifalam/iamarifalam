@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Retriever-Free Retrieval: Navigating Documents with Decision Models](http://arxiv.org/abs/2610.35868v1)**  
-  *Published on Oct 26, 2026 | Authors: Chao Wan, Paul Jünger, Beixi Du et al.*  
+- **[Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](http://arxiv.org/abs/2610.37668v1)**  
+  *Published on Oct 27, 2026 | Authors: Prakhar Kaushik, Soumava Paul, Alan Yuille*  
 
-- **[Center-of-Mass Interpretation of Evolution Strategies](http://arxiv.org/abs/2610.35865v1)**  
-  *Published on Oct 26, 2026 | Authors: Akshat Gupta*  
+- **[ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](http://arxiv.org/abs/2610.37666v1)**  
+  *Published on Oct 27, 2026 | Authors: Chaehyun Kim, Chi-Pin Huang, Jisoo Kim et al.*  
 
-- **[Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling](http://arxiv.org/abs/2610.35866v1)**  
-  *Published on Oct 26, 2026 | Authors: Xi Chen, Chongjian Ge, Yiran Xu et al.*  
+- **[When Should We Intervene at Test Time?](http://arxiv.org/abs/2610.37658v1)**  
+  *Published on Oct 27, 2026 | Authors: Jiahao Zhang, Xinling Wen, Liangliang Li et al.*  
 
-- **[Learning Force-Reactive Humanoid Loco-Manipulation](http://arxiv.org/abs/2610.35862v1)**  
-  *Published on Oct 26, 2026 | Authors: Sihang Li, Xiaofeng Guo, Jinkun Cao et al.*  
+- **[Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](http://arxiv.org/abs/2610.37657v1)**  
+  *Published on Oct 27, 2026 | Authors: Igor Shilov, Xiaoxue Yang, Alexander Panfilov et al.*  
 
-- **[On the stability of learning](http://arxiv.org/abs/2610.35856v1)**  
-  *Published on Oct 26, 2026 | Authors: John J. Vastola*
+- **[Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops](http://arxiv.org/abs/2610.37656v1)**  
+  *Published on Oct 27, 2026 | Authors: Aakash Sarkar, Ananya Mukherjee, Motoshige Sato*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (3391 likes)  
-- **[RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint)** (Model) (982 likes)  
-- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (671 likes)  
-- **[Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)** (Model) (676 likes)  
-- **[XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B)** (Model) (791 likes)
+- **[RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint)** (Model) (1089 likes)  
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (3444 likes)  
+- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (721 likes)  
+- **[Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)** (Model) (684 likes)  
+- **[XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B)** (Model) (818 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-28 00:54:02 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-28 07:50:18 UTC via automated CI/CD pipeline.*
