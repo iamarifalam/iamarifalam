@@ -98,31 +98,18 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](http://arxiv.org/abs/2610.37668v1)**  
-  *Published on Oct 27, 2026 | Authors: Prakhar Kaushik, Soumava Paul, Alan Yuille*  
-
-- **[ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](http://arxiv.org/abs/2610.37666v1)**  
-  *Published on Oct 27, 2026 | Authors: Chaehyun Kim, Chi-Pin Huang, Jisoo Kim et al.*  
-
-- **[When Should We Intervene at Test Time?](http://arxiv.org/abs/2610.37658v1)**  
-  *Published on Oct 27, 2026 | Authors: Jiahao Zhang, Xinling Wen, Liangliang Li et al.*  
-
-- **[Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](http://arxiv.org/abs/2610.37657v1)**  
-  *Published on Oct 27, 2026 | Authors: Igor Shilov, Xiaoxue Yang, Alexander Panfilov et al.*  
-
-- **[Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops](http://arxiv.org/abs/2610.37656v1)**  
-  *Published on Oct 27, 2026 | Authors: Aakash Sarkar, Ananya Mukherjee, Motoshige Sato*
+_Failed to fetch arXiv papers today. Checking back soon!_
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (927 likes)  
-- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (3748 likes)  
-- **[Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)** (Model) (764 likes)  
-- **[RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint)** (Model) (1237 likes)  
-- **[XHToken/Spark-X2.6-4B](https://huggingface.co/XHToken/Spark-X2.6-4B)** (Model) (900 likes)
+- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (941 likes)  
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (3778 likes)  
+- **[Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)** (Model) (778 likes)  
+- **[RecursiveSI/flint](https://huggingface.co/RecursiveSI/flint)** (Model) (1244 likes)  
+- **[LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)** (Model) (484 likes)
 
 ---
 
@@ -198,4 +185,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-10-29 20:47:26 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-10-30 01:29:55 UTC via automated CI/CD pipeline.*
