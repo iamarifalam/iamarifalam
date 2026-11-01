@@ -118,11 +118,11 @@ Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.C
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (1162 likes)  
-- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (4206 likes)  
-- **[LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)** (Model) (671 likes)  
-- **[Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)** (Model) (963 likes)  
-- **[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)** (Model) (580 likes)
+- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (1180 likes)  
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (4267 likes)  
+- **[LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)** (Model) (686 likes)  
+- **[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)** (Model) (590 likes)  
+- **[Nanbeige/Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B)** (Model) (967 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-01 17:31:05 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-01 21:35:52 UTC via automated CI/CD pipeline.*
