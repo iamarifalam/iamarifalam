@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Elucidating the Design Space of LM Data Attribution](http://arxiv.org/abs/2610.40655v1)**  
-  *Published on Oct 29, 2026 | Authors: Steven Yu, Sheng-Yu Wang, Kimia Hamidieh et al.*  
+- **[Latent Reasoning in Continuous Space for Unified Multimodal Models](http://arxiv.org/abs/2610.42149v1)**  
+  *Published on Oct 30, 2026 | Authors: Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al.*  
 
-- **[Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](http://arxiv.org/abs/2610.40654v1)**  
-  *Published on Oct 29, 2026 | Authors: Moshe Shenfeld, Eliad Tsfadia, Katrina Ligett*  
+- **[Flide: Accelerating Decision Inference with Exact State Forking](http://arxiv.org/abs/2610.42148v1)**  
+  *Published on Oct 30, 2026 | Authors: Bobo Li, Jiajia Song, Hao Fei et al.*  
 
-- **[Rethinking Neural Thickets Without Weight Perturbations](http://arxiv.org/abs/2610.40649v1)**  
-  *Published on Oct 29, 2026 | Authors: Nicolas Dufour, Elouan Gardès, Amil Dravid et al.*  
+- **[Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](http://arxiv.org/abs/2610.42147v1)**  
+  *Published on Oct 30, 2026 | Authors: Ales Kubicek, Andrea Caciolai, Liangzu Peng et al.*  
 
-- **[Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](http://arxiv.org/abs/2610.40647v1)**  
-  *Published on Oct 29, 2026 | Authors: Jiongfan Yang, Weichen Fan, Haiwen Diao et al.*  
+- **[Hierarchical World Models with Implicit Dynamics](http://arxiv.org/abs/2610.42146v1)**  
+  *Published on Oct 30, 2026 | Authors: Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui et al.*  
 
-- **[Adaptive Scenario Generation for KL-DRO Around a Learned Density Model](http://arxiv.org/abs/2610.40644v1)**  
-  *Published on Oct 29, 2026 | Authors: Aron Brenner, Saurabh Amin*
+- **[RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory](http://arxiv.org/abs/2610.42141v1)**  
+  *Published on Oct 30, 2026 | Authors: Shengguang Wu, Suning Huang, Cherie Ho et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (1192 likes)  
-- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (4310 likes)  
-- **[LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)** (Model) (697 likes)  
-- **[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)** (Model) (602 likes)  
-- **[mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B)** (Model) (1451 likes)
+- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (1221 likes)  
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (4439 likes)  
+- **[LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)** (Model) (749 likes)  
+- **[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)** (Model) (626 likes)  
+- **[mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B)** (Model) (1466 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-02 01:10:41 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-02 08:44:51 UTC via automated CI/CD pipeline.*
