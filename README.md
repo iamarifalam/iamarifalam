@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Latent Reasoning in Continuous Space for Unified Multimodal Models](http://arxiv.org/abs/2610.42149v1)**  
-  *Published on Oct 30, 2026 | Authors: Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al.*  
+- **[Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations](http://arxiv.org/abs/2611.03647v1)**  
+  *Published on Nov 02, 2026 | Authors: Jason Jingzhou Liu, Tony Tao, Deepak Pathak et al.*  
 
-- **[Flide: Accelerating Decision Inference with Exact State Forking](http://arxiv.org/abs/2610.42148v1)**  
-  *Published on Oct 30, 2026 | Authors: Bobo Li, Jiajia Song, Hao Fei et al.*  
+- **[Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation](http://arxiv.org/abs/2611.03648v1)**  
+  *Published on Nov 02, 2026 | Authors: Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov et al.*  
 
-- **[Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](http://arxiv.org/abs/2610.42147v1)**  
-  *Published on Oct 30, 2026 | Authors: Ales Kubicek, Andrea Caciolai, Liangzu Peng et al.*  
+- **[From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles](http://arxiv.org/abs/2611.03641v1)**  
+  *Published on Nov 02, 2026 | Authors: Paulius Skaisgiris, Thomas Pammer, Veronika Semmelrock et al.*  
 
-- **[Hierarchical World Models with Implicit Dynamics](http://arxiv.org/abs/2610.42146v1)**  
-  *Published on Oct 30, 2026 | Authors: Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui et al.*  
+- **[WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](http://arxiv.org/abs/2611.03634v1)**  
+  *Published on Nov 02, 2026 | Authors: Zhaoyang Wang, Qianhui Wu, Boyu Gou et al.*  
 
-- **[RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory](http://arxiv.org/abs/2610.42141v1)**  
-  *Published on Oct 30, 2026 | Authors: Shengguang Wu, Suning Huang, Cherie Ho et al.*
+- **[Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap](http://arxiv.org/abs/2611.03633v1)**  
+  *Published on Nov 02, 2026 | Authors: Catherine Li, Jingchu Gai, Andrej Risteski et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (1276 likes)  
-- **[LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)** (Model) (1084 likes)  
-- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (4706 likes)  
-- **[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)** (Model) (684 likes)  
-- **[mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B)** (Model) (1501 likes)
+- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (1308 likes)  
+- **[LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)** (Model) (1262 likes)  
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (4762 likes)  
+- **[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)** (Model) (700 likes)  
+- **[mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B)** (Model) (1515 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-03 01:59:33 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-03 09:18:42 UTC via automated CI/CD pipeline.*
