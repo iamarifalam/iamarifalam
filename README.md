@@ -98,18 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-_Failed to fetch arXiv papers today. Checking back soon!_
+- **[DreamX: Video Diffusion Model is a Universal Latent Action Learner](http://arxiv.org/abs/2611.05377v1)**  
+  *Published on Nov 03, 2026 | Authors: Jisoo Kim, Chaehyun Kim, Junsu Kim et al.*  
+
+- **[From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](http://arxiv.org/abs/2611.05376v1)**  
+  *Published on Nov 03, 2026 | Authors: Hao Fei*  
+
+- **[Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization](http://arxiv.org/abs/2611.05373v1)**  
+  *Published on Nov 03, 2026 | Authors: Austin Tsai, Saurav Nanda, Ganapathy Parthasarathy et al.*  
+
+- **[PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning](http://arxiv.org/abs/2611.05372v1)**  
+  *Published on Nov 03, 2026 | Authors: Yuhan Liu, Xinqi Liu, Zixuan Dong et al.*  
+
+- **[GUILD: Guided Iterative Data Collection for Imitation Learning](http://arxiv.org/abs/2611.05368v1)**  
+  *Published on Nov 03, 2026 | Authors: Shivin Dass, Kevin Nguyen, Rohan Yelandur et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (1355 likes)  
-- **[LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)** (Model) (1413 likes)  
-- **[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)** (Model) (741 likes)  
-- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (4865 likes)  
-- **[mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B)** (Model) (1551 likes)
+- **[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)** (Model) (1395 likes)  
+- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (1369 likes)  
+- **[LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)** (Model) (1457 likes)  
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (5226 likes)  
+- **[mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B)** (Model) (1574 likes)
 
 ---
 
@@ -185,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-04 04:29:53 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-04 13:39:33 UTC via automated CI/CD pipeline.*
