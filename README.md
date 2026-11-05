@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[DreamX: Video Diffusion Model is a Universal Latent Action Learner](http://arxiv.org/abs/2611.05377v1)**  
-  *Published on Nov 03, 2026 | Authors: Jisoo Kim, Chaehyun Kim, Junsu Kim et al.*  
+- **[A Framework for Context Enrichment and Selective Robustness in LLM Social Agents](http://arxiv.org/abs/2611.06914v1)**  
+  *Published on Nov 04, 2026 | Authors: Mattia Greiche, Reihaneh Rabbany, Maximilian Puelma Touzel*  
 
-- **[From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](http://arxiv.org/abs/2611.05376v1)**  
-  *Published on Nov 03, 2026 | Authors: Hao Fei*  
+- **[FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors](http://arxiv.org/abs/2611.06912v1)**  
+  *Published on Nov 04, 2026 | Authors: Nicolas Tricard, Linzheng Wang, Jason Chen et al.*  
 
-- **[Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization](http://arxiv.org/abs/2611.05373v1)**  
-  *Published on Nov 03, 2026 | Authors: Austin Tsai, Saurav Nanda, Ganapathy Parthasarathy et al.*  
+- **[BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories](http://arxiv.org/abs/2611.06911v1)**  
+  *Published on Nov 04, 2026 | Authors: Fei Lin, Tengchao Zhang, Ziyang Gong et al.*  
 
-- **[PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning](http://arxiv.org/abs/2611.05372v1)**  
-  *Published on Nov 03, 2026 | Authors: Yuhan Liu, Xinqi Liu, Zixuan Dong et al.*  
+- **[FrontierPhysics: Evaluating Agents for End-to-End Physics Research](http://arxiv.org/abs/2611.06910v1)**  
+  *Published on Nov 04, 2026 | Authors: Bingran You, Wenjun Ke, Ria Rosenauer et al.*  
 
-- **[GUILD: Guided Iterative Data Collection for Imitation Learning](http://arxiv.org/abs/2611.05368v1)**  
-  *Published on Nov 03, 2026 | Authors: Shivin Dass, Kevin Nguyen, Rohan Yelandur et al.*
+- **[Perceptive Humanoid Motion from Simulation](http://arxiv.org/abs/2611.06908v1)**  
+  *Published on Nov 04, 2026 | Authors: Siyuan Hu, Abulikemu Abuduweili, Yue Meng et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)** (Model) (1493 likes)  
-- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (1388 likes)  
-- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (5274 likes)  
-- **[speridlabs/idol](https://huggingface.co/speridlabs/idol)** (Model) (619 likes)  
-- **[LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B)** (Model) (1486 likes)
+- **[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)** (Model) (3023 likes)  
+- **[moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** (Model) (663 likes)  
+- **[speridlabs/idol](https://huggingface.co/speridlabs/idol)** (Model) (655 likes)  
+- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (1397 likes)  
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** (Model) (5306 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-05 01:57:08 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-05 09:01:08 UTC via automated CI/CD pipeline.*
