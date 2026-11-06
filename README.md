@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[A Framework for Context Enrichment and Selective Robustness in LLM Social Agents](http://arxiv.org/abs/2611.06914v1)**  
-  *Published on Nov 04, 2026 | Authors: Mattia Greiche, Reihaneh Rabbany, Maximilian Puelma Touzel*  
+- **[User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)**  
+  *Published on Nov 05, 2026 | Authors: Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen et al.*  
 
-- **[FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors](http://arxiv.org/abs/2611.06912v1)**  
-  *Published on Nov 04, 2026 | Authors: Nicolas Tricard, Linzheng Wang, Jason Chen et al.*  
+- **[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](http://arxiv.org/abs/2611.08483v1)**  
+  *Published on Nov 05, 2026 | Authors: Qile Jiang, George Em Karniadakis*  
 
-- **[BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories](http://arxiv.org/abs/2611.06911v1)**  
-  *Published on Nov 04, 2026 | Authors: Fei Lin, Tengchao Zhang, Ziyang Gong et al.*  
+- **[Scientist World: Grow a Research World for AI-Scientists](http://arxiv.org/abs/2611.08478v1)**  
+  *Published on Nov 05, 2026 | Authors: Taiming Lu, Sachin Konan, Zhuang Liu*  
 
-- **[FrontierPhysics: Evaluating Agents for End-to-End Physics Research](http://arxiv.org/abs/2611.06910v1)**  
-  *Published on Nov 04, 2026 | Authors: Bingran You, Wenjun Ke, Ria Rosenauer et al.*  
+- **[XStack: A Benchmark for ML Repo Migration](http://arxiv.org/abs/2611.08472v1)**  
+  *Published on Nov 05, 2026 | Authors: Linrong Cai, Taiming Lu, Haozhe Chen et al.*  
 
-- **[Perceptive Humanoid Motion from Simulation](http://arxiv.org/abs/2611.06908v1)**  
-  *Published on Nov 04, 2026 | Authors: Siyuan Hu, Abulikemu Abuduweili, Yue Meng et al.*
+- **[Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information](http://arxiv.org/abs/2611.08469v1)**  
+  *Published on Nov 05, 2026 | Authors: Linqian Wu, Diaoxuan He*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** (Model) (905 likes)  
-- **[speridlabs/idol](https://huggingface.co/speridlabs/idol)** (Model) (762 likes)  
-- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (1413 likes)  
-- **[Pika-Labs/Pika-H3-Flex](https://huggingface.co/Pika-Labs/Pika-H3-Flex)** (Model) (470 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (10720 likes)
+- **[moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** (Model) (947 likes)  
+- **[speridlabs/idol](https://huggingface.co/speridlabs/idol)** (Model) (803 likes)  
+- **[nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)** (Dataset) (1416 likes)  
+- **[ccore/Qwen3.5-4B-3D-Coder](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder)** (Model) (716 likes)  
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (10746 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-05 23:10:15 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-06 04:45:18 UTC via automated CI/CD pipeline.*
