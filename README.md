@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)**  
-  *Published on Nov 05, 2026 | Authors: Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen et al.*  
+- **[On Agentic Manipulation Policies](http://arxiv.org/abs/2611.09892v1)**  
+  *Published on Nov 06, 2026 | Authors: Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji et al.*  
 
-- **[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](http://arxiv.org/abs/2611.08483v1)**  
-  *Published on Nov 05, 2026 | Authors: Qile Jiang, George Em Karniadakis*  
+- **[CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse](http://arxiv.org/abs/2611.09891v1)**  
+  *Published on Nov 06, 2026 | Authors: Peter Belcak, Greg Heinrich, Saurav Muralidharan et al.*  
 
-- **[Scientist World: Grow a Research World for AI-Scientists](http://arxiv.org/abs/2611.08478v1)**  
-  *Published on Nov 05, 2026 | Authors: Taiming Lu, Sachin Konan, Zhuang Liu*  
+- **[On the (non-)closedness of the set of ReLU networks](http://arxiv.org/abs/2611.09887v1)**  
+  *Published on Nov 06, 2026 | Authors: Eloi Martinet, Leon Bungert*  
 
-- **[XStack: A Benchmark for ML Repo Migration](http://arxiv.org/abs/2611.08472v1)**  
-  *Published on Nov 05, 2026 | Authors: Linrong Cai, Taiming Lu, Haozhe Chen et al.*  
+- **[FlowMoP: Stochastic Multi-Person Motion Prediction](http://arxiv.org/abs/2611.09882v1)**  
+  *Published on Nov 06, 2026 | Authors: Aadya Agrawal, Ho Kei Cheng, Alexander Schwing*  
 
-- **[Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information](http://arxiv.org/abs/2611.08469v1)**  
-  *Published on Nov 05, 2026 | Authors: Linqian Wu, Diaoxuan He*
+- **[Graded convolutional networks: scale invariance without the scale and robustness to unknown blur](http://arxiv.org/abs/2611.09878v1)**  
+  *Published on Nov 06, 2026 | Authors: Tanush Shaska*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[speridlabs/idol](https://huggingface.co/speridlabs/idol)** (Model) (1387 likes)  
-- **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)** (Model) (842 likes)  
-- **[moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** (Model) (1729 likes)  
-- **[ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview)** (Model) (403 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (11136 likes)
+- **[speridlabs/idol](https://huggingface.co/speridlabs/idol)** (Model) (1454 likes)  
+- **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)** (Model) (938 likes)  
+- **[moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** (Model) (1750 likes)  
+- **[ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview)** (Model) (421 likes)  
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (11161 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-09 01:21:57 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-09 08:57:48 UTC via automated CI/CD pipeline.*
