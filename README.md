@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Hybrid Source Code Change Impact Analysis](http://arxiv.org/abs/2611.10958v1)**  
-  *Published on Nov 07, 2026 | Authors: Katharina Stengg, Christian Macho, Martin Pinzger*  
+- **[Guiding Data Allocation for Robust Subpopulation Generalization](http://arxiv.org/abs/2611.12884v1)**  
+  *Published on Nov 09, 2026 | Authors: Zhaoying Pan, Yipei Wang, Shenyu Lu et al.*  
 
-- **[Risk-Sensitive Reinforcement Learning for an Options Market Maker: An Empirical Study with Real S&P 500 Options](http://arxiv.org/abs/2611.10956v1)**  
-  *Published on Nov 07, 2026 | Authors: Jacky Chen, Ing-Haw Cheng, John Hull et al.*  
+- **[Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics](http://arxiv.org/abs/2611.12880v1)**  
+  *Published on Nov 09, 2026 | Authors: Majdi Hassan, Marta Skreta, Dominique Beaini et al.*  
 
-- **[Interpretable Cyber-Physical Attack Detection in Smart Grids: A Leakage-Controlled Multi-Testbed Evaluation of Fusion, Robustness, and Observability Limits](http://arxiv.org/abs/2611.10950v1)**  
-  *Published on Nov 07, 2026 | Authors: Muhammad Ridwanul Hoquea, Sarah Sharif, Reza Saeed Kandezy et al.*  
+- **[Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels](http://arxiv.org/abs/2611.12878v1)**  
+  *Published on Nov 09, 2026 | Authors: Sreejeet Maity, Aritra Mitra*  
 
-- **[CoupledFlow: One-Step Neural Operators for Coupled Multi-Physics PDEs](http://arxiv.org/abs/2611.10945v1)**  
-  *Published on Nov 07, 2026 | Authors: Trong Khiem Tran, Minh Long Bui, Phi Le Nguyen et al.*  
+- **[HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents](http://arxiv.org/abs/2611.12872v1)**  
+  *Published on Nov 09, 2026 | Authors: Haozhen Zhang, Bohan Liu, Jianzhu Bao et al.*  
 
-- **[Semantic Synthesis over Brute-Force Search: LLM-Guided Transformation Design for Efficient Learning](http://arxiv.org/abs/2611.10940v1)**  
-  *Published on Nov 07, 2026 | Authors: Usha Shrestha, Radu Timofte, Dmitry Ignatov*
+- **[Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection](http://arxiv.org/abs/2611.12871v1)**  
+  *Published on Nov 09, 2026 | Authors: Amey Pasarkar, Adji Bousso Dieng*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[speridlabs/idol](https://huggingface.co/speridlabs/idol)** (Model) (1657 likes)  
-- **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)** (Model) (1066 likes)  
-- **[moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** (Model) (1802 likes)  
-- **[ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview)** (Model) (456 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (11277 likes)
+- **[speridlabs/idol](https://huggingface.co/speridlabs/idol)** (Model) (1740 likes)  
+- **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)** (Model) (1118 likes)  
+- **[moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** (Model) (1825 likes)  
+- **[ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview)** (Model) (469 likes)  
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (11308 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-10 03:56:01 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-10 12:03:42 UTC via automated CI/CD pipeline.*
