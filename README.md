@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[On Agentic Manipulation Policies](http://arxiv.org/abs/2611.09892v1)**  
-  *Published on Nov 06, 2026 | Authors: Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji et al.*  
+- **[Hybrid Source Code Change Impact Analysis](http://arxiv.org/abs/2611.10958v1)**  
+  *Published on Nov 07, 2026 | Authors: Katharina Stengg, Christian Macho, Martin Pinzger*  
 
-- **[CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse](http://arxiv.org/abs/2611.09891v1)**  
-  *Published on Nov 06, 2026 | Authors: Peter Belcak, Greg Heinrich, Saurav Muralidharan et al.*  
+- **[Risk-Sensitive Reinforcement Learning for an Options Market Maker: An Empirical Study with Real S&P 500 Options](http://arxiv.org/abs/2611.10956v1)**  
+  *Published on Nov 07, 2026 | Authors: Jacky Chen, Ing-Haw Cheng, John Hull et al.*  
 
-- **[On the (non-)closedness of the set of ReLU networks](http://arxiv.org/abs/2611.09887v1)**  
-  *Published on Nov 06, 2026 | Authors: Eloi Martinet, Leon Bungert*  
+- **[Interpretable Cyber-Physical Attack Detection in Smart Grids: A Leakage-Controlled Multi-Testbed Evaluation of Fusion, Robustness, and Observability Limits](http://arxiv.org/abs/2611.10950v1)**  
+  *Published on Nov 07, 2026 | Authors: Muhammad Ridwanul Hoquea, Sarah Sharif, Reza Saeed Kandezy et al.*  
 
-- **[FlowMoP: Stochastic Multi-Person Motion Prediction](http://arxiv.org/abs/2611.09882v1)**  
-  *Published on Nov 06, 2026 | Authors: Aadya Agrawal, Ho Kei Cheng, Alexander Schwing*  
+- **[CoupledFlow: One-Step Neural Operators for Coupled Multi-Physics PDEs](http://arxiv.org/abs/2611.10945v1)**  
+  *Published on Nov 07, 2026 | Authors: Trong Khiem Tran, Minh Long Bui, Phi Le Nguyen et al.*  
 
-- **[Graded convolutional networks: scale invariance without the scale and robustness to unknown blur](http://arxiv.org/abs/2611.09878v1)**  
-  *Published on Nov 06, 2026 | Authors: Tanush Shaska*
+- **[Semantic Synthesis over Brute-Force Search: LLM-Guided Transformation Design for Efficient Learning](http://arxiv.org/abs/2611.10940v1)**  
+  *Published on Nov 07, 2026 | Authors: Usha Shrestha, Radu Timofte, Dmitry Ignatov*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[speridlabs/idol](https://huggingface.co/speridlabs/idol)** (Model) (1586 likes)  
-- **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)** (Model) (1022 likes)  
-- **[moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** (Model) (1784 likes)  
-- **[ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview)** (Model) (446 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (11244 likes)
+- **[speridlabs/idol](https://huggingface.co/speridlabs/idol)** (Model) (1657 likes)  
+- **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)** (Model) (1066 likes)  
+- **[moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** (Model) (1802 likes)  
+- **[ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview)** (Model) (456 likes)  
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (11277 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-09 20:21:06 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-10 03:56:01 UTC via automated CI/CD pipeline.*
