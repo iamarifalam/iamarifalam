@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Guiding Data Allocation for Robust Subpopulation Generalization](http://arxiv.org/abs/2611.12884v1)**  
-  *Published on Nov 09, 2026 | Authors: Zhaoying Pan, Yipei Wang, Shenyu Lu et al.*  
+- **[Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](http://arxiv.org/abs/2611.14519v1)**  
+  *Published on Nov 10, 2026 | Authors: Emre Kutlusan, Yongmin Li*  
 
-- **[Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics](http://arxiv.org/abs/2611.12880v1)**  
-  *Published on Nov 09, 2026 | Authors: Majdi Hassan, Marta Skreta, Dominique Beaini et al.*  
+- **[Toward Foundation Detection Models via Example-Based Grounding in EM-DETR](http://arxiv.org/abs/2611.14518v1)**  
+  *Published on Nov 10, 2026 | Authors: Sheethal Bhat, Bogdan Georgescu, Awais Mansoor et al.*  
 
-- **[Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels](http://arxiv.org/abs/2611.12878v1)**  
-  *Published on Nov 09, 2026 | Authors: Sreejeet Maity, Aritra Mitra*  
+- **[TorchCurves: Differentiable Parametric Curves](http://arxiv.org/abs/2611.14516v1)**  
+  *Published on Nov 10, 2026 | Authors: Alex Shtoff*  
 
-- **[HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents](http://arxiv.org/abs/2611.12872v1)**  
-  *Published on Nov 09, 2026 | Authors: Haozhen Zhang, Bohan Liu, Jianzhu Bao et al.*  
+- **[AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](http://arxiv.org/abs/2611.14515v1)**  
+  *Published on Nov 10, 2026 | Authors: Zijian Zhang, Rizhen Hu, Jiangweizhi Peng et al.*  
 
-- **[Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection](http://arxiv.org/abs/2611.12871v1)**  
-  *Published on Nov 09, 2026 | Authors: Amey Pasarkar, Adji Bousso Dieng*
+- **[Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1)**  
+  *Published on Nov 10, 2026 | Authors: Ziang Liu, James J. Kim, Yijia Dai et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)** (Model) (1205 likes)  
-- **[speridlabs/idol](https://huggingface.co/speridlabs/idol)** (Model) (1874 likes)  
-- **[moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** (Model) (1867 likes)  
-- **[ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview)** (Model) (487 likes)  
-- **[Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m)** (Dataset) (319 likes)
+- **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)** (Model) (1275 likes)  
+- **[speridlabs/idol](https://huggingface.co/speridlabs/idol)** (Model) (1908 likes)  
+- **[moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** (Model) (1887 likes)  
+- **[MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)** (Model) (542 likes)  
+- **[ricursiveAI/Ripple-65B-Preview](https://huggingface.co/ricursiveAI/Ripple-65B-Preview)** (Model) (490 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-11 01:39:40 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-11 08:44:44 UTC via automated CI/CD pipeline.*
