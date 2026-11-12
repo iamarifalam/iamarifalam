@@ -118,11 +118,11 @@ Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.C
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)** (Model) (4141 likes)  
-- **[MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)** (Model) (758 likes)  
-- **[Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m)** (Dataset) (393 likes)  
-- **[speridlabs/idol](https://huggingface.co/speridlabs/idol)** (Model) (2161 likes)  
-- **[NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B)** (Model) (443 likes)
+- **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)** (Model) (4647 likes)  
+- **[MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)** (Model) (829 likes)  
+- **[Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m)** (Dataset) (419 likes)  
+- **[speridlabs/idol](https://huggingface.co/speridlabs/idol)** (Model) (2201 likes)  
+- **[NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B)** (Model) (466 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-12 06:01:39 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-12 16:29:47 UTC via automated CI/CD pipeline.*
