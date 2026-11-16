@@ -98,31 +98,18 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Unbundling Multimodal Vision Encoding](http://arxiv.org/abs/2611.17334v1)**  
-  *Published on Nov 12, 2026 | Authors: Ellis Brown, Chris Hoang, Shengyi Qian et al.*  
-
-- **[ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research](http://arxiv.org/abs/2611.17332v1)**  
-  *Published on Nov 12, 2026 | Authors: Jie Wang, Tong Zhu, JiaHao Kuang et al.*  
-
-- **[Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation](http://arxiv.org/abs/2611.17329v1)**  
-  *Published on Nov 12, 2026 | Authors: Zeynep Yıldız, Satchit Chatterji, Ercan Atam et al.*  
-
-- **[AgentSSL: Can MLE Agents Leverage Unlabeled Data?](http://arxiv.org/abs/2611.17323v1)**  
-  *Published on Nov 12, 2026 | Authors: Ethan Lin, Akanksha Sarkar, Ziang Liu et al.*  
-
-- **[Learning When Diffusion Language Models Should Regenerate](http://arxiv.org/abs/2611.17320v1)**  
-  *Published on Nov 12, 2026 | Authors: Minhae Oh, Jeonghye Kim, Jinwoo Koo et al.*
+_Failed to fetch arXiv papers today. Checking back soon!_
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)** (Model) (7515 likes)  
-- **[MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)** (Model) (1176 likes)  
-- **[Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m)** (Dataset) (502 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (20111 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (12052 likes)
+- **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)** (Model) (7563 likes)  
+- **[MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)** (Model) (1200 likes)  
+- **[Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m)** (Dataset) (507 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (20137 likes)  
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (12080 likes)
 
 ---
 
@@ -198,4 +185,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-15 22:23:51 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-16 04:23:40 UTC via automated CI/CD pipeline.*
