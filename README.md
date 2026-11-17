@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion](http://arxiv.org/abs/2611.18563v1)**  
-  *Published on Nov 13, 2026 | Authors: Daniel Grimm, Kyra Jongman, Renato Cordeiro Ferreira et al.*  
+- **[Anchoring Motion, Refining Trajectories: Generalizable Continuous Neural Decoding](http://arxiv.org/abs/2611.21335v1)**  
+  *Published on Nov 16, 2026 | Authors: Fanqi Shen, Junru Chen, Surui Cheng et al.*  
 
-- **[FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices](http://arxiv.org/abs/2611.18561v1)**  
-  *Published on Nov 13, 2026 | Authors: Jonathan D. McCart, Pranav I. Deevi, Mehdi Azabou et al.*  
+- **[TRIAGE-CPG: A Cross-Model Study of Budgeted Static Malware Triage with Large Language Models](http://arxiv.org/abs/2611.21331v1)**  
+  *Published on Nov 16, 2026 | Authors: Paul-Andrei Sava, Alexander Küchler, Daniel Kowatsch et al.*  
 
-- **[Training Reasoning Models in Simulation to Natively Use Real Robots](http://arxiv.org/abs/2611.18562v1)**  
-  *Published on Nov 13, 2026 | Authors: Jiaming Tang, Zhuoyang Zhang, Junxian Guo et al.*  
+- **[Wavelet-Energy-Driven Dynamic Patching for Time Series Forecasting](http://arxiv.org/abs/2611.21319v1)**  
+  *Published on Nov 16, 2026 | Authors: Syed Hafiz Bin Salim Alsree, Stephen Roberts, Stefan Zohren*  
 
-- **[BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations](http://arxiv.org/abs/2611.18559v1)**  
-  *Published on Nov 13, 2026 | Authors: Genki Kinoshita, Ko Nishino*  
+- **[Benchleaking Is Accelerating: Benchmark contamination has worsened sharply in the past month -- from post-training down to pre-training base models](http://arxiv.org/abs/2611.21315v1)**  
+  *Published on Nov 16, 2026 | Authors: Yiwei Qin, Muhang Xie, Xuefeng Li et al.*  
 
-- **[WeightBench: Evaluating Language Models as Weight-Space Programmers](http://arxiv.org/abs/2611.18553v1)**  
-  *Published on Nov 13, 2026 | Authors: Aayush Marasini, Barsat Khadka, Nick Rahimi*
+- **[Can AI Mature a Model's Geometry? Training-Free Weight Baking in LLMs](http://arxiv.org/abs/2611.21310v1)**  
+  *Published on Nov 16, 2026 | Authors: Amin Golnari, Saeid Sanei*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)** (Model) (8668 likes)  
-- **[MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)** (Model) (1310 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (20262 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (12224 likes)  
-- **[Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image)** (Model) (479 likes)
+- **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)** (Model) (9320 likes)  
+- **[MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)** (Model) (1346 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (20302 likes)  
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (12288 likes)  
+- **[Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image)** (Model) (501 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-16 23:56:36 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-17 06:38:53 UTC via automated CI/CD pipeline.*
