@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Latent Lattice Language Models](http://arxiv.org/abs/2611.21608v1)**  
-  *Published on Nov 16, 2026 | Authors: Shivam Duggal, Zongze Wu, William T. Freeman et al.*  
+- **[Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](http://arxiv.org/abs/2611.23229v1)**  
+  *Published on Nov 17, 2026 | Authors: Giannis Daras, Marios Papachristou, Adam Klivans et al.*  
 
-- **[ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization](http://arxiv.org/abs/2611.21605v1)**  
-  *Published on Nov 16, 2026 | Authors: Huawei Lin, Jinting Liu, Tongyan Wang et al.*  
+- **[Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models](http://arxiv.org/abs/2611.23228v1)**  
+  *Published on Nov 17, 2026 | Authors: Rui Ning, Om Chabra, Hari Balakrishnan*  
 
-- **[Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction](http://arxiv.org/abs/2611.21602v1)**  
-  *Published on Nov 16, 2026 | Authors: Ilia Azizi, Frederick Iat-Hin Tam, Marc-Olivier Boldi et al.*  
+- **[StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics](http://arxiv.org/abs/2611.23225v1)**  
+  *Published on Nov 17, 2026 | Authors: Xingyang Yu*  
 
-- **[How VLMs Plan What's Next](http://arxiv.org/abs/2611.21600v1)**  
-  *Published on Nov 16, 2026 | Authors: Rohit Gandikota, Arnab Sen Sharma, Adam Belfki et al.*  
+- **[An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization](http://arxiv.org/abs/2611.23221v1)**  
+  *Published on Nov 17, 2026 | Authors: Zhaosong Lu, Yifeng Xiao*  
 
-- **[Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks](http://arxiv.org/abs/2611.21599v1)**  
-  *Published on Nov 16, 2026 | Authors: Brian Yarbrough, Jesse Wayment, Jingbo Wang et al.*
+- **[Do LLM Agents Still Need to Be Told How to Self-Improve?](http://arxiv.org/abs/2611.23219v1)**  
+  *Published on Nov 17, 2026 | Authors: Shobhita Sundaram, Cansu Sancaktar, Phillip Isola*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)** (Model) (1459 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (20429 likes)  
-- **[higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)** (Model) (500 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (12402 likes)  
-- **[thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small)** (Model) (441 likes)
+- **[MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)** (Model) (1547 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (20501 likes)  
+- **[higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)** (Model) (564 likes)  
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (12463 likes)  
+- **[thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small)** (Model) (470 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-18 00:23:31 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-18 09:38:53 UTC via automated CI/CD pipeline.*
