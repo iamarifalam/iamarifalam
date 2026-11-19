@@ -118,11 +118,11 @@ Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.C
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)** (Model) (1505 likes)  
-- **[Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security)** (Dataset) (1236 likes)  
-- **[tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash)** (Model) (273 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (20598 likes)  
-- **[MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)** (Model) (1602 likes)
+- **[higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)** (Model) (3231 likes)  
+- **[Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security)** (Dataset) (1254 likes)  
+- **[tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash)** (Model) (316 likes)  
+- **[apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L)** (Model) (288 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (20644 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-19 09:45:04 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-19 18:46:58 UTC via automated CI/CD pipeline.*
