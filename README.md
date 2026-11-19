@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](http://arxiv.org/abs/2611.23229v1)**  
-  *Published on Nov 17, 2026 | Authors: Giannis Daras, Marios Papachristou, Adam Klivans et al.*  
+- **[Jailbreak Detection on Large Language Models via Contrastive Prototype Structures](http://arxiv.org/abs/2611.24936v1)**  
+  *Published on Nov 18, 2026 | Authors: Yan Qiu, Yuanyuan Li*  
 
-- **[Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models](http://arxiv.org/abs/2611.23228v1)**  
-  *Published on Nov 17, 2026 | Authors: Rui Ning, Om Chabra, Hari Balakrishnan*  
+- **[Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems](http://arxiv.org/abs/2611.24932v1)**  
+  *Published on Nov 18, 2026 | Authors: Priyanka Sinha, Sugam Pandey*  
 
-- **[StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics](http://arxiv.org/abs/2611.23225v1)**  
-  *Published on Nov 17, 2026 | Authors: Xingyang Yu*  
+- **[Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem](http://arxiv.org/abs/2611.24927v1)**  
+  *Published on Nov 18, 2026 | Authors: Sarah H. Cen, Lindsey A. Gailmard, Joohan Kim et al.*  
 
-- **[An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization](http://arxiv.org/abs/2611.23221v1)**  
-  *Published on Nov 17, 2026 | Authors: Zhaosong Lu, Yifeng Xiao*  
+- **[Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses](http://arxiv.org/abs/2611.24924v1)**  
+  *Published on Nov 18, 2026 | Authors: Jiahang Lin, Jiahao Chen, Yiding Wang et al.*  
 
-- **[Do LLM Agents Still Need to Be Told How to Self-Improve?](http://arxiv.org/abs/2611.23219v1)**  
-  *Published on Nov 17, 2026 | Authors: Shobhita Sundaram, Cansu Sancaktar, Phillip Isola*
+- **[Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation](http://arxiv.org/abs/2611.24908v1)**  
+  *Published on Nov 18, 2026 | Authors: Samet Demir, Zafer Dogan*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)** (Model) (687 likes)  
-- **[harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted)** (Model) (415 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (12562 likes)  
-- **[thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small)** (Model) (493 likes)  
-- **[Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security)** (Dataset) (1226 likes)
+- **[higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)** (Model) (1505 likes)  
+- **[Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security)** (Dataset) (1236 likes)  
+- **[tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash)** (Model) (273 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (20598 likes)  
+- **[MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)** (Model) (1602 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-19 01:37:14 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-19 09:45:04 UTC via automated CI/CD pipeline.*
