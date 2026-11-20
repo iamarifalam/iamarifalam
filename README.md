@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Jailbreak Detection on Large Language Models via Contrastive Prototype Structures](http://arxiv.org/abs/2611.24936v1)**  
-  *Published on Nov 18, 2026 | Authors: Yan Qiu, Yuanyuan Li*  
+- **[RL Post-Training in Diffusion Transformers Is Activation Steering](http://arxiv.org/abs/2611.26627v1)**  
+  *Published on Nov 19, 2026 | Authors: Tuna Han Salih Meral, Kaan Oktay, Alec Helbling et al.*  
 
-- **[Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems](http://arxiv.org/abs/2611.24932v1)**  
-  *Published on Nov 18, 2026 | Authors: Priyanka Sinha, Sugam Pandey*  
+- **[PlayCraft: Designing Engaging Games from Agent Play Experience](http://arxiv.org/abs/2611.26624v1)**  
+  *Published on Nov 19, 2026 | Authors: Weihao Cheng*  
 
-- **[Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem](http://arxiv.org/abs/2611.24927v1)**  
-  *Published on Nov 18, 2026 | Authors: Sarah H. Cen, Lindsey A. Gailmard, Joohan Kim et al.*  
+- **[TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming](http://arxiv.org/abs/2611.26619v1)**  
+  *Published on Nov 19, 2026 | Authors: Jinbin Luo, Xiaozhe Yao, Shang Yang et al.*  
 
-- **[Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses](http://arxiv.org/abs/2611.24924v1)**  
-  *Published on Nov 18, 2026 | Authors: Jiahang Lin, Jiahao Chen, Yiding Wang et al.*  
+- **[One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning](http://arxiv.org/abs/2611.26617v1)**  
+  *Published on Nov 19, 2026 | Authors: Yuxin Jiang, Wenqiang Sun, Jiaqi Li et al.*  
 
-- **[Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation](http://arxiv.org/abs/2611.24908v1)**  
-  *Published on Nov 18, 2026 | Authors: Samet Demir, Zafer Dogan*
+- **[AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control](http://arxiv.org/abs/2611.26613v1)**  
+  *Published on Nov 19, 2026 | Authors: Yiyang Du, Yuxuan Kuang, Qitao Zhao et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)** (Model) (3645 likes)  
-- **[Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security)** (Dataset) (1273 likes)  
-- **[tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash)** (Model) (346 likes)  
-- **[apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L)** (Model) (332 likes)  
-- **[harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted)** (Model) (739 likes)
+- **[tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash)** (Model) (389 likes)  
+- **[higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)** (Model) (3693 likes)  
+- **[apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L)** (Model) (364 likes)  
+- **[Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security)** (Dataset) (1287 likes)  
+- **[inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator)** (Model) (309 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-20 01:35:31 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-20 09:32:52 UTC via automated CI/CD pipeline.*
