@@ -98,31 +98,18 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[RL Post-Training in Diffusion Transformers Is Activation Steering](http://arxiv.org/abs/2611.26627v1)**  
-  *Published on Nov 19, 2026 | Authors: Tuna Han Salih Meral, Kaan Oktay, Alec Helbling et al.*  
-
-- **[PlayCraft: Designing Engaging Games from Agent Play Experience](http://arxiv.org/abs/2611.26624v1)**  
-  *Published on Nov 19, 2026 | Authors: Weihao Cheng*  
-
-- **[TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming](http://arxiv.org/abs/2611.26619v1)**  
-  *Published on Nov 19, 2026 | Authors: Jinbin Luo, Xiaozhe Yao, Shang Yang et al.*  
-
-- **[One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning](http://arxiv.org/abs/2611.26617v1)**  
-  *Published on Nov 19, 2026 | Authors: Yuxin Jiang, Wenqiang Sun, Jiaqi Li et al.*  
-
-- **[AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control](http://arxiv.org/abs/2611.26613v1)**  
-  *Published on Nov 19, 2026 | Authors: Yiyang Du, Yuxuan Kuang, Qitao Zhao et al.*
+_Failed to fetch arXiv papers today. Checking back soon!_
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)** (Model) (4606 likes)  
-- **[harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted)** (Model) (834 likes)  
-- **[Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security)** (Dataset) (1298 likes)  
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (20767 likes)  
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** (Model) (12840 likes)
+- **[higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)** (Model) (5440 likes)  
+- **[harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted)** (Model) (863 likes)  
+- **[Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security)** (Dataset) (1321 likes)  
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** (Model) (20803 likes)  
+- **[thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini)** (Model) (605 likes)
 
 ---
 
@@ -198,4 +185,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-20 18:13:42 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-21 01:01:39 UTC via automated CI/CD pipeline.*
