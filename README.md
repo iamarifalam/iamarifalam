@@ -98,18 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-_Failed to fetch arXiv papers today. Checking back soon!_
+- **[RL Post-Training in Diffusion Transformers Is Activation Steering](http://arxiv.org/abs/2611.26627v1)**  
+  *Published on Nov 19, 2026 | Authors: Tuna Han Salih Meral, Kaan Oktay, Alec Helbling et al.*  
+
+- **[PlayCraft: Designing Engaging Games from Agent Play Experience](http://arxiv.org/abs/2611.26624v1)**  
+  *Published on Nov 19, 2026 | Authors: Weihao Cheng*  
+
+- **[TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming](http://arxiv.org/abs/2611.26619v1)**  
+  *Published on Nov 19, 2026 | Authors: Jinbin Luo, Xiaozhe Yao, Shang Yang et al.*  
+
+- **[One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning](http://arxiv.org/abs/2611.26617v1)**  
+  *Published on Nov 19, 2026 | Authors: Yuxin Jiang, Wenqiang Sun, Jiaqi Li et al.*  
+
+- **[AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control](http://arxiv.org/abs/2611.26613v1)**  
+  *Published on Nov 19, 2026 | Authors: Yiyang Du, Yuxuan Kuang, Qitao Zhao et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini)** (Model) (3257 likes)  
-- **[unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF)** (Model) (666 likes)  
-- **[tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash)** (Model) (552 likes)  
-- **[inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator)** (Model) (528 likes)  
-- **[apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L)** (Model) (497 likes)
+- **[thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini)** (Model) (4057 likes)  
+- **[unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF)** (Model) (772 likes)  
+- **[inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator)** (Model) (575 likes)  
+- **[tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash)** (Model) (582 likes)  
+- **[apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L)** (Model) (512 likes)
 
 ---
 
@@ -185,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-22 04:41:45 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-22 13:55:30 UTC via automated CI/CD pipeline.*
