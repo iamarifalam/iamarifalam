@@ -118,11 +118,11 @@ Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.C
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini)** (Model) (4796 likes)  
-- **[unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF)** (Model) (852 likes)  
-- **[inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator)** (Model) (614 likes)  
-- **[harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted)** (Model) (985 likes)  
-- **[higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)** (Model) (887 likes)
+- **[thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini)** (Model) (5012 likes)  
+- **[unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF)** (Model) (890 likes)  
+- **[inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator)** (Model) (639 likes)  
+- **[tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash)** (Model) (621 likes)  
+- **[harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted)** (Model) (992 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-22 20:33:15 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-23 02:07:54 UTC via automated CI/CD pipeline.*
