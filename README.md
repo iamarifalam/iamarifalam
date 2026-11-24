@@ -98,31 +98,18 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[Optimal Linear Regression Without a Variance](http://arxiv.org/abs/2611.27983v1)**  
-  *Published on Nov 20, 2026 | Authors: Artin Tajdini, Jasper C. H. Lee, Jonathan Scarlett et al.*  
-
-- **[A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning](http://arxiv.org/abs/2611.27978v1)**  
-  *Published on Nov 20, 2026 | Authors: Hari Sitaula, Joseph Opitz*  
-
-- **[MemOnce: A Scalable Memory Architecture for Large Language Models](http://arxiv.org/abs/2611.27973v1)**  
-  *Published on Nov 20, 2026 | Authors: Chang Nie, Chaoyou Fu, Songlin Liu et al.*  
-
-- **[On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals](http://arxiv.org/abs/2611.27970v1)**  
-  *Published on Nov 20, 2026 | Authors: Javier Sanchis, Álvaro Navarro, Jorge García-Carrasco et al.*  
-
-- **[Non-penetrating World Models](http://arxiv.org/abs/2611.27963v1)**  
-  *Published on Nov 20, 2026 | Authors: Yuhang Dai, Yinwei Wu, Ziyue Lin et al.*
+_Failed to fetch arXiv papers today. Checking back soon!_
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini)** (Model) (5496 likes)  
-- **[unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF)** (Model) (1116 likes)  
-- **[inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator)** (Model) (734 likes)  
-- **[Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security)** (Dataset) (1565 likes)  
-- **[AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF)** (Model) (651 likes)
+- **[thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini)** (Model) (5625 likes)  
+- **[unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF)** (Model) (1178 likes)  
+- **[inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator)** (Model) (769 likes)  
+- **[Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security)** (Dataset) (1608 likes)  
+- **[AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF)** (Model) (695 likes)
 
 ---
 
@@ -198,4 +185,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-24 01:28:45 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-24 11:55:28 UTC via automated CI/CD pipeline.*
