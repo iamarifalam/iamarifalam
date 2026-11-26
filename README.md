@@ -98,31 +98,31 @@
 ## 📰 Recent Research Publications (Auto-updating)
 Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.CL, cs.LG):
 
-- **[OmniAct: One Policy, One Million Embodiments](http://arxiv.org/abs/2611.33158v1)**  
-  *Published on Nov 24, 2026 | Authors: Xiang Fan, Yuheng Wang, Jiayuan Yan et al.*  
+- **[Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](http://arxiv.org/abs/2611.34942v1)**  
+  *Published on Nov 25, 2026 | Authors: Yalin E. Sagduyu, Tugba Erpek*  
 
-- **[DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning](http://arxiv.org/abs/2611.33153v1)**  
-  *Published on Nov 24, 2026 | Authors: Binfei Ji, Zhiwen Cao, Anqi Yang et al.*  
+- **[Tokenisation is not in APX](http://arxiv.org/abs/2611.34938v1)**  
+  *Published on Nov 25, 2026 | Authors: Violeta Kastreva, Philip Whittington, Dennis Komm et al.*  
 
-- **[BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles](http://arxiv.org/abs/2611.33151v1)**  
-  *Published on Nov 24, 2026 | Authors: Yuwei Yang, Xiaoxiao Sun, Alejandro Lozano et al.*  
+- **[Can image generation help visual reasoning? An empirical study](http://arxiv.org/abs/2611.34935v1)**  
+  *Published on Nov 25, 2026 | Authors: Xueyang Yu, Yifan Jing, Taiming Lu et al.*  
 
-- **[CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies](http://arxiv.org/abs/2611.33148v1)**  
-  *Published on Nov 24, 2026 | Authors: Dawid J. Kopiczko, Tijmen Blankevoort, Yuki M. Asano*  
+- **[Attack Policy Selection can Mislead Monitor Evaluators](http://arxiv.org/abs/2611.34934v1)**  
+  *Published on Nov 25, 2026 | Authors: Charlie Griffin, Oliver Makins, Asa Cooper Stickland et al.*  
 
-- **[iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction](http://arxiv.org/abs/2611.33141v1)**  
-  *Published on Nov 24, 2026 | Authors: Vansh Kapoor, Max Sobol Mark, Sreyas Venkataraman et al.*
+- **[A gene informed benchmark for BioScoring of pathology foundation models](http://arxiv.org/abs/2611.34930v1)**  
+  *Published on Nov 25, 2026 | Authors: Paul Vilars, Vincent Quoc-Huy Trinh, Maria Vakalopoulou et al.*
 
 ---
 
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini)** (Model) (6042 likes)  
-- **[unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF)** (Model) (1374 likes)  
-- **[Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security)** (Dataset) (1943 likes)  
-- **[inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator)** (Model) (897 likes)  
-- **[AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF)** (Model) (840 likes)
+- **[thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini)** (Model) (6116 likes)  
+- **[unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF)** (Model) (1406 likes)  
+- **[Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security)** (Dataset) (2023 likes)  
+- **[inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator)** (Model) (916 likes)  
+- **[AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF)** (Model) (866 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-26 01:27:24 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-26 10:20:13 UTC via automated CI/CD pipeline.*
