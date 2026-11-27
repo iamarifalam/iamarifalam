@@ -118,11 +118,11 @@ Below are the latest research papers fetched dynamically from arXiv (cs.AI, cs.C
 ## 🔥 Trending Machine Learning Repositories (Auto-updating)
 Below are the top trending models and datasets fetched dynamically from Hugging Face:
 
-- **[thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini)** (Model) (6375 likes)  
-- **[unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF)** (Model) (1543 likes)  
-- **[Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security)** (Dataset) (2179 likes)  
-- **[SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3)** (Model) (1306 likes)  
-- **[AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF)** (Model) (973 likes)
+- **[thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini)** (Model) (6453 likes)  
+- **[unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF)** (Model) (1601 likes)  
+- **[Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security)** (Dataset) (2234 likes)  
+- **[SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3)** (Model) (1365 likes)  
+- **[AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF)** (Model) (1031 likes)
 
 ---
 
@@ -198,4 +198,4 @@ Below are the top trending models and datasets fetched dynamically from Hugging 
 - **Play again**: [Click here to restart the game](README.md#readme-agentic-routing-challenge) or [go to my live visual portfolio](https://iamarifalam.github.io/) to drag and link customized agent pipelines!
 
 ---
-*Last updated: 2026-11-27 13:24:43 UTC via automated CI/CD pipeline.*
+*Last updated: 2026-11-27 22:27:03 UTC via automated CI/CD pipeline.*
